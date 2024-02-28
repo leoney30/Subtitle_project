@@ -15,7 +15,7 @@ Hola, buenas tardes a todos.
 Todo bien, todo bien hoy.
 
 5
-00:00:08,292 --> 00:00:13,414
+00:00:08,867 --> 00:00:13,414
 a descansar un poquito después de la final de ayer, que estuvo intensa, pero contento,
 
 6
@@ -31,12 +31,12 @@ muy contento.
 desde la última de las categorías de ascenso hasta la Copa de la Liga, la FA Cup y todo
 
 9
-00:00:24,518 --> 00:00:30,080
-lo que refiera a la Community Shield y todo eso, todo se juega ahí. Y lo de ayer no fue
+00:00:24,518 --> 00:00:31,025
+lo que refiera a la Community Shield y todo eso, todo se juega ahí. Y lo de ayer no fue la excepción,  
 
 10
-00:00:30,100 --> 00:00:34,582
-la excepción, con lo cual es como un estadio preparado para finales allá.
+00:00:31,025 --> 00:00:34,582
+con lo cual es como un estadio preparado para finales allá.
 
 11
 00:00:36,984 --> 00:00:46,568
@@ -55,19 +55,19 @@ Así que es un estadio muy mítico, un estadio muy lindo, donde, bueno, ayer hab
 un estadio que ya conocía, pero bueno, fue una experiencia muy muy linda y bueno, final feliz.
 
 15
-00:01:12,422 --> 00:01:17,726
-Te has acostumbrado a jugar finales claramente porque 90.000 personas, también había el Lusail,
+00:01:12,422 --> 00:01:18,950
+Te has acostumbrado a jugar finales claramente porque 90.000 personas, también había el Lusail, ¿no? Hay que decir,  
 
 16
-00:01:17,806 --> 00:01:23,510
-¿no? Hay que decir, entonces, se ve que no te apaga, no te intimida que hace una mareo
+00:01:18,950 --> 00:01:24,500
+entonces, se ve que no te apaga, no te intimida que hace una mareo mal ahí en las tribunas. 
 
 17
-00:01:23,550 --> 00:01:30,594
-mal ahí en las tribunas. Sí, bueno, es parte de lo lindo del fútbol, ¿no?, llegar a eso.
+00:01:27,075 --> 00:01:30,594
+ Sí, bueno, es parte de lo lindo del fútbol, ¿no?, llegar a eso.
 
 18
-00:01:31,456 --> 00:01:40,140
+00:01:31,456 --> 00:01:39,040
 A esos momentos donde hay tanta gente disfrutando, sufriendo y mirando esa clase de partidos, es muy lindo.
 
 19
@@ -151,7 +151,7 @@ No me gusta a veces hacer estas cosas, pero creo que ayer...
 se notó bastante la diferencia entre una hechada y la otra.
 
 39
-00:03:57,662 --> 00:04:05,227
+00:03:58,687 --> 00:04:05,227
 Y bueno, creo que eso es lo que hace que el Liverpool sea un club tan especial.
 
 40
@@ -159,7 +159,7 @@ Y bueno, creo que eso es lo que hace que el Liverpool sea un club tan especial.
 Hay una sensación, Alexis, que sucede ya en el mundo de hace buen tiempo,
 
 41
-00:04:11,711 --> 00:04:15,834
+00:04:11,711 --> 00:04:17,109
 y es que los futbolistas, para ser deliti de los principales lugares del planeta, como jugás vos,
 
 42
@@ -167,108 +167,108 @@ y es que los futbolistas, para ser deliti de los principales lugares del planeta
 tienen que tener esa versatilidad de ya no ser un jugador que tenga probablemente
 
 43
-00:04:21,719 --> 00:04:26,403
-una sola característica, que pueda jugar en diferentes lugares de la
+00:04:21,719 --> 00:04:26,750
+una sola característica, que pueda jugar en diferentes lugares de la cancha, 
 
 44
-00:04:26,443 --> 00:04:30,746
-cancha, que puede ir agregándole al menú que trae por ahí más de base otro
+00:04:26,750 --> 00:04:35,700
+ que puede ir agregándole al menú que trae por ahí más de base otro tipo de cualidades y que eso es lo que busca el mundo. 
 
 45
-00:04:30,766 --> 00:04:37,031
-tipo de cualidades y que eso es lo que busca el mundo. Ahora, ya lo tuyo me
+00:04:35,700 --> 00:04:41,175
+ Ahora, ya lo tuyo me parece que ya te pasaste de agregarle cualidades, 
 
 46
-00:04:37,071 --> 00:04:42,115
-parece que ya te pasaste de agregarle cualidades, del Alexis que acá
+00:04:41,175 --> 00:04:45,298
+del Alexis que acá  jugaba de enganche por ahí sin tanto esfuerzo 
 
 47
-00:04:42,155 --> 00:04:45,298
-jugaba de enganche por ahí sin tanto esfuerzo
+00:04:45,860 --> 00:04:49,100
+al que después terminó siendo un interno en la mitad de la cancha,  
 
 48
-00:04:45,860 --> 00:04:48,803
-al que después terminó siendo un interno en la mitad de la
+00:04:49,100 --> 00:04:51,585
+el que ahora es un dueño de mitad de la cancha,
 
 49
-00:04:48,823 --> 00:04:51,585
-cancha, el que ahora es un dueño de mitad de la cancha,
-
-50
 00:04:51,605 --> 00:04:54,387
 casi en zona de volante, pero llegando a definición,
 
-51
+50
 00:04:54,808 --> 00:04:56,169
 pase largo, pase corto.
 
-52
+51
 00:04:56,549 --> 00:04:59,932
 Yo no sé si te preguntan a vos de qué querés jugar o de qué,
 
-53
+52
 00:05:00,132 --> 00:05:02,074
 además, decís, mira, hoy juego acá y me siento bárbaro.
 
-54
+53
 00:05:02,094 --> 00:05:04,456
 Pero, ¿cuál es tu posición ideal?
 
+54
+00:05:04,496 --> 00:05:10,061
+La que vos le contarías a un pibe que por ahí increíblemente no te conoce y te dice, Alexis, ¿y vos de qué jugás? 
+
 55
-00:05:04,496 --> 00:05:08,079
-La que vos le contarías a un pibe que por ahí increíblemente
-
-56
-00:05:08,099 --> 00:05:10,061
-no te conoce y te dice, Alexis, ¿y vos de qué jugás?
-
-57
-00:05:13,272 --> 00:05:19,634
+00:05:13,272 --> 00:05:20,184
 Sí, bueno, quizás en estos últimos años en Europa fue una de las cosas que más mejoré, ¿no?
 
-58
-00:05:19,654 --> 00:05:24,415
+56
+00:05:21,304 --> 00:05:24,415
 Me ha tocado jugar en todas las posiciones.
 
-59
+57
 00:05:25,495 --> 00:05:29,257
 Y como decís, creo que es algo muy importante para un jugador de fútbol, ¿no?
 
-60
+58
 00:05:29,277 --> 00:05:33,698
 Porque le da al final muchísimas más variantes al entrenador y al equipo.
 
-61
-00:05:34,418 --> 00:05:36,138
+59
+00:05:35,068 --> 00:05:36,788
 Y nosotros también hoy en día...
 
-62
-00:05:37,440 --> 00:05:47,947
+60
+00:05:37,440 --> 00:05:46,772
 Estamos en una posición donde, si te fijás, el plantel ayer teníamos la mitad o más de los titulares lesionados, entonces,
 
-63
+61
 00:05:48,007 --> 00:05:54,312
 siempre jugar en varias posiciones le da una ayuda al equipo y al final yo siempre eso es lo que busco,
 
-64
-00:05:54,332 --> 00:05:58,575
+62
+00:05:54,312 --> 00:06:01,605
 ser importante para el equipo y ayudar desde el lugar que pueda.
 
-65
+63
 00:06:02,780 --> 00:06:07,685
 Creo que todos tenemos muy bien claro que cuando llegué la idea era jugar de interno por derecha
 
-66
+64
 00:06:08,205 --> 00:06:13,391
 y después eso fue cambiando y terminé jugando muchísimos partidos de cinco, por ejemplo.
 
-67
-00:06:14,432 --> 00:06:16,935
+65
+00:06:14,882 --> 00:06:17,935
 Y es una posición que también me gusta muchísimo.
 
+66
+00:06:18,418 --> 00:06:23,875
+Hoy, si me preguntás una posición, o la posición que más me guste, no sabría qué decirte, 
+
+67
+00:06:24,850 --> 00:06:30,150
+si te puedo decir que me gusta mucho estar en contacto con la pelota, ahí en el medio 
+
 68
-00:06:18,418 --> 00:06:35,146
-Hoy, si me preguntás una posición, o la posición que más me guste, no sabría qué decirte, si te puedo decir que me gusta mucho estar en contacto con la pelota, ahí en el medio y ser importante y ayudar al equipo, creo que eso es lo principal y lo que siempre intento hacer.
+00:06:30,150 --> 00:06:35,146
+y ser importante y ayudar al equipo, creo que eso es lo principal y lo que siempre intento hacer.
 
 69
 00:06:35,306 --> 00:06:38,568
@@ -291,11 +291,11 @@ sé que es un pedido que te ha hecho gente que te conoce más...
 ¿Adentro del once o por dentro?
 
 74
-00:06:47,253 --> 00:06:51,895
+00:06:47,253 --> 00:06:51,115
 Adentro del once, adentro del once, cualquier cosa adentro del once.
 
 75
-00:06:52,015 --> 00:06:55,017
+00:06:51,115 --> 00:06:55,017
 Yo sé que gente que te conoce más que nosotros te ha pedido lo mismo,
 
 76
@@ -331,7 +331,7 @@ No, que a Salah, que le diga, córrese, córrese, que pateó yo, Alexander Arno,
 Si no te voy, le puse la pelota en la cabeza a Van Dijk, o no.
 
 84
-00:07:17,751 --> 00:07:17,991
+00:07:17,751 --> 00:07:18,626
 Sí.
 
 85
@@ -363,11 +363,11 @@ A veces es más decisión del cuerpo técnico antes del partido, entonces tampoc
 bueno ir a generar un problema en medio del partido, ¿viste?
 
 92
-00:07:52,297 --> 00:07:56,120
+00:07:52,297 --> 00:07:57,145
 Y después otra cosa, obviamente, a ver, yo tengo 25 años, recién llegó al club.
 
 93
-00:07:57,782 --> 00:08:06,744
+00:07:58,757 --> 00:08:06,744
 Y sé muy bien que soy, o me siento, una parte importante, pero a la vez también respeto mucho lo que son los jugadores, ¿no?
 
 94
@@ -383,1214 +383,1098 @@ y creo que el respeto por mi compañera siempre está por encima, pero bueno, ah
 como no estaba Salah, el encargado de patear los penales era yo, lamentablemente no hubo ninguno
 
 97
-00:08:26,489 --> 00:08:32,850
+00:08:26,489 --> 00:08:33,600
 pero bueno, como te digo, son decisiones a veces más del cuerpo técnico y hay que respetarlo.
 
 98
-00:08:36,872 --> 00:08:42,015
+00:08:34,097 --> 00:08:42,015
 por esta decisión que tomó de irse del Liverpool, cómo se los comunicó a ustedes y en algún
 
 99
-00:08:42,035 --> 00:08:47,518
-momento además se refirió a esto de volver a ser anónimo y justamente vos que conseguiste
+00:08:42,035 --> 00:08:48,650
+momento además se refirió a esto de volver a ser anónimo y justamente vos que conseguiste popularidad 
 
 100
-00:08:47,538 --> 00:08:51,941
-popularidad primero en la primera de argentinos, después por supuesto con lo que significó
+00:08:48,650 --> 00:08:51,941
+ primero en la primera de argentinos, después por supuesto con lo que significó
 
 101
-00:08:52,361 --> 00:08:57,424
-tu paso por Boca, ser campeón del mundo que te pone en otro nivel, ¿cómo es vivir en
+00:08:52,361 --> 00:08:59,025
+tu paso por Boca, ser campeón del mundo que te pone en otro nivel, ¿cómo es vivir en Liverpool siendo un jugador,  
 
 102
-00:08:57,464 --> 00:09:02,107
-Liverpool siendo un jugador, siendo una estrella a propósito de lo que justamente decía el
+00:08:59,025 --> 00:09:02,607
+siendo una estrella a propósito de lo que justamente decía el entrenador? 
 
 103
-00:09:02,127 --> 00:09:02,607
-entrenador?
-
-104
 00:09:05,062 --> 00:09:09,325
 Sí, bueno, lo de la salida del entrenador es un poco loco, ¿no?
 
-105
+104
 00:09:09,345 --> 00:09:12,307
 Porque la gente no lo puede creer hasta hoy,
 
-106
-00:09:12,327 --> 00:09:18,752
+105
+00:09:12,307 --> 00:09:18,732
 pero nosotros nos enteramos cinco minutos antes de que todos salgan a las redes sociales.
 
-107
+106
 00:09:18,832 --> 00:09:21,554
 O sea, llegamos al club, me acuerdo, y tuvimos una reunión.
 
-108
+107
 00:09:22,414 --> 00:09:24,095
 No dijero, diez y media reunión.
 
-109
-00:09:24,116 --> 00:09:26,117
+108
+00:09:24,466 --> 00:09:26,117
 Todos estamos como que no entendíamos nada, ¿viste?
 
-110
-00:09:26,137 --> 00:09:27,278
+109
+00:09:26,137 --> 00:09:27,853
 Porque no era algo normal.
 
-111
-00:09:28,660 --> 00:09:36,082
+110
+00:09:30,260 --> 00:09:36,082
 Y yo en ese momento me siento y yo tengo a Salah al lado y le pregunto, ¿qué pasó acá?
 
-112
+111
 00:09:36,102 --> 00:09:37,163
 ¿Qué está pasando?
 
-113
-00:09:37,243 --> 00:09:39,803
+112
+00:09:37,743 --> 00:09:40,303
 Y me dice, no, parece que se va el técnico.
 
-114
+113
 00:09:40,604 --> 00:09:45,325
 Y yo mi primer pensamiento fue como, ah, se va ahora, como se va hoy, ¿viste?
 
-115
+114
 00:09:45,345 --> 00:09:47,366
 Como que me pego muy fuerte.
 
+115
+00:09:48,286 --> 00:09:55,789
+ después teniendo la charla, explicó un poco lo que también le explicó al afuera, exactamente lo mismo. 
+
 116
-00:09:47,386 --> 00:09:54,028
-Y bueno, después teniendo la charla, explicó un poco lo que también le explicó al afuera,
-
-117
-00:09:54,088 --> 00:09:56,489
-exactamente lo mismo.
-
-118
-00:09:56,429 --> 00:10:02,051
+00:09:57,339 --> 00:10:02,071
 Y bueno, la verdad que no lo esperábamos, pero bueno, lo entendemos, porque Afian es una decisión personal,
 
-119
-00:10:02,071 --> 00:10:06,993
+117
+00:10:02,071 --> 00:10:02,111
 él ha estado muchísimos años en este club, sabe lo importante que es para el club, pero
 
-120
+118
+00:10:02,111 --> 00:10:06,993
+él ha estado muchísimos años en este club, sabe lo importante que es para el club, pero
+
+119
 00:10:07,854 --> 00:10:13,175
 lo más importante es que él esté bien, esté tranquilo y siempre le vamos a desear lo mejor.
 
-121
-00:10:13,736 --> 00:10:14,536
+120
+00:10:13,736 --> 00:10:15,136
 Y creo que esa...
 
-122
-00:10:21,019 --> 00:10:27,004
+121
+00:10:21,719 --> 00:10:27,004
 Nos motivó aún más a hacer de este año un año especial,
 
-123
+122
 00:10:27,024 --> 00:10:30,747
 sobre todo para él que ha estado tantos años aquí y que se lo merece.
 
-124
+123
 00:10:30,827 --> 00:10:33,849
 Así que arrancamos bien con esta Copa,
 
-125
+124
 00:10:34,669 --> 00:10:37,932
 pero todavía queda muchísima temporada por delante
 
-126
+125
 00:10:38,092 --> 00:10:41,494
 y obviamente queremos conseguir más objetivos
 
-127
+126
 00:10:41,554 --> 00:10:45,838
 y que tenga una salida muy linda, porque de verdad se la merece.
 
-128
-00:10:45,898 --> 00:10:47,399
+127
+00:10:46,248 --> 00:10:47,749
 Y después en cuanto a la vida,
 
-129
+128
 00:10:48,241 --> 00:10:57,388
 Yo la realidad es que estoy viviendo un poco a las afueras, entonces capaz que no estoy tan metido en lo que es el centro de la ciudad, pero bueno, hablando con los compañeros y con la gente,
 
+129
+00:10:59,189 --> 00:11:06,025
+te dicen que salir a cenar se convierte en un quilomo porque la gente está siempre ahí, siempre te quiere saludar, 
+
 130
-00:10:59,189 --> 00:11:15,842
-te dicen que salir a cenar se convierte en un quilomo porque la gente está siempre ahí, siempre te quiere saludar, siempre te piden fotos y demás, pero bueno, la verdad que, como decía antes, creo que si este club tiene algo en especial es su gente, son sus hinchas.
+00:11:06,025 --> 00:11:08,675
+siempre te piden fotos y demás, 
 
 131
-00:11:16,444 --> 00:11:27,011
-Y bueno, la verdad que lo agradecemos mucho porque el cariño que nos muestran y la ayuda que nos dan dentro de la caja es muy importante.
+00:11:08,675 --> 00:11:15,842
+pero bueno, la verdad que, como decía antes, creo que si este club tiene algo en especial es su gente, son sus hinchas.
 
 132
-00:11:27,171 --> 00:11:39,399
-Y bueno, si te fijás el otro día, perdón que me estén, el otro día, el partido contra Luton, todo de ellos, o sea, ya habíamos tenido un primer tiempo que no había sido todo bueno.
+00:11:17,644 --> 00:11:27,011
+Y bueno, la verdad que lo agradecemos mucho porque el cariño que nos muestran y la ayuda que nos dan dentro de la caja es muy importante.
 
 133
+00:11:27,171 --> 00:11:30,525
+Y bueno, si te fijás el otro día, 
+
+134
+00:11:32,175 --> 00:11:39,399
+perdón que me estén, el otro día, el partido contra Luton, todo de ellos, o sea, ya habíamos tenido un primer tiempo que no había sido todo bueno.
+
+135
 00:11:39,899 --> 00:11:40,919
 Y en el segundo tiempo...
 
-134
+136
 00:11:42,743 --> 00:11:49,440
 Cualquier persona que haya estado en Ángel ese día, creo que no se lo va a olvidar jamás, porque fue una noche inolvidable donde...
 
-135
+137
 00:11:50,085 --> 00:11:54,647
 Ellos fueron los que nos hicieron ir para adelante y ganar sus partidas.
 
-136
+138
 00:11:54,747 --> 00:12:02,168
 Alexis, mientras te escuchaba, pensaba que hubiese sido un combo letal para vos si a la salida de Klopp se le sumaba la salida de Scaloni, ¿no?
 
-137
+139
 00:12:02,649 --> 00:12:09,590
 Porque aquel 21 de noviembre, que para ustedes fue una fecha extraordinaria por lo que significaba para la selección ganarla Brasil en condición de visitante,
 
-138
+140
 00:12:10,210 --> 00:12:13,871
 es como que quedó todo medio opacado por lo que pasó después, ¿no?
 
-139
+141
 00:12:13,991 --> 00:12:17,792
 La famosa conferencia de prensa del técnico de la selección argentina.
 
-140
+142
 00:12:18,373 --> 00:12:22,397
 ¿Con la mano en el corazón alguna vez pensaste, digamos, después de la conferencia,
 
-141
+143
 00:12:22,417 --> 00:12:26,540
 cuando estabas transitando los primeros días, me imagino hablando incluso con tus compañeros en la selección,
 
-142
+144
 00:12:27,761 --> 00:12:31,505
-que podía ir en serio aquel primer mensaje de escalonio
+que podía ir en serio aquel primer mensaje de Scaloni
 
-143
+145
 00:12:31,585 --> 00:12:37,750
 o siempre confiaste en que cuando las aguas se calmaran iba a recapacitar e iba a seguir estando con ustedes?
 
-144
+146
 00:12:41,157 --> 00:12:48,620
 No, a ver, lo dije en el momento y creo que si Lionel tomó la decisión de salir a decir eso
 
-145
+147
 00:12:48,700 --> 00:12:52,681
 es porque de verdad lo sentía y había que respetar eso, ¿no?
 
-146
+148
 00:12:53,602 --> 00:12:57,943
 Después obviamente uno, desde dentro, sabe todo lo que pasa,
 
-147
-00:12:58,043 --> 00:13:00,624
+149
+00:12:58,518 --> 00:13:02,899
 se da cuenta de lo cómodo que está él cuando...
 
-148
+150
 00:13:03,446 --> 00:13:09,671
 cuando estamos todos juntos y todo lo que nos quiere y lo que disfruta de su trabajo.
 
-149
+151
 00:13:09,732 --> 00:13:17,598
 Entonces, mirándolo por ese lado, obviamente tenía la confianza de que iba a seguir con nosotros
 
-150
-00:13:17,638 --> 00:13:25,925
+152
+00:13:17,638 --> 00:13:26,325
 y bueno, gracias a Dios, va a pasar, o creo que va a pasar, nunca se sabe porque todo puede cambiar de un día para el otro.
 
-151
-00:13:27,388 --> 00:13:43,605
-Lo dije, para nosotros es un orgullo trabajar con él, es la parte más importante de lo que es la selección hoy en día y creo que merece ese respeto y nos pone muy contentos de que siga con nosotros.
+153
+00:13:27,388 --> 00:13:32,375
+Lo dije, para nosotros es un orgullo trabajar con él, 
 
-152
+154
+00:13:32,375 --> 00:13:36,375
+es la parte más importante de lo que es la selección hoy en día 
+
+155
+00:13:37,775 --> 00:13:43,605
+y creo que merece ese respeto y nos pone muy contentos de que siga con nosotros.
+
+156
 00:13:43,627 --> 00:13:47,288
 Además, lo que hay en el horizonte de la Copa América, no sé si viste el gol que hizo Messi anoche,
 
-153
+157
 00:13:47,908 --> 00:13:51,889
 en el minuto 92 metió una doble pared con Jordi Abla y metió un pique ahí abajo,
 
-154
-00:13:51,909 --> 00:13:55,370
+158
+00:13:51,909 --> 00:13:55,905
 que es decir, que él tiene 22 años de vuelta, no tiene 36 para 37, ¿no?
 
-155
-00:13:55,430 --> 00:14:00,792
+159
+00:13:55,905 --> 00:14:00,792
 Y definió con la derecha, incluso era una situación incómoda para definir con la derecha.
 
-156
+160
 00:14:00,812 --> 00:14:06,333
 Te voy a preguntar algo que te va a parecer una pavada, pero quizá lo sea, probablemente lo sea.
 
-157
+161
 00:14:07,693 --> 00:14:08,473
 Vemos muchos...
 
-158
-00:14:09,374 --> 00:14:14,137
-jugadores que no son latinos, que no son argentinos, que no son uruguayos, que no son
+162
+00:14:09,374 --> 00:14:15,450
+jugadores que no son latinos, que no son argentinos, que no son uruguayos, que no son colombianos, ecuatorianos, 
 
-159
-00:14:14,157 --> 00:14:19,539
-colombianos, ecuatorianos, de los que afortunadamente abundan hoy en la Premier, que dicen vamos,
+163
+00:14:15,450 --> 00:14:19,539
+ de los que afortunadamente abundan hoy en la Premier, que dicen vamos,
 
-160
+164
 00:14:20,940 --> 00:14:27,704
 te pasa de ver ingleses, alemanes, neerlandeses que hacen un gol y gritan vamos, y lo miras
 
-161
+165
 00:14:27,744 --> 00:14:32,246
 y de dónde lo sacaste, fuimos nosotros, de dónde salió, ¿se te ocurrió preguntarles?
 
-162
+166
 00:14:32,286 --> 00:14:32,366
 No.
 
-163
+167
 00:14:34,628 --> 00:14:38,668
 No, a ver, sí tengo compañeros que cuando gritan los goles con nosotros,
 
-164
+168
 00:14:39,088 --> 00:14:44,169
 sí, es como que van a ese vamos, digamos, pero después,
 
-165
+169
 00:14:45,090 --> 00:14:49,250
 en ambientes donde no haya un sudamericano, creo que no lo he visto nunca.
 
-166
-00:14:49,270 --> 00:14:53,451
+170
+00:14:49,270 --> 00:14:54,416
 Siempre, generalmente, donde hay un sudamericano o, a lo sumo, un español,
 
-167
-00:14:53,491 --> 00:15:00,072
+171
+00:14:54,416 --> 00:15:00,072
 donde ellos saben lo que significa y también es una forma de...
 
-168
+172
 00:15:01,093 --> 00:15:04,775
 de acercarse el uno al otro, el poder hablar el idioma del otro.
 
-169
+173
 00:15:04,895 --> 00:15:08,517
 Que te digo, por ejemplo, en nuestro equipo hay muchísimos jugadores que
 
-170
+174
 00:15:09,177 --> 00:15:13,619
 que intentan acercarse un poco de esa forma, hablando alguna que otra palabra en español,
 
-171
+175
 00:15:13,659 --> 00:15:17,421
 sobre todo, por ejemplo, con Darwin, con Lucho, que su inglés no es tan bueno.
 
-172
-00:15:18,401 --> 00:15:23,383
+176
+00:15:19,101 --> 00:15:23,383
 Creo que está bueno desde su parte que hagan ese esfuerzo.
 
-173
+177
 00:15:23,443 --> 00:15:28,766
 Así que sí, la verdad que los sudamericanos o incluso los españoles
 
-174
+178
 00:15:29,747 --> 00:15:36,848
 suelen pegar un poco algunas palabras a los europeos y creo que nos respetamos mutuamente
 
-175
+179
 00:15:36,868 --> 00:15:39,189
 y es una relación muy linda que tenemos.
 
-176
-00:15:39,269 --> 00:15:42,510
-Y se convirtió el Brighton, perdón Guido, se convirtió el Brighton en una puerta de
-
-177
-00:15:42,550 --> 00:15:47,411
-ingreso a la Premier, Brighton evidentemente tiene un buen Scouting, porque a donde apunta
-
-178
-00:15:47,431 --> 00:15:52,592
-no le erra, Facundo Buonanotte la está rompiendo ahí, y ahí fue Barco, que todavía no tuvo
-
-179
-00:15:52,612 --> 00:15:53,192
-la chance.
-
 180
+00:15:39,269 --> 00:15:43,975
+Y se convirtió el Brighton, perdón Guido, se convirtió el Brighton en una puerta de ingreso a la Premier, 
+
+181
+00:15:43,975 --> 00:15:50,650
+ Brighton evidentemente tiene un buen Scouting, porque a donde apunta no le erra, Facundo Buonanotte la está rompiendo ahí,  
+
+182
+00:15:50,650 --> 00:15:53,192
+y ahí fue Barco, que todavía no tuvo la chance. 
+
+183
 00:15:54,373 --> 00:15:55,413
 ¿Cuál lugar indicado?
 
-181
+184
 00:15:56,935 --> 00:16:02,160
-¿Vos que conocés Brighton, que hiciste lo mismo, que de bocas saltaste allá, es donde
+¿Vos que conocés Brighton, que hiciste lo mismo, que de boca saltaste allá, es donde
 
-182
+185
 00:16:02,440 --> 00:16:05,703
 es conveniente ir si querés pisar Premier?
 
-183
+186
 00:16:08,066 --> 00:16:13,831
 Sí, sí, no tengo dudas, no tengo dudas porque como vos decís, tengo la experiencia.
 
-184
+187
 00:16:16,956 --> 00:16:24,020
 Y la realidad es que no es fácil pasar de Argentina directamente a la Premier, no es para nada fácil.
 
-185
-00:16:24,200 --> 00:16:34,046
-Y creo que Brighton le va a dar ese lugar a Barco para poder seguir creciendo y para acostumbrarse rápido a lo que es la Premier,
+188
+00:16:24,200 --> 00:16:31,400
+Y creo que Brighton le va a dar ese lugar a Barco para poder seguir creciendo 
 
-186
+189
+00:16:31,400 --> 00:16:34,046
+y para acostumbrarse rápido a lo que es la Premier,
+
+190
 00:16:34,066 --> 00:16:39,030
 sobre todo por la forma de jugar que tiene, más allá de que juegue con muchos jóvenes y que les den la posibilidad.
 
-187
+191
 00:16:39,591 --> 00:16:47,337
 La forma de jugar que tienen va a ayudar mucho a que Barco se adapte rápido y lo haga bien.
 
-188
+192
 00:16:47,357 --> 00:16:54,443
 La verdad que es un club extraordinario, con un corpoténico muy bueno, con gente muy buena dentro del grupo
 
-189
+193
 00:16:54,463 --> 00:17:00,247
 y no tengo dudas de que si él trabaja duro y está en su nivel, le va a ir bien.
 
-190
+194
 00:17:00,307 --> 00:17:02,229
 Así que tuve la posibilidad de hablar con él.
 
-191
-00:17:04,112 --> 00:17:11,056
-Lo mejor, obviamente, es la ayuda que necesite, pero ahí va a tener todo, va a estar muy bien respaldado.
+195
+00:17:04,112 --> 00:17:08,025
+Lo mejor, obviamente, es la ayuda que necesite,
 
-192
-00:17:12,376 --> 00:17:19,380
+196
+00:17:08,025 --> 00:17:11,056
+ pero ahí va a tener todo, va a estar muy bien respaldado.
+
+197
+00:17:13,401 --> 00:17:19,380
 Y bueno, para mí también es un orgullo, porque yo llegué hace cuatro o cinco años a Brighton.
 
-193
+198
 00:17:21,342 --> 00:17:26,485
 Y si bien habían pasado algún que otro argentino, como el galos que el otro, por ejemplo, que fue quien me ha recibido a mí,
 
-194
-00:17:27,085 --> 00:17:27,885
+199
+00:17:27,085 --> 00:17:28,935
 creo que también...
 
-195
+200
 00:17:29,767 --> 00:17:34,888
 Mi ejemplo fue una parte importante para ellos y le abrió la puerta a muchos más argentinos.
 
-196
+201
 00:17:34,968 --> 00:17:43,870
 Así que me pone muy contento tanto él como Facu que estén ahí, que puedan disfrutar de jugar al fútbol
 
-197
+202
 00:17:43,990 --> 00:17:51,212
 y como te digo, están en el lugar indicado para disfrutar y para seguir creciendo, que es lo más importante.
 
-198
+203
 00:17:51,372 --> 00:17:54,432
 Alexis, después de la celebración de ayer, ¿pudiste ver el Superclásico?
 
-199
+204
 00:17:56,883 --> 00:18:03,628
 Pude ver a los últimos minutos, justamente cuando aterrizamos y bueno puse el partido
 
-200
+205
 00:18:03,688 --> 00:18:09,051
 y creo que a los dos o tres minutos llegó el gol de Boca y bueno a partir de ahí y
 
-201
+206
 00:18:09,971 --> 00:18:18,016
 el final no pude ver todo, así que no estoy tan informado al respecto, pero bueno me pareció
 
-202
-00:18:18,036 --> 00:18:23,860
-que en esos últimos minutos estaba para los dos, que cualquiera lo podía ganar y los
-
-203
-00:18:23,880 --> 00:18:24,380
-dos tuvieron.
-
-204
-00:18:24,922 --> 00:18:25,662
-de los supuestos siete
-
-205
-00:18:25,883 --> 00:18:27,464
-defensores que dice de Micheli
-
-206
-00:18:27,484 --> 00:18:28,605
-que terminó poniendo Diego
-
 207
-00:18:28,625 --> 00:18:29,105
-Martínez.
+00:18:18,036 --> 00:18:25,662
+que en esos últimos minutos estaba para los dos, que cualquiera lo podía ganar y los dos  tuvieron sus situaciones.
 
 208
-00:18:29,125 --> 00:18:29,866
-La semana pasada,
+00:18:33,278 --> 00:18:39,766
+defensores que dice de Micheli que terminó poniendo Diego Martínez. La semana pasada,  
 
 209
-00:18:29,886 --> 00:18:31,768
-¿cuál fue la situación de
-
-210
-00:18:31,808 --> 00:18:32,608
-los defensores?
-
-211
-00:18:32,628 --> 00:18:33,449
-¿cuál fue la situación de los
-
-212
-00:18:33,489 --> 00:18:33,949
-defensores?
-
-213
-00:18:33,969 --> 00:18:35,471
-¿cuál fue la situación de los
-
-214
-00:18:35,491 --> 00:18:35,831
-defensores?
-
-215
 00:18:40,797 --> 00:18:48,999
 Veíamos en Roma ese testimonio de De Rossi que se lo agarró, que puso a pared debajo de su ala,
 
-216
+210
 00:18:49,019 --> 00:18:55,381
 que lo puso a Dybala debajo de su ala también diciendo que eran un poco los tres de hinchas de Boca
 
-217
+211
 00:18:55,401 --> 00:18:59,883
 que estaban pendientes del Genésia acá para el partido con River.
 
-218
+212
 00:19:01,644 --> 00:19:06,865
 ¿Te pasa de estar cerca de Boca, de alguna manera, de tener los mismos sueños que, bueno,
 
-219
-00:19:06,885 --> 00:19:10,765
-que dice Paredes, que incluso que va a llevar, Paredes dijo que va a traer a Dybala para
+213
+00:19:06,885 --> 00:19:12,425
+que dice Paredes, que incluso que va a llevar, Paredes dijo que va a traer a Dybala para jugar en Boca,  
 
-220
-00:19:10,805 --> 00:19:15,226
-jugar en Boca, ¿te pasa eso un poco más allá de que falte mucho tiempo?
+214
+00:19:12,425 --> 00:19:15,226
+¿te pasa eso un poco más allá de que falte mucho tiempo?
 
-221
-00:19:18,967 --> 00:19:27,608
-A ver, me encantaría respondértelo, creo que ya más o menos todos sabrían cuál sería
+215
+00:19:18,967 --> 00:19:28,609
+A ver, me encantaría respondértelo, creo que ya más o menos todos sabrían cuál sería mi respuesta, pero... 
 
-222
-00:19:27,628 --> 00:19:28,609
-mi respuesta, pero...
-
-223
+216
 00:19:30,270 --> 00:19:35,912
 No me gusta hacer esas cosas de capaz, decir o prometer si voy a volver, quiero volver,
 
-224
+217
 00:19:35,932 --> 00:19:41,935
 porque la realidad es que como decís, falta mucho, muchísimas cosas pueden pasar, obviamente
 
-225
-00:19:41,955 --> 00:19:46,897
-que las ganas están, porque, sobre todo porque para mí fue muy corto el paso que yo tuve
+218
+00:19:41,955 --> 00:19:47,518
+que las ganas están, porque, sobre todo porque para mí fue muy corto el paso que yo tuve por boca, ¿no? 
 
-226
-00:19:46,917 --> 00:19:47,518
-por boca, ¿no?
-
-227
+219
 00:19:48,478 --> 00:19:49,839
 Y me hubiese gustado estar.
 
-228
-00:19:50,420 --> 00:20:00,686
-pero bueno el tiempo dirá si tengo esa posibilidad, si me la dan y si se está todo dado para que se pueda...
+220
+00:19:50,420 --> 00:19:56,750
+pero bueno el tiempo dirá si tengo esa posibilidad,
 
-229
+221
+00:19:56,750 --> 00:20:00,686
+ si me la dan y si se está todo dado para que se pueda...
+
+222
 00:20:00,767 --> 00:20:07,111
 Claro, es cierto que a Leandro le falta menos y lo tiene más en claro, es verdad.
 
-230
+223
 00:20:07,311 --> 00:20:08,852
 Le quedan 10 años en Liverpool.
 
-231
+224
 00:20:08,872 --> 00:20:09,752
 Claro, por eso.
 
-232
+225
 00:20:09,772 --> 00:20:12,574
 Después de un par de años en Real Madrid, yo te armo la carrera.
 
-233
+226
 00:20:12,594 --> 00:20:14,515
 Son 8 años más en Liverpool.
 
-234
+227
 00:20:14,555 --> 00:20:16,016
 Después de 2 o 3 años en Real Madrid...
 
-235
+228
 00:20:16,778 --> 00:20:18,679
 y si anda bien, se retira.
 
-236
+229
 00:20:18,779 --> 00:20:19,339
 35 años, 36 años.
 
-237
+230
 00:20:19,359 --> 00:20:19,939
 Y ya está.
 
-238
+231
 00:20:19,959 --> 00:20:21,040
 Claro, claro.
 
-239
+232
 00:20:21,100 --> 00:20:22,721
 Y si cierran a Argentinos, seis meses.
 
-240
+233
 00:20:22,901 --> 00:20:25,182
 Ya está, que donde lo están esperando.
 
-241
+234
 00:20:25,202 --> 00:20:27,103
 Claro, no hay que ayudarse a Argentinos.
 
-242
+235
 00:20:27,123 --> 00:20:27,543
 Claro, claro.
 
-243
+236
 00:20:27,623 --> 00:20:31,045
 Es el club que me dio la posibilidad de crecer
 
-244
+237
 00:20:31,065 --> 00:20:32,886
 y de disfrutar de jugar al club.
 
-245
+238
 00:20:32,926 --> 00:20:34,147
 Así es, obviamente, que lo tengo.
 
-246
+239
 00:20:34,808 --> 00:20:37,349
 lo tengo muy presente, el Deportivo Matadí, también.
 
-247
+240
 00:20:37,429 --> 00:20:40,090
 ¡Eh, exacto, el Deportivo Matadí!
 
-248
+241
 00:20:40,110 --> 00:20:42,612
 O sea, te vas a retirar a los 40 años, Alexi, más o menos.
 
-249
+242
 00:20:43,072 --> 00:20:44,813
 Y bueno, puede pasar de todo.
 
-250
+243
 00:20:44,853 --> 00:20:46,053
 ¿En Colorado a qué edad se retiró?
 
-251
+244
 00:20:46,093 --> 00:20:48,594
 Día a día, año a año y después.
 
-252
+245
 00:20:49,116 --> 00:20:53,700
 en un tiempo veremos. Por eso te digo, no quiero decirlo, sino que el día que tenga
 
-253
+246
 00:20:53,720 --> 00:20:59,845
 la posibilidad de tomar esa decisión, con felicidad, y que se haga real.
 
-254
+247
 00:21:00,046 --> 00:21:01,467
 ¿A qué edad se retiró tu papá?
 
-255
+248
 00:21:01,547 --> 00:21:02,428
 Era chico, Alexi.
 
-256
+249
 00:21:02,988 --> 00:21:03,669
 No, pero bueno...
 
-257
+250
 00:21:03,689 --> 00:21:09,074
 Mi papá se retiró joven, se retiró creo que un año antes de que yo nazca, 97, 98.
 
-258
+251
 00:21:11,258 --> 00:21:12,980
 No, no, se retiró un poco después.
 
-259
+252
 00:21:13,000 --> 00:21:14,221
 Me parece que un poco después.
 
-260
+253
 00:21:14,281 --> 00:21:15,843
 Un poco después, un poco después, no mucho.
 
-261
+254
 00:21:15,963 --> 00:21:16,584
 En Ferro.
 
-262
+255
 00:21:16,644 --> 00:21:16,924
 En Ferro.
 
-263
+256
 00:21:16,984 --> 00:21:17,845
 En Ferro, lo último.
 
-264
+257
 00:21:17,885 --> 00:21:19,046
 Para mí se retiró en el 98, ¿eh?
 
-265
-00:21:19,066 --> 00:21:19,266
-Sí, el 98.
-
-266
-00:21:19,327 --> 00:21:19,607
-¿Vos sos?
-
-267
-00:21:19,627 --> 00:21:20,067
-¿Vos qué sos?
-
-268
-00:21:20,147 --> 00:21:20,668
-Yo soy el 98.
-
-269
-00:21:20,788 --> 00:21:21,249
-¿Vos sos el 98?
-
-270
-00:21:21,529 --> 00:21:22,190
-Bueno, por ahí.
-
-271
-00:21:22,810 --> 00:21:23,471
-Solo retire, digamos.
-
-272
-00:21:23,491 --> 00:21:23,631
-Claro.
-
-273
+258
 00:21:28,319 --> 00:21:30,380
 Dijo al tercero, me entrego, ya está.
 
-274
+259
 00:21:30,460 --> 00:21:36,203
 Igual te aclaro que, más allá de que, evidentemente vos lo superaste un poco desde el hotel y con futbolístico.
 
-275
+260
 00:21:36,243 --> 00:21:36,843
 99, se arrepiló el club.
 
-276
+261
 00:21:36,883 --> 00:21:37,544
 99, mira, tenías un año.
 
-277
-00:21:37,564 --> 00:21:41,786
+262
+00:21:37,564 --> 00:21:42,711
 Te aclaro que cabeceaba mejor que todos los McAllister, que tu tío y que tu hermano.
 
-278
-00:21:46,610 --> 00:21:47,912
-cái, la vardera, la barrera
-
-279
-00:21:47,932 --> 00:21:48,132
-también.
-
-280
+263
 00:21:59,326 --> 00:22:00,747
 Hay que mandarlo al dentista urgente.
 
-281
+264
 00:22:00,767 --> 00:22:03,490
 Terrible, pero tiene unos huevos terribles.
 
-282
+265
 00:22:03,551 --> 00:22:05,092
 Le puso un bucal y se mandó.
 
-283
+266
 00:22:05,152 --> 00:22:08,656
 Está loco. Igual algún gaste interno se comió, me parece, ¿no?
 
-284
+267
 00:22:08,997 --> 00:22:09,978
 Con esos dientes flojos.
 
-285
+268
 00:22:10,719 --> 00:22:11,800
 Eh, olvidate.
 
-286
+269
 00:22:11,820 --> 00:22:12,921
 Todavía hay que ver si sacó o no.
 
-287
+270
 00:22:12,941 --> 00:22:15,204
 Todavía hay que ver si se tiene que ponerlo de mentira o no.
 
-288
+271
 00:22:17,028 --> 00:22:18,748
 Esta semana veremos.
 
-289
+272
 00:22:18,828 --> 00:22:23,670
 Alicis, estamos ya, aunque falte todavía, en lo que sería la parte final de la Premier League
 
-290
+273
 00:22:23,690 --> 00:22:26,450
 con una tremenda lucha entre tres equipos.
 
-291
+274
 00:22:26,830 --> 00:22:31,352
 Pero también queda, más allá de considerarlo este el mejor torneo del mundo,
 
-292
+275
 00:22:31,832 --> 00:22:36,233
 la competición de la Champions League para muchos equipos que también están en los primeros lugares.
 
-293
+276
 00:22:36,253 --> 00:22:39,774
 Y en algún momento Guardiola dijo que prefería la Premier a la Champions.
 
-294
-00:22:40,134 --> 00:22:44,715
-Ese concepto está en Inglaterra de darle tanta trascendencia al torneo local
+277
+00:22:40,134 --> 00:22:45,415
+Ese concepto está en Inglaterra de darle tanta trascendencia al torneo local en relación a... 
 
-295
-00:22:44,755 --> 00:22:45,415
-en relación a...
-
-296
+278
 00:22:45,856 --> 00:22:46,977
 ¿a la competición europea?
 
-297
+279
 00:22:49,419 --> 00:22:53,942
 Sí, sí, la verdad que es real, es real.
 
-298
+280
 00:22:53,962 --> 00:22:56,644
 Si bien este año a nosotros no nos tocó jugar Champions,
 
-299
+281
 00:22:56,664 --> 00:22:58,705
 nos tocó jugar Europa League,
 
-300
+282
 00:23:00,066 --> 00:23:01,067
 eso es real, eso es real.
 
-301
+283
 00:23:01,087 --> 00:23:04,409
 La verdad que la gente se muere por ganar la Premier League.
 
-302
+284
 00:23:04,429 --> 00:23:07,952
 Y al final creo que tiene lógica, ¿no?
 
-303
+285
 00:23:07,972 --> 00:23:11,374
 Porque es todo un año de trabajo.
 
-304
+286
 00:23:13,076 --> 00:23:16,737
 como te digo nosotros por ejemplo estamos pasando por un momento en el que tenemos
 
-305
+287
 00:23:17,437 --> 00:23:23,559
 10 jugadores lesionados capaz, entonces sobreponerse a todas esas cosas
 
-306
-00:23:23,679 --> 00:23:29,020
+288
+00:23:24,429 --> 00:23:29,020
 creo que vale vale muchísimo y al final una de las cosas más importantes es el
 
-307
+289
 00:23:29,040 --> 00:23:35,542
 recorrido con el que uno se se consagra no así que si si la Premier League para
 
-308
+290
 00:23:35,562 --> 00:23:36,862
 la gente y para los ingleses es
 
-309
+291
 00:23:38,503 --> 00:23:42,285
 Es muy, muy importante y hasta más que la Champions League.
 
-310
+292
 00:23:42,305 --> 00:23:43,465
 ¿Pardo, Pardo, Pardo, esto?
 
-311
+293
 00:23:44,046 --> 00:23:48,068
 Porque ayer, no quiero decir que nos reímos porque no causa gracia que alguien esté lesionado,
 
-312
+294
 00:23:48,568 --> 00:23:52,690
 pero era muy curiosa la imagen de Liverpool bajando del micro para meterse en el vestuario.
 
-313
+295
 00:23:53,070 --> 00:23:57,692
 No, la mitad venía con muleta, con la prótesis en la rodilla, ¿viste?
 
-314
+296
 00:23:58,973 --> 00:24:01,554
 O, ¿viste? Que venían todos rengos. Digo, ¿de dónde vienen?
 
-315
+297
 00:24:02,174 --> 00:24:04,155
 ¿Con quién se pelearon? No, están lesionados.
 
-316
+298
 00:24:04,215 --> 00:24:05,876
 No, es terrible, te juro, entrar al...
 
-317
-00:24:07,598 --> 00:24:15,344
+299
+00:24:08,623 --> 00:24:15,344
 al consultorio en el entrenamiento es encontrarte con 10 camillas ocupadas, o sea, es una locura
 
-318
+300
 00:24:15,364 --> 00:24:22,109
 y bueno, en el partido ayer sumamos dos más, dos lesiones del tobillo, así que, nada,
 
-319
+301
 00:24:22,289 --> 00:24:26,953
 ahí estamos, ahí estamos para pelear, para sobreponernos y para demostrar que...
 
-320
+302
 00:24:27,775 --> 00:24:30,757
 que queremos más con lo que tengamos.
 
-321
+303
 00:24:30,797 --> 00:24:34,999
 Como dijo el técnico, mientras seamos once, vamos a ir por todo.
 
-322
+304
 00:24:35,179 --> 00:24:36,820
 Me quedo la última por hacerle a Alexis,
 
-323
+305
 00:24:36,840 --> 00:24:40,883
 porque Alexis, mientras Gastón te consultaba hace un ratito por Valentín Barco,
 
-324
+306
 00:24:41,123 --> 00:24:43,364
 me recordaban los chicos de producción algo que es verdad,
 
-325
+307
 00:24:43,384 --> 00:24:45,285
 vos en su momento cuando jugabas en el Brighton,
 
-326
+308
 00:24:45,505 --> 00:24:47,927
 te preguntaron a qué jugador recomendarías para el Brighton
 
-327
+309
 00:24:48,027 --> 00:24:51,149
 y nombraste a un futbolista que está en Boca, que es Elex Fernández.
 
-328
+310
 00:24:51,169 --> 00:24:52,870
 Que estaba en Tigre ahí.
 
-329
+311
 00:24:52,890 --> 00:24:54,871
 Claro, exactamente, antes de su regreso a Boca.
 
-330
+312
 00:24:55,351 --> 00:24:56,832
 ¿Lo recomendarías para el Liverpool?
 
-331
+313
 00:24:57,554 --> 00:25:03,198
 ¿A Eki hoy en día le está siguiendo los partidos al mediocampista Sennaise?
 
-332
+314
 00:25:05,440 --> 00:25:13,727
 La realidad es que sí intento ver obviamente todos los partidos y así como te dije Eki,
 
-333
+315
 00:25:13,747 --> 00:25:19,592
 capaz que podría haber dicho un montón de jugadores. Eki para mí es un jugador que es diferente,
 
-334
+316
 00:25:19,612 --> 00:25:21,534
 que tiene un talento muy grande.
 
-335
+317
 00:25:22,236 --> 00:25:31,702
 Pero bueno, tampoco es fácil decirlo a lo lejos, creo que a veces no es solo fútbol, sino la cabeza, la mentalidad que tienen los jugadores.
 
-336
+318
 00:25:31,722 --> 00:25:40,107
 Creo que eso es una parte muy importante y yo lamentablemente no los conozco demasiado como para decir este, este o este.
 
-337
+319
 00:25:40,167 --> 00:25:45,130
 Sí, lo que te puedo decir es lo que veo partido a partido, como te digo hay que sufrir, me gusta, como así.
 
-338
+320
 00:25:46,172 --> 00:25:51,493
 En ese momento también, por ejemplo, Aníbal Moreno era un jugador que estaba en un gran momento,
 
-339
+321
 00:25:51,513 --> 00:25:53,354
 que me gustaba mucho cómo jugaban Rassil.
 
-340
-00:25:53,794 --> 00:26:01,156
+322
+00:25:54,669 --> 00:26:01,156
 Hay muchos, muchos chicos que juegan muy bien, que vienen creciendo y, bueno,
 
-341
+323
 00:26:01,216 --> 00:26:07,358
 yo lo trato de ver un poco más desde el lado de la selección, que obviamente me pone contento que sigan
 
-342
+324
 00:26:08,539 --> 00:26:13,320
 saliendo cada vez más chicos, porque eso significa que la selección va a estar bien.
 
-343
+325
 00:26:15,642 --> 00:26:22,025
 Pero sí, a veces me río, ¿viste? Porque a veces sale noticia de no, porque Alexi habló con Jurgen Klopp y le recomendó...
 
-344
+326
 00:26:22,045 --> 00:26:31,710
 No sé, hace seis meses al club, todavía me estoy preocupando por jugar bien, por estar de la mejor manera.
 
-345
+327
 00:26:31,990 --> 00:26:40,354
 Después, obviamente, si me preguntan tendré una opinión, pero como te digo, un jugador no es solo lo que hace dentro de la cancha, sino todo lo que hay detrás.
 
-346
-00:26:41,716 --> 00:26:46,997
-Sé que abusamos de tu tiempo, queremos agradecerle a la gente de prensa de Liverpool que nos
+328
+00:26:41,716 --> 00:26:48,400
+Sé que abusamos de tu tiempo, queremos agradecerle a la gente de prensa de Liverpool que nos está permitiendo esta charla, 
 
-347
-00:26:47,037 --> 00:26:50,938
-está permitiendo esta charla, la vamos a cerrar a continuación, gracias obviamente
+329
+00:26:48,400 --> 00:26:50,938
+ la vamos a cerrar a continuación, gracias obviamente
 
-348
-00:26:50,998 --> 00:26:56,719
-a Kike que te quemó el teléfono también para poder charlar este rato, hablas de la
+330
+00:26:50,998 --> 00:26:58,960
+a Kike que te quemó el teléfono también para poder charlar este rato, hablas de la cabeza, hablas de Klopp y la última, quiero... 
 
-349
-00:26:56,739 --> 00:26:58,960
-cabeza, hablas de Klopp y la última, quiero...
-
-350
+331
 00:26:59,700 --> 00:27:05,764
 que nos explique si podés, Alexis, porque Klopp, entre los argumentos que esgrimió para
 
-351
+332
 00:27:06,064 --> 00:27:12,068
 explicarle a la gente por qué se iba, habla de una lógica fatiga mental, digamos, es
 
-352
-00:27:12,108 --> 00:27:17,371
-mucho el desgaste de estar en el máximo nivel competitivo todo el tiempo, año tras año,
+333
+00:27:12,108 --> 00:27:18,550
+mucho el desgaste de estar en el máximo nivel competitivo todo el tiempo, año tras año, día tras día,  
 
-353
-00:27:17,391 --> 00:27:21,094
-día tras día, y ustedes no son la excepción, es verdad que ustedes no tienen que andar
+334
+00:27:18,550 --> 00:27:25,356
+y ustedes no son la excepción, es verdad que ustedes no tienen que andar programando demasiado, pero son los que salen con la máxima exigencia domingo, miércoles,  domingo. 
 
-354
-00:27:21,114 --> 00:27:24,956
-programando demasiado, pero son los que salen con la máxima exigencia domingo, miércoles,
-
-355
-00:27:24,976 --> 00:27:25,356
-domingo.
-
-356
+335
 00:27:26,118 --> 00:27:30,360
 Y vos venís de hace un año y moneda a ser campeón del mundo, con lo cual cualquiera
 
-357
+336
 00:27:30,400 --> 00:27:35,163
 podría relajarse, lejos de eso, apretaste los dientes, a los 6 meses de ser campeón
 
-358
+337
 00:27:35,203 --> 00:27:39,965
 del mundo te compran Liverpool, te da la 10, ya ganaste un título con esta nueva camiseta
 
-359
+338
 00:27:40,585 --> 00:27:44,567
 y no se te ve fatigado, yo no te noto estresado, por el contrario, te noto...
 
-360
+339
 00:27:45,129 --> 00:27:49,572
 disfrutando y con la misma sed de gloria que que tenías cuando te pusiste la
 
-361
-00:27:49,593 --> 00:27:52,275
-camiseta celeste y blanca en la finalísima y ni que hablar en el
+340
+00:27:49,593 --> 00:27:53,475
+camiseta celeste y blanca en la finalísima y ni que hablar en el mundial. 
 
-362
-00:27:52,295 --> 00:27:57,339
-mundial. ¿Tenés algún tipo de apoyo al respecto? ¿Lo vivís así naturalmente y
+341
+00:27:53,850 --> 00:27:57,339
+ ¿Tenés algún tipo de apoyo al respecto? ¿Lo vivís así naturalmente y
 
-363
-00:27:57,359 --> 00:28:01,663
-no hace falta que nadie te asista? Porque no debe ser sencillo, Alexis, no tenés ni
+342
+00:27:57,359 --> 00:28:02,703
+no hace falta que nadie te asista? Porque no debe ser sencillo, Alexis, no tenés ni 25 años. 
 
-364
-00:28:01,743 --> 00:28:02,003
-25 años.
-
-365
-00:28:02,083 --> 00:28:07,808
+343
+00:28:05,333 --> 00:28:08,408
 No, obviamente que no es sencillo, como decís, ¿no?
 
-366
+344
 00:28:09,611 --> 00:28:16,393
 Sobre todo el estar en una liga tan exigente como la nuestra y en tres días tenés partido, partido, partido, partido.
 
-367
-00:28:16,693 --> 00:28:23,595
+345
+00:28:18,193 --> 00:28:23,595
 Nosotros, por ejemplo, salimos campeones ayer y ahora el miércoles tenemos que jugar la de Saikan con el Southampton.
 
-368
+346
 00:28:23,635 --> 00:28:27,496
 O sea, no tenemos ni tiempo de disfrutar las cosas que vamos logrando.
 
-369
+347
 00:28:28,537 --> 00:28:35,319
 Pero al final uno se termina acostumbrando y creo que es parte de ser jugador de fútbol profesional.
 
-370
-00:28:35,359 --> 00:28:37,080
+348
+00:28:35,634 --> 00:28:37,355
 Hay un montón de veces en el que...
 
-371
+349
 00:28:38,601 --> 00:28:42,484
 en el que las cosas van a ser lindas, donde vas a poder disfrutar,
 
-372
+350
 00:28:42,664 --> 00:28:45,847
 pero también hay otros momentos donde te tenés que dedicar a trabajar,
 
-373
+351
 00:28:47,328 --> 00:28:49,970
 no solo cuando vas al club, sino cuando volvés a tu casa, ¿no?
 
-374
+352
 00:28:50,030 --> 00:28:54,874
 El poder cuidarse físicamente, hacer todos los trabajos
 
-375
+353
 00:28:55,374 --> 00:28:58,537
 para que la recuperación sea lo mejor posible,
 
-376
+354
 00:28:58,557 --> 00:29:02,620
 para poder estar preparado a los tres días para jugar de nuevo.
 
-377
+355
 00:29:02,640 --> 00:29:04,602
 Y bueno, eso lleva un montón de cosas.
 
-378
-00:29:05,884 --> 00:29:10,468
-Pero obviamente, en cuanto a apoyo, tengo el apoyo de mi familia, que es para mí el
+356
+00:29:05,884 --> 00:29:12,900
+Pero obviamente, en cuanto a apoyo, tengo el apoyo de mi familia, que es para mí el apoyo más importante, 
 
-379
-00:29:10,508 --> 00:29:16,032
-apoyo más importante, aunque sea a la distancia, ellos siempre están ahí, el apoyo de mi novia,
+357
+00:29:12,900 --> 00:29:18,325
+ aunque sea a la distancia, ellos siempre están ahí, el apoyo de mi novia, el apoyo de mis amigos. 
 
-380
-00:29:16,052 --> 00:29:23,338
-el apoyo de mis amigos. Tengo mucha gente que está cercana, que siempre se preocupa
+358
+00:29:18,325 --> 00:29:24,175
+ Tengo mucha gente que está cercana, que siempre se preocupa mucho por mí.  
 
-381
-00:29:23,358 --> 00:29:29,643
-mucho por mí. Pero como te digo, la verdad que disfruto si hago esto, porque de verdad
+359
+00:29:25,825 --> 00:29:31,764
+Pero como te digo, la verdad que disfruto si hago esto, porque de verdad lo disfruto, me siento muy bien, sé que... 
 
-382
-00:29:29,663 --> 00:29:31,764
-lo disfruto, me siento muy bien, sé que...
-
-383
+360
 00:29:32,766 --> 00:29:38,808
 que todavía soy joven y que todo lo que estoy pasando es un orgullo
 
-384
+361
 00:29:39,288 --> 00:29:45,710
 y le doy gracias a Dios porque de verdad que esto es muy lindo para mí.
 
-385
+362
 00:29:46,470 --> 00:29:49,611
 Pero bueno, creo que lo más importante, como siempre lo dije, es disfrutarlo.
 
-386
+363
 00:29:49,971 --> 00:29:53,913
 Cuando un jugador o una persona disfruta de lo que hace,
 
-387
+364
 00:29:53,933 --> 00:29:58,874
 lo hace el doble de bien y lo hace con una sonrisa en la cara
 
-388
-00:29:58,974 --> 00:30:00,455
-y eso es lo que intento.
+365
+00:29:58,974 --> 00:30:02,336
+y eso es lo que intento. todos los días. 
 
-389
-00:30:01,756 --> 00:30:02,336
-todos los días.
-
-390
+366
 00:30:02,717 --> 00:30:05,659
 Hoy te tocará trasnochar, juega el bicho en un ratito con Platense.
 
-391
+367
 00:30:06,059 --> 00:30:08,321
 Así que no creo que te vayas a dormir temprano, ¿no?
 
-392
+368
 00:30:09,942 --> 00:30:11,423
 No, ahí estaremos, ahí estaremos,
 
-393
+369
 00:30:11,483 --> 00:30:14,205
 tendido un partido importante hoy,
 
-394
+370
 00:30:14,245 --> 00:30:16,386
 así que ahí estaremos haciendo fuerza.
-
-395
-00:30:16,406 --> 00:30:17,167
-Si te gustó el video,
-
-396
-00:30:17,227 --> 00:30:19,608
-te invitamos a que te suscribas a nuestro canal de YouTube
-
-397
-00:30:19,708 --> 00:30:22,530
-y actives la campanita para enterarte de todo nuestro contenido.
-
-398
-00:30:22,710 --> 00:30:24,412
-Visita texsports.com
-
-399
-00:30:24,512 --> 00:30:26,613
-para estar al tanto de todas las novedades del deporte.
 
