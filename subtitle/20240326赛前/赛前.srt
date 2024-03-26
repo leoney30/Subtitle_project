@@ -1,644 +1,488 @@
 1
-00:00:00,180 --> 00:00:13,989
-Quiero preguntarte si en este partido, bueno, el otro día un poco lo dijiste, vas a hacer pruebas como en el anterior y según a esas pruebas, por ejemplo, incluiría el debut de Walter Benítez, que lo tuviste varias convocatorias y todavía en el buto, si lo contemplás. Gracias.
+00:00:00,180 --> 00:00:02,875
+Quiero preguntarte si en este partido, bueno, el otro día un poco lo dijiste, 
 
 2
+00:00:02,875 --> 00:00:10,250
+vas a hacer pruebas como en el anterior y según a esas pruebas, por ejemplo, incluiría el debut de Walter Benítez, 
+
+3
+00:00:10,250 --> 00:00:13,989
+que lo tuviste varias convocatorias y todavía en el buto, si lo contemplás. Gracias.
+
+4
 00:00:15,250 --> 00:00:21,353
 Bueno, buenas tardes a todos. Sí, la idea es hacer cambios, vamos a hacer cinco o seis cambios.
 
-3
-00:00:22,916 --> 00:00:37,667
-No tengo todavía decidido si igual empieza de inicio o después, me gustaría darle la oportunidad, pero todavía no le dije el equipo a ellos y la idea sería hacer unos cambios.
+5
+00:00:22,916 --> 00:00:30,575
+No tengo todavía decidido si igual empieza de inicio o después, me gustaría darle la oportunidad,
 
-4
+6
+00:00:33,125 --> 00:00:37,667
+ pero todavía no le dije el equipo a ellos y la idea sería hacer unos cambios.
+
+7
 00:00:40,165 --> 00:00:49,110
 Lionel, Diego Monroel para ESPN. Primero, ver si tenías una idea respecto de la posibilidad de que juegue Ángel ni María
 
-5
+8
 00:00:49,570 --> 00:00:54,513
 y en base a lo que sucedió hoy en la mañana, seguramente fue un foco de atención, más que nada en lo humano.
 
-6
+9
 00:00:55,514 --> 00:01:05,580
 ¿Ustedes se acercaron a él o hablaste con él en lo personal y cambió o modificó tu idea respecto de lo que tenías pensado para él en el partido de mañana?
 
-7
-00:01:07,042 --> 00:01:34,079
-Hablé con él y mañana va a jugar, va a ser el titular, así que en cuanto a eso no cambió nada, está tranquilo, lo vi bien y sabe que tiene todo el apoyo de nosotros y para lo que necesite, pero lo más importante es que juegue, que es lo que va a distender un poco. Hablé otras cosas con él que me la guardo para mí.
+10
+00:01:07,042 --> 00:01:24,175
+Hablé con él y mañana va a jugar, va a ser el titular, así que en cuanto a eso no cambió nada, está tranquilo, lo vi bien y sabe que tiene todo el apoyo de nosotros y para lo que necesite, 
 
-8
+11
+00:01:24,175 --> 00:01:34,079
+pero lo más importante es que juegue, que es lo que va a distender un poco. Hablé otras cosas con él que me la guardo para mí.
+
+12
 00:01:36,462 --> 00:01:39,744
-Yoanel aquí, Narela Sanra en vivo para Dsports y Dsports Radio.
+Lionel aquí, Narela Sanra en vivo para Dsports y Dsports Radio.
 
-9
+13
 00:01:39,764 --> 00:01:43,247
 Bueno, hace poco menos de 6 años comenzó tu ciclo aquí mismo,
 
-10
+14
 00:01:43,667 --> 00:01:47,690
 así que te quiero preguntar porque lo lindo que pasó en estos 6 años,
 
-11
+15
 00:01:47,830 --> 00:01:50,812
 me parece que lo tenemos claro todo, te quiero preguntar en tu ciclo,
 
-12
+16
 00:01:50,832 --> 00:01:53,854
 ¿cuál fue por ahí la decisión más difícil que tuviste que tomar?
 
-13
+17
 00:01:55,276 --> 00:01:55,896
 ¿En los 6 años?
 
-14
+18
 00:01:55,956 --> 00:02:00,638
 En los 6 años, o lo menos lindo de este ciclo tuyo, porque lo lindo ya está bastante claro.
 
-15
-00:02:00,658 --> 00:02:05,760
-Lo de siempre, dejar afuera jugadores, dar una lista de convocados, una lista para una
+19
+00:02:00,658 --> 00:02:06,379
+Lo de siempre, dejar afuera jugadores, dar una lista de convocados, una lista para una Copa América,  
 
-16
-00:02:05,781 --> 00:02:11,683
-Copa América, para un Mundial y dejar afuera chicos que habían estado con nosotros mucho
+20
+00:02:06,400 --> 00:02:13,924
+para un Mundial y dejar afuera chicos que habían estado con nosotros mucho tiempo, eso es lo peor que se lleva. 
 
-17
-00:02:11,703 --> 00:02:13,924
-tiempo, eso es lo peor que se lleva.
-
-18
+21
 00:02:14,966 --> 00:02:26,090
 y de lo cual a un entrenador no le gustaría ser, pero bueno, es lo que siempre digo, al final hay que tomar decisiones, para eso estamos, es lo peor que se lleva.
 
-19
+22
 00:02:28,012 --> 00:02:31,013
 Buenas tardes, Lionel. Álvaro Izquierdo para Fox Deportes.
 
-20
+23
 00:02:31,633 --> 00:02:34,513
 En este tipo de partidos con Salvador, con Costa Rica,
 
-21
+24
 00:02:34,613 --> 00:02:38,554
 pusiste en el partido anterior unos muchachos jóvenes como entrenador
 
-22
+25
 00:02:38,574 --> 00:02:42,735
 que busca funcionamiento colectivo o ver a algún futbolista individualmente
 
-23
+26
 00:02:43,095 --> 00:02:45,956
 que te llama la atención y querés seguirlo para el proceso.
 
-24
+27
 00:02:47,157 --> 00:02:54,083
 No, siempre miramos lo colectivo, es evidente. Más allá de que cada uno tenga sus condiciones
 
-25
+28
 00:02:54,704 --> 00:03:00,969
 individuales, nosotros buscamos el acople al equipo. Cuando entro un chico sea joven
 
-26
+29
 00:03:01,089 --> 00:03:07,194
 o la edad que tenga, necesitamos ver cómo se asocia con sus compañeros, cómo se entiende
 
-27
+30
 00:03:07,294 --> 00:03:12,338
 y eso es la única manera es verlo jugar adentro de la cancha. Los entrenamientos valen.
 
-28
+31
 00:03:13,201 --> 00:03:23,994
 Pero al final el partido es lo que cuenta y por eso estos partidos que son amistosos son importantes para verlo a ellos y ver cómo se relacionan con sus compañeros dentro de la cancha.
 
-29
+32
 00:03:25,278 --> 00:03:30,580
-Leonel de la Cagarrama para Fox Sports, un poco lo que te preguntaban también al principio,
+Lionel de la Cagarrama para Fox Sports, un poco lo que te preguntaban también al principio,
 
-30
+33
 00:03:30,700 --> 00:03:36,703
 esta cuestión de los 5 o 6 cambios que vos hablaste, a Garnacho ya lo viste en diferentes
 
-31
-00:03:36,743 --> 00:03:42,806
-oportunidades entrando de suplente, ¿tal vez es el momento o está dentro de uno de los
-
-32
-00:03:42,886 --> 00:03:43,967
-posibles cambios?
-
-33
-00:03:44,307 --> 00:03:48,869
-Si me van preguntando uno por uno ya están los 5 o 6, ya no van a tener, eh, me han preguntado
-
 34
-00:03:49,009 --> 00:03:49,330
-uno, dos…
+00:03:36,743 --> 00:03:43,967
+oportunidades entrando de suplente, ¿tal vez es el momento o está dentro de uno de los posibles cambios? 
 
 35
+00:03:44,307 --> 00:03:49,330
+Si me van preguntando uno por uno ya están los 5 o 6, ya no van a tener, eh, me han preguntado uno, dos… 
+
+36
 00:03:49,350 --> 00:03:51,871
 Pero lo que han hecho el otro día y entró espectacular, entonces…
 
-36
+37
 00:03:51,911 --> 00:03:52,451
 Entró bien.
 
-37
+38
 00:03:52,471 --> 00:03:53,672
 Y entró espectacular, por eso, claro.
 
-38
-00:03:54,153 --> 00:04:02,639
+39
+00:03:56,503 --> 00:04:02,639
 Sí, es una posibilidad también que pueda jugar, así que ya tienen dos, vamos, faltan cuatro, o tres.
 
-39
-00:04:15,088 --> 00:04:20,572
-Leonel, ¿cómo te va? Milat Soleimani para Leo Miami Sport. Me gustaría saber, y lo que le gustaría saber a la gente,
-
 40
-00:04:20,592 --> 00:04:21,753
-te gustaría ganar...
+00:04:15,088 --> 00:04:20,572
+Lionel, ¿cómo te va? Milat Soleimani para Leo Miami Sport. Me gustaría saber, y lo que le gustaría saber a la gente,
 
 41
-00:04:23,816 --> 00:04:29,838
-la segunda Copa América y la segunda Copa del Mundo y quedar con algo que nadie ha logrado
+00:04:21,992 --> 00:04:23,553
+te gustaría ganar...
 
 42
-00:04:29,858 --> 00:04:31,159
-hasta el día de hoy, como técnico.
+00:04:23,816 --> 00:04:31,159
+la segunda Copa América y la segunda Copa del Mundo y quedar con algo que nadie ha logrado hasta el día de hoy, como técnico. 
 
 43
 00:04:31,759 --> 00:04:34,600
 No, estás pensando muy lejos.
 
 44
-00:04:34,620 --> 00:04:40,242
-Si ahora ella me preguntaba de lo que pasó hace casi seis años cuando vinimos por primera
+00:04:34,620 --> 00:04:41,542
+Si ahora ella me preguntaba de lo que pasó hace casi seis años cuando vinimos por primera vez acá. 
 
 45
-00:04:40,262 --> 00:04:40,482
-vez acá.
-
-46
 00:04:41,724 --> 00:04:50,627
 Lo que nos llevó a todo eso fue pensar en partido a partido, en disfrutar el momento, el proceso y no mucho más allá.
 
-47
+46
 00:04:51,188 --> 00:04:58,151
 Aparte que no vale la pena pensar en lo que pase de acá unos meses porque la realidad cuenta el ahora.
 
-48
+47
 00:04:58,411 --> 00:05:06,894
 Y ahora estamos disfrutando, estamos bien y lo que venga se verá. Pero disfrutar el proceso y el momento.
 
-49
+48
 00:05:09,429 --> 00:05:18,333
 ¿Cómo toman el partido de mañana? ¿Qué significa para Argentina enfrentar a Costa Rica y qué Costa Rica esperas?
 
-50
+49
 00:05:19,054 --> 00:05:22,895
 Imagino que vieron la referencia del partido contra Honduras, pero ¿qué esperas de Costa Rica?
 
-51
+50
 00:05:24,636 --> 00:05:32,160
 Bueno, como siempre, afrontamos el partido con la máxima profesionalidad, siempre jugar con la camiseta de la selección argentina.
 
-52
+51
 00:05:33,882 --> 00:05:36,744
 indica que hay que jugar los partidos al máximo posible
 
-53
+52
 00:05:37,305 --> 00:05:41,148
 y, independientemente del rival, hay que jugarlo así.
 
-54
+53
 00:05:42,569 --> 00:05:44,791
 A partir de ahí, Costa Rica es un buen equipo,
 
-55
+54
 00:05:45,953 --> 00:05:47,874
 tiene tradición mundialista,
 
-56
+55
 00:05:48,835 --> 00:05:52,238
 tiene jugadores interesantes y viene de ganar el último partido.
 
-57
+56
 00:05:54,442 --> 00:05:59,945
 el ánimo renovado porque clasificaron para la Copa América y tiene buenos jugadores.
 
-58
+57
 00:06:00,085 --> 00:06:05,448
 Al final el fútbol no te deja relajar en ningún momento, así que es afrontar el partido
 
-59
+58
 00:06:05,548 --> 00:06:10,411
 de la mejor manera y por ahí no pensar tanto en el resultado, sí en el funcionamiento
 
-60
+59
 00:06:10,431 --> 00:06:16,274
 ya que vamos a hacer varios cambios, pensar en que esos chicos que entren puedan demostrar
 
-61
+60
 00:06:16,294 --> 00:06:18,135
 sus condiciones con el equipo.
 
+61
+00:06:19,157 --> 00:06:28,675
+¿ qué opinas de la actualidad del estratega argentino, de cuánto puede aportar por ejemplo a un país centro americano y de una zona de Concacaf, como la que sea Costa Rica? muchas gracias. en nuestro país cada vez crece más el tema de la presencia de entrenador argentino,  
+
 62
-00:06:19,157 --> 00:06:19,718
-¿ qué opinas de la actualidad
+00:06:29,000 --> 00:06:33,209
+ahorita lo tenemos, incluso el director de selecciones en Costa Rica también es argentino, Claudio Vivas, 
 
 63
-00:06:19,738 --> 00:06:20,338
-del estratega argentino, de
+00:06:33,789 --> 00:06:45,259
+¿ te quiero pedir un criterio de qué opinas de la actualidad del estratega argentino, de cuánto puede aportar por ejemplo a un país centro americano y de una zona de Concacaf como la que sea Costa Rica? 
 
 64
-00:06:20,358 --> 00:06:21,139
-cuánto puede aportar por
-
-65
-00:06:21,159 --> 00:06:21,719
-ejemplo a un país centro
-
-66
-00:06:21,859 --> 00:06:22,580
-americano y de una zona de
-
-67
-00:06:22,600 --> 00:06:23,261
-Concacaf, como la que sea
-
-68
-00:06:23,281 --> 00:06:23,541
-Costa Rica?
-
-69
-00:06:23,661 --> 00:06:24,301
-muchas gracias.
-
-70
-00:06:24,361 --> 00:06:25,442
-en nuestro país cada vez
-
-71
-00:06:25,482 --> 00:06:27,044
-crece más el tema de la
-
-72
-00:06:27,064 --> 00:06:27,924
-presencia de entrenador
-
-73
-00:06:27,944 --> 00:06:29,726
-argentino, ahorita lo tenemos,
-
-74
-00:06:29,766 --> 00:06:30,587
-incluso el director de
-
-75
-00:06:30,607 --> 00:06:31,667
-selecciones en Costa Rica
-
-76
-00:06:31,687 --> 00:06:32,568
-también es argentino,
-
-77
-00:06:32,608 --> 00:06:33,209
-Claudio Vivas,
-
-78
-00:06:33,789 --> 00:06:35,371
-¿ te quiero pedir un criterio
-
-79
-00:06:35,631 --> 00:06:37,672
-de qué opinas de la actualidad
-
-80
-00:06:37,712 --> 00:06:39,074
-del estratega argentino,
-
-81
-00:06:39,474 --> 00:06:40,715
-de cuánto puede aportar por
-
-82
-00:06:40,735 --> 00:06:42,216
-ejemplo a un país centro
-
-83
-00:06:42,236 --> 00:06:43,777
-americano y de una zona de
-
-84
-00:06:43,817 --> 00:06:44,738
-Concacaf como la que sea
-
-85
-00:06:44,758 --> 00:06:45,259
-Costa Rica?
-
-86
 00:06:48,708 --> 00:06:53,771
 Primero, creo que la pasión que tiene el argentino por el fútbol, creo que lo transmite
 
-87
-00:06:53,851 --> 00:07:02,436
-muy bien a su dirigido, sea en el país que sea, y eso es importante remarcarlo. En Centroamérica
+65
+00:06:53,851 --> 00:07:00,625
+muy bien a su dirigido, sea en el país que sea, y eso es importante remarcarlo. 
 
-88
-00:07:02,456 --> 00:07:07,399
-también hay pasión por el fútbol, o sea, creo que es una unión linda y que puede dar
+66
+00:07:01,675 --> 00:07:09,050
+En Centroamérica también hay pasión por el fútbol, o sea, creo que es una unión linda y que puede dar  sus frutos, 
 
-89
-00:07:07,419 --> 00:07:11,942
-sus frutos, así que imagino que cuando se busca un entrenador argentino se buscará
+67
+00:07:09,050 --> 00:07:12,925
+ así que imagino que cuando se busca un entrenador argentino se buscará un poco por eso, 
 
-90
-00:07:11,962 --> 00:07:16,645
-un poco por eso, porque al final siempre digo todo de sistema de juego, de...
+68
+00:07:12,925 --> 00:07:16,645
+ porque al final siempre digo todo de sistema de juego, de...
 
-91
+69
 00:07:17,988 --> 00:07:22,693
 de táctica, de estrategia, al final todos sabemos porque todos estudiamos, todos vemos, pero hay
 
-92
+70
 00:07:23,033 --> 00:07:27,438
 hay matices que, bueno, no sé si lo tienen todos y
 
-93
+71
 00:07:27,518 --> 00:07:31,022
 el entrenador argentino en cuanto a eso, bueno, es apasionado, ¿no?
 
-94
+72
 00:07:34,726 --> 00:07:37,967
-por acá, don Leonel. Buenas tardes, Diego Bando de Canal 8 Multimedios de Costa Rica.
+por acá, don Lionel. Buenas tardes, Diego Bando de Canal 8 Multimedios de Costa Rica.
 
-95
-00:07:39,047 --> 00:07:43,608
-Cuando le hablan de Costa Rica y le escuchas ese nombre por primera vez ahora para este
+73
+00:07:39,047 --> 00:07:44,430
+Cuando le hablan de Costa Rica y le escuchas ese nombre por primera vez ahora para este amistoso, 
 
-96
-00:07:43,628 --> 00:07:49,229
-amistoso, ¿qué es lo primero que referentes? No, no, me refiero que le ponen opciones para
+74
+00:07:44,450 --> 00:07:51,125
+ ¿qué es lo primero que referentes? No, no, me refiero que le ponen opciones para enfrentar a Costa Rica 
 
-97
-00:07:49,249 --> 00:07:54,771
-enfrentar a Costa Rica en esta fecha FIFA, ¿qué es lo primero que referencia del equipo
+75
+00:07:51,125 --> 00:07:56,000
+ en esta fecha FIFA, ¿qué es lo primero que referencia del equipo costarricense  
 
-98
-00:07:54,791 --> 00:08:00,492
-costarricense y qué significa que Keylor Navas sea la figura de este equipo y obviamente
+76
+00:07:56,000 --> 00:08:03,113
+y qué significa que Keylor Navas sea la figura de este equipo y obviamente tengan una presencia diferente dentro de la cancha? 
 
-99
-00:08:00,532 --> 00:08:03,113
-tengan una presencia diferente dentro de la cancha?
+77
+00:08:04,034 --> 00:08:13,275
+Se viene en la cabeza de grandes jugadores, Celso Borges que jugó en el Deportivo La Coruña, Ruiz, jugadores como el mismo Keylor, 
 
-100
-00:08:04,034 --> 00:08:07,976
-Se viene en la cabeza de grandes jugadores, Celso Borges que jugó en el Deportivo La
+78
+00:08:13,275 --> 00:08:18,525
+que han jugado mundiales, que han dado momentos muy buenos al país   
 
-101
-00:08:07,996 --> 00:08:16,501
-Coruña, Ruiz, jugadores como el mismo Keylor, que han jugado mundiales, que han dado momentos
+79
+00:08:18,525 --> 00:08:24,165
+y tiene tradición futbolística y primero que nosotros cuando nos toquen los rivales no es que… 
 
-102
-00:08:16,521 --> 00:08:23,245
-muy buenos al país y tiene tradición futbolística y primero que nosotros cuando nos toquen los
-
-103
-00:08:23,265 --> 00:08:24,165
-rivales no es que…
-
-104
+80
 00:08:25,387 --> 00:08:30,229
 Digamos, con esto no queremos jugar. Al contrario, jugamos con todo y Segundo me parece un rival para respetar.
 
-105
+81
 00:08:31,449 --> 00:08:38,272
 Que tiene buenos jugadores y para nosotros afrontamos los partidos, sea quien sea el rival, de la misma manera.
 
-106
+82
 00:08:38,352 --> 00:08:42,434
 Así que, esperamos que sea un buen espectáculo que es lo más importante.
 
-107
-00:08:43,816 --> 00:08:44,616
-de la Conca-caf,
+83
+00:08:44,636 --> 00:08:48,179
+¿qué tal, Buenas tardes? para Teletica Radio de Costa Rica, estamos en vivo, 
 
-108
-00:08:44,636 --> 00:08:45,937
-¿qué tal, Buenas tardes?
+84
+00:08:49,260 --> 00:08:53,923
+mucho se ha hablado en Argentina, sobre el hecho de jugar tanto contra selecciones de la Conca-caf, 
 
-109
-00:08:45,957 --> 00:08:47,118
-para Teletica Radio de
+85
+00:08:54,784 --> 00:09:04,311
+en este caso, es evidente que las elecciones de Conca-caf, van a ser muy privilegiadas en jugar contra Argentina, y en un aprendizaje de jugar contra la selección campional al mundo, 
 
-110
-00:08:47,138 --> 00:08:48,179
-Costa Rica, estamos en vivo,
-
-111
-00:08:49,260 --> 00:08:50,040
-mucho se ha hablado en
-
-112
-00:08:50,060 --> 00:08:51,761
-Argentina, sobre el hecho de
-
-113
-00:08:51,781 --> 00:08:52,782
-jugar tanto contra
-
-114
-00:08:52,802 --> 00:08:53,923
-selecciones de la Conca-caf,
-
-115
-00:08:54,784 --> 00:08:56,225
-en este caso, es evidente que
-
-116
-00:08:56,245 --> 00:08:57,346
-las elecciones de Conca-caf,
-
-117
-00:08:57,426 --> 00:09:00,548
-van a ser muy privilegiadas en
-
-118
-00:09:00,568 --> 00:09:01,869
-jugar contra Argentina, y en un
-
-119
-00:09:01,909 --> 00:09:03,230
-aprendizaje de jugar contra la
-
-120
-00:09:03,250 --> 00:09:04,311
-selección campional al mundo,
-
-121
+86
 00:09:11,771 --> 00:09:16,154
 Bueno, yo soy... mejor dicho, no soy muy partidario de analizar...
 
-122
+87
 00:09:17,716 --> 00:09:21,018
 Cuando jugas contra un subamericano, no todos los subamericanos juegan igual.
 
-123
+88
 00:09:21,059 --> 00:09:23,960
 Cuando juegas contra un centroamericano, no todos juegan igual.
 
-124
+89
 00:09:24,060 --> 00:09:29,203
 Al final son distintas selecciones, distinta manera de jugar, distintos jugadores
 
-125
+90
 00:09:29,704 --> 00:09:35,427
 y hay que sacar el partido adelante de la mejor manera que sea quien sea.
 
-126
+91
 00:09:36,208 --> 00:09:38,749
 Al final nos tocó Costa Rica y El Salvador.
 
-127
+92
 00:09:39,350 --> 00:09:43,032
 Aunque sean centroamericanos, juegan diferente y está bueno para nosotros.
 
-128
+93
 00:09:44,654 --> 00:09:47,817
 y no me voy a cansar de
 
-129
+94
 00:09:48,178 --> 00:09:51,060
 repetirlo, es como afrontamos el
 
-130
+95
 00:09:51,100 --> 00:09:53,242
 partido y no tanto el rival,
 
-131
+96
 00:09:53,703 --> 00:09:55,104
 respetándolo siempre, ¿no?
 
-132
+97
 00:09:55,704 --> 00:09:56,946
-Buenas tardes, don Leonel,
+Buenas tardes, don Lionel,
 
-133
+98
 00:09:57,026 --> 00:09:58,787
 Estefan y Charly para ESPN.
 
-134
+99
 00:09:59,268 --> 00:10:00,789
 Quisiera que me compartiera un
 
-135
+100
 00:10:00,829 --> 00:10:02,290
 criterio sobre Gustavo Alfaro
 
-136
-00:10:02,791 --> 00:10:04,633
-como entrenador y también que
+101
+00:10:02,791 --> 00:10:07,535
+como entrenador y también que espera de su gestión frente a Costa Rica. Gracias. 
 
-137
-00:10:04,653 --> 00:10:06,454
-espera de su gestión frente a
-
-138
-00:10:06,474 --> 00:10:07,535
-Costa Rica. Gracias.
-
-139
+102
 00:10:09,660 --> 00:10:20,837
 Bueno, es un entrenador que lo ha hecho muy bien donde ha estado, siempre ha sacado resultados con sus equipos y con Ecuador hizo un trabajo muy bueno, dejando un
 
-140
-00:10:22,061 --> 00:10:26,665
-un listón muy alto, una camada de jugadores muy jóvenes, que él le ha dado la oportunidad
+103
+00:10:22,061 --> 00:10:27,200
+un listón muy alto, una camada de jugadores muy jóvenes, que él le ha dado la oportunidad de jugar.  
 
-141
-00:10:26,685 --> 00:10:35,852
-de jugar. Así que, bueno, lo mismo espero en Costa Rica. Espero y deseo que así sea
+104
+00:10:27,200 --> 00:10:32,825
+Así que, bueno, lo mismo espero en Costa Rica.
 
-142
-00:10:36,172 --> 00:10:40,475
-que dejen trabajar el proceso porque al final creo que fue esa palabra que utilizaron también
+105
+00:10:32,825 --> 00:10:40,475
+ Espero y deseo que así sea que dejen trabajar el proceso porque al final creo que fue esa palabra que utilizaron también 
 
-143
+106
 00:10:41,316 --> 00:10:47,561
 con el tiempo y los buenos jugadores que tiene y la cultura futbolística seguramente
 
-144
+107
 00:10:48,543 --> 00:10:54,284
 dará resultado, eso es lo que cualquier entrenador desea y yo le deseo a él y a Costa Rica, ¿no?
 
-145
+108
 00:10:55,024 --> 00:10:59,065
 Lionel, seguramente la próxima lista, ya sea con los 23 de la Copa América,
 
-146
+109
 00:10:59,766 --> 00:11:04,687
 ¿son estos que venís citando o puede haber un caso de Enzo Fernández que debuté en la selección,
 
-147
+110
 00:11:04,707 --> 00:11:08,308
 como le tocó debutar en Qatar, que estás siguiendo?
 
-148
+111
 00:11:08,408 --> 00:11:12,429
 Y después, más allá de la pregunta, una duda, ¿si Aymar te compró el buzo de los Lakers?
 
-149
+112
 00:11:12,889 --> 00:11:17,235
 No, al final me regalaron otro, no tendría que haber comprado el buzo, la verdad, en ese momento,
 
-150
+113
 00:11:17,255 --> 00:11:21,861
 porque íbamos muy rápido, íbamos apurados, y no sé si lo hiciste vos el video, pero...
 
-151
-00:11:23,285 --> 00:11:32,830
-me debe una ahí, no quedé muy bien. Y lo de la lista, al final, nosotros estamos abiertos
+114
+00:11:23,285 --> 00:11:25,850
+me debe una ahí, no quedé muy bien.
 
-152
-00:11:32,870 --> 00:11:38,714
-a lo que sea, si salen buenos jugadores o nuevos jugadores y tienen que subirse a la
+115
+00:11:27,550 --> 00:11:32,830
+ Y lo de la lista, al final, nosotros estamos abiertos
 
-153
-00:11:38,754 --> 00:11:45,818
-lista, lo haremos. Hoy hay 25 aquí o convocado, 24 no recuerdo ahora si fue Lisandro.
+116
+00:11:32,870 --> 00:11:39,325
+a lo que sea, si salen buenos jugadores o nuevos jugadores y tienen que subirse a la lista, 
 
-154
-00:11:47,560 --> 00:11:54,166
+117
+00:11:39,325 --> 00:11:45,818
+ lo haremos. Hoy hay 25 aquí o convocado, 24 no recuerdo ahora si fue Lisandro.
+
+118
+00:11:48,660 --> 00:11:54,166
 y otros tantos que no vinieron por lesión, así que el cupo está pasado, diríamos,
 
-155
+119
 00:11:54,186 --> 00:12:01,233
 pero si aún así alguno puede entrar porque ha hecho un buen final de temporada,
 
-156
+120
 00:12:01,393 --> 00:12:03,495
 la gente que estará, no tenemos problemas.
 
-157
+121
 00:12:04,677 --> 00:12:05,177
 Gracias.
 
-158
+122
 00:12:05,537 --> 00:12:06,098
 Bueno, gracias.
-
-159
-00:12:13,594 --> 00:12:16,798
-Si te gustó el video, te invitamos a que te suscribas a nuestro canal de YouTube
-
-160
-00:12:16,898 --> 00:12:19,722
-y actives la campanita para enterarte de todo nuestro contenido.
-
-161
-00:12:19,922 --> 00:12:23,827
-Visita takesports.com para estar al tanto de todas las novedades del deporte.
 
