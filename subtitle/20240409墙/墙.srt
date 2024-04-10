@@ -1,0 +1,1504 @@
+1
+00:05:05,608 --> 00:06:17,525
+¡Suscríbete al canal!
+
+2
+00:06:20,388 --> 00:06:25,951
+Buenas, buenas, buenas. ¿Cómo andan? Buenos días para todos. 9.39 am en toda la República
+
+3
+00:06:26,051 --> 00:06:35,097
+Argentina. Teníamos todo preparado, todo chequeado a las 9.20 con Leandro. Son cinco horas más en Italia.
+
+4
+00:06:39,161 --> 00:06:46,047
+las 2 y 20 pm, era, estaba todo perfecto, coordinamos, cruzamos mensajes,
+
+5
+00:06:46,247 --> 00:06:51,671
+hicimos todo lo que tiene que ver con la puesta al aire,
+
+6
+00:06:51,792 --> 00:06:56,856
+chequeamos audios, que las pantallas estén simétricas en la dividida.
+
+7
+00:06:57,478 --> 00:07:00,360
+y, de repente, el famoso se cayó el sistema
+
+8
+00:07:00,740 --> 00:07:03,522
+y estamos tratando de recomponer todo
+
+9
+00:07:03,562 --> 00:07:05,603
+para tener una charla, aunque sea de 20 minutos,
+
+10
+00:07:05,643 --> 00:07:08,064
+con Leandro, porque después él se tiene que ir
+
+11
+00:07:08,224 --> 00:07:11,506
+a buscar a los chicos al colegio.
+
+12
+00:07:12,587 --> 00:07:13,067
+Y, bueno...
+
+13
+00:07:14,489 --> 00:07:17,691
+También estamos para estas cosas, para contarles cómo viene la mano.
+
+14
+00:07:17,751 --> 00:07:23,435
+Estaba todo perfecto, de hecho acá tengo el listado de temas para tocar con él.
+
+15
+00:07:24,015 --> 00:07:26,457
+Gracias Santiago Cisneros, aquí coloco.
+
+16
+00:07:27,237 --> 00:07:30,119
+Buenas madrugadas, dice Lucio Gol.
+
+17
+00:07:30,440 --> 00:07:33,301
+Buen día gente, saluda Alejo Sánchez.
+
+18
+00:07:34,422 --> 00:07:35,203
+Elías Rodríguez.
+
+19
+00:07:35,663 --> 00:07:38,765
+Se llegué acá por las tendencias de Twitter, no sé qué tiene que ver.
+
+20
+00:07:38,805 --> 00:07:40,026
+Lea con el Glory Hole.
+
+21
+00:07:40,647 --> 00:07:45,612
+del costo de la luz, esas cosas que tiene Twitter, que son increíbles.
+
+22
+00:07:45,672 --> 00:07:50,457
+La tendencia es una caja de sorpresas.
+
+23
+00:07:50,477 --> 00:07:54,020
+Julio prendió el mañanero, saludos a Cryptic, todo.
+
+24
+00:07:55,342 --> 00:07:58,285
+Pero bueno, estábamos recontra, ok, con...
+
+25
+00:07:59,467 --> 00:08:07,830
+con Leandro y se cayó el sistema, tuvimos un problema en Streamlabs,
+
+26
+00:08:07,870 --> 00:08:13,832
+se desconfiguró, cero ganas de laburar, pero para MirarClan,
+
+27
+00:08:13,852 --> 00:08:15,212
+que excelente, Juan Pablo Lacu y...
+
+28
+00:08:18,414 --> 00:08:47,127
+Y estamos, creo que estamos, voy cámara con invitado, si me dan el ok en técnica, estoy acá siguiendo todo vía chat con nuestro equipo de producción porque en serio teníamos todo configurado y de golpe se cayó el sistema y por lo menos 20 minutos vamos a charlar con Leandro si está ok, excelente, cámara con invitado, collab cam, perfecto, ahora sí, ahora sí, muy bien.
+
+29
+00:08:48,508 --> 00:08:51,150
+Hola, Leán, estamos en vivo. ¿Cómo andás? ¿Cómo va todo?
+
+30
+00:08:52,050 --> 00:08:54,291
+Hola, ¿cómo va todo bien?
+
+31
+00:08:54,511 --> 00:08:57,633
+Se nos cayó el sistema a cinco minutos antes de salir al aire, una cosa de loco.
+
+32
+00:08:57,653 --> 00:09:02,275
+Pero bueno, vamos a charlar un ratito antes de que vayas a buscar a los chicos al cole.
+
+33
+00:09:03,676 --> 00:09:04,957
+Quiero empezar por el clásico.
+
+34
+00:09:06,357 --> 00:09:07,438
+Se puso áspero.
+
+35
+00:09:08,498 --> 00:09:14,481
+Sí, bueno, como todo clásico y acá la gente lo vive muy intenso.
+
+36
+00:09:14,541 --> 00:09:17,503
+La semana previa fue también muy intensa.
+
+37
+00:09:18,284 --> 00:09:20,145
+y sabíamos que era muy importante para nosotros,
+
+38
+00:09:20,165 --> 00:09:23,566
+para la clasificación a la Champions y también para la gente.
+
+39
+00:09:23,886 --> 00:09:26,747
+Y además tenían el antecedente de la Copa de Italia,
+
+40
+00:09:26,767 --> 00:09:27,808
+que terminó con muchas rojas.
+
+41
+00:09:27,828 --> 00:09:30,148
+Creo que fue el último partido de José Mourinho.
+
+42
+00:09:32,129 --> 00:09:36,871
+No fue el último de él, pero sí, el último que habíamos jugado con Alassio
+
+43
+00:09:36,911 --> 00:09:42,413
+había sido también muy picante, muy intenso y había quedado esa pica.
+
+44
+00:09:43,594 --> 00:09:51,540
+¿Y qué le pasó a Paulo? Mostrándole la canicera del campeón del mundo a Guendouzi, ¿no lo tenía en ese registro? ¿Vos sí?
+
+45
+00:09:54,222 --> 00:10:05,950
+No, tampoco, pero como dije, quizás la semana previa fue tanto lo que se habló, tanto lo que se le generó, que hasta Pablo le hizo salir este tipo de cosas.
+
+46
+00:10:06,050 --> 00:10:11,033
+Escúchame, ¿se había picado mucho el clima con la prensa, las redes ahí en Roma?
+
+47
+00:10:12,777 --> 00:10:19,849
+Sí, la verdad que la gente acá lo vive, es increíble cómo vive el Clásico, la importancia
+
+48
+00:10:19,869 --> 00:10:23,435
+que tiene el ganador del Clásico.
+
+49
+00:10:24,539 --> 00:10:27,900
+y lo tomamos como tal. Sabíamos que era un partido muy importante que me ofrecían para
+
+50
+00:10:28,160 --> 00:10:31,961
+nuestra clasificación a la Champions League el año que viene y para toda esta ciudad.
+
+51
+00:10:32,001 --> 00:10:39,123
+Y ahora tienen UEFA Europa League ante Milan, la ida en Milan, la vuelta en Roma. ¿Se iguala
+
+52
+00:10:39,163 --> 00:10:43,284
+un poco el tema de pertenecer a la misma liga, de conocerse un poco más? Bueno, ya no está
+
+53
+00:10:43,304 --> 00:10:48,285
+el gol de visitante como criterio de definición, pero ¿qué diferencias hay entre un partido
+
+54
+00:10:48,305 --> 00:10:52,586
+contra un equipo de otro país y otro al que tenés bien cerca y competís en el mismo
+
+55
+00:10:52,767 --> 00:10:53,027
+torneo?
+
+56
+00:10:54,288 --> 00:11:01,733
+Sí, es bueno, por un lado, porque como decís, al conocer, al jugar bastante seguido, a verlo
+
+57
+00:11:01,753 --> 00:11:10,719
+durante toda la temporada al Milan, seguramente sea un poco más fácil preparar el partido,
+
+58
+00:11:11,280 --> 00:11:14,662
+pero sabemos que nos enfrentamos a uno de los mejores de nuestra…
+
+59
+00:11:14,243 --> 00:11:17,145
+de nuestra Liga y tocar hacer un buen partido.
+
+60
+00:11:18,125 --> 00:11:19,806
+León, ¿qué cambió con De Rossi?
+
+61
+00:11:20,086 --> 00:11:25,249
+Y pregunto primero por el equipo y después vayamos a tu situación particular con De Rossi.
+
+62
+00:11:25,289 --> 00:11:32,613
+Pero, ¿qué le dio él después de lo que ha sido un ciclo muy intenso con final continental
+
+63
+00:11:32,653 --> 00:11:36,655
+con Mourinho y ese desenlace en medio de la temporada? ¿Qué les dio Daniele?
+
+64
+00:11:38,056 --> 00:11:41,478
+No, seguramente nos dio las ganas y la...
+
+65
+00:11:44,820 --> 00:12:09,971
+cómo se dice, me sale en italiano, perdón. La grinta. Sí, esa palabra. La grinta es como la energía, la actitud, la actitud esa que quizás habíamos perdido por la situación en la que estábamos, porque sabíamos que era difícil salir, los resultados no acompañaban, entonces ya el tener a él como entrenador que
+
+66
+00:12:11,213 --> 00:12:17,116
+que como jugador tenía esa grinta, esa personalidad para salir de momentos importantes, nos transmitió también como entrenador.
+
+67
+00:12:17,637 --> 00:12:25,181
+Tenés muchas cosas en común con él, el número 16, la posición en la cancha, hasta incluso la transformación como futbolista
+
+68
+00:12:25,501 --> 00:12:33,466
+y el último punto en común es Boca, esa seña que te hace cuando ganan por penales la serie anterior en la UEFA Europa League.
+
+69
+00:12:35,229 --> 00:12:43,172
+¿Qué significó para vos y qué te transmitió él en ese lugar de la cancha, en ese club, con ese número de camisetas y también con Boca?
+
+70
+00:12:44,272 --> 00:12:52,575
+La verdad que la relación que tuve con él desde el primer día que me tocó llegar a Roma en el 2014 fue realmente muy buena.
+
+71
+00:12:52,615 --> 00:12:59,638
+Me ha maltratado de la nuestra manera, hemos tenido una relación durante todos estos años espectacular.
+
+72
+00:13:00,459 --> 00:13:02,740
+donde hablábamos muchísimo.
+
+73
+00:13:02,761 --> 00:13:05,602
+Él siempre me decía que yo tenía que volver a Roma cuando él sea entrenador.
+
+74
+00:13:05,642 --> 00:13:10,885
+Él soñaba por ser entrenador de Roma y quería que yo venga a jugar con él.
+
+75
+00:13:11,605 --> 00:13:18,348
+Y soñábamos con esto, pero nunca nos imaginábamos que podía pasar tan rápido.
+
+76
+00:13:18,408 --> 00:13:23,831
+Así que disfrutándolo, porque él la verdad es que me ha ayudado a mejorar como jugador
+
+77
+00:13:23,851 --> 00:13:25,692
+cuando era compañero de él y hoy en día que soy...
+
+78
+00:13:26,853 --> 00:13:29,234
+Él es mi entrenador, también lo hace de la mejor manera.
+
+79
+00:13:29,434 --> 00:13:32,254
+¿Qué te ayudó como jugador? ¿Qué consejos te dio?
+
+80
+00:13:32,274 --> 00:13:39,496
+La verdad que en la posición me hace crecer muchísimo porque como dije, lo ha hecho durante toda su carrera.
+
+81
+00:13:40,676 --> 00:13:48,218
+Ha sido uno de los mejores en su posición durante todo ese tiempo y me ha ayudado mucho en la posición.
+
+82
+00:13:50,039 --> 00:13:56,320
+en moverme cuando no tenemos el balón, en las transiciones post-pérdida y demás,
+
+83
+00:13:56,360 --> 00:13:59,781
+así que en eso les voy a estar mejorando muchísimo.
+
+84
+00:14:00,461 --> 00:14:05,462
+¿Qué tres o cuatro cosas tiene que manejar un volante central, un mediocampista?
+
+85
+00:14:05,482 --> 00:14:08,342
+O sea, estás todo el tiempo mirando, ¿no te duele el cuello
+
+86
+00:14:08,362 --> 00:14:10,263
+cuando terminan los partidos de tanto mirar?
+
+87
+00:14:10,323 --> 00:14:13,603
+Porque tenés que estar adelantándote al siguiente pase.
+
+88
+00:14:13,863 --> 00:14:16,784
+Contanos un poco los tres o cuatro, no sé si secretos,
+
+89
+00:14:16,804 --> 00:14:18,544
+pero sí fundamentos del puesto.
+
+90
+00:14:19,645 --> 00:14:42,960
+Sí, seguramente, como decís, tenés que estar mirando continuamente todo, no solo cuando tenés la pelota, sino cuando no la tenés y cuando la tiene un compañero tuyo también para, como dije recién, las transiciones post-pérdida que son fundamentales para recuperar rápido, para estar siempre en posición de...
+
+91
+00:14:44,102 --> 00:14:49,764
+de recuperar lo más rápido posible para poder tener la posición de pelota, que es muy importante para nosotros.
+
+92
+00:14:49,784 --> 00:14:55,406
+Hace cuatro años charlamos para FA Play y me decías que eras muy exigente, que para vos nunca jugabas bien.
+
+93
+00:14:56,206 --> 00:15:02,788
+¿Empezaste a valorar, a ser menos exigente, menos duro con vos mismo y disfrutar de buenos partidos?
+
+94
+00:15:04,569 --> 00:15:06,230
+Trato, trato, pero se me hace muy difícil.
+
+95
+00:15:06,250 --> 00:15:09,391
+Se me hace muy difícil porque siento que siempre lo puedo hacer mejor,
+
+96
+00:15:09,411 --> 00:15:13,112
+que siempre lo puedo hacer mejor, que siempre lo puedo hacer mejor.
+
+97
+00:15:12,233 --> 00:15:17,256
+que todavía tengo muchas ganas de mejorar, que sé que tengo que mejorar en muchos aspectos
+
+98
+00:15:17,956 --> 00:15:23,119
+y eso me lleva a que al terminar cada partido, buscar en qué puedo mejorar.
+
+99
+00:15:23,520 --> 00:15:24,320
+¿Ves los partidos?
+
+100
+00:15:25,201 --> 00:15:26,101
+Sí, siempre.
+
+101
+00:15:26,441 --> 00:15:29,183
+¿Pero inmediatamente después o te tomás un par de días?
+
+102
+00:15:30,524 --> 00:15:36,668
+Depende, depende de la hora que termine el partido, depende si llego a casa y hay otros
+
+103
+00:15:36,688 --> 00:15:37,848
+partidos para mirar.
+
+104
+00:15:39,191 --> 00:15:42,414
+miro los que están para mirar y cuando no hay nada para ver veo el mío.
+
+105
+00:15:42,974 --> 00:15:50,301
+¿Les das bola a las estadísticas, el GPS, la distancia recorrida, los pases correctos?
+
+106
+00:15:51,142 --> 00:15:53,023
+¿Cuánta importancia le das a esos números?
+
+107
+00:15:54,366 --> 00:15:58,907
+Al GPS nada, nada de importancia, no, no, no, no.
+
+108
+00:15:59,007 --> 00:16:03,188
+¿Lo usas porque te piden? Si fuera por vos no lo usarías.
+
+109
+00:16:03,808 --> 00:16:10,149
+No, si fuera por mí no lo usaría, pero bueno, a los profes hoy en día les sirve mucho
+
+110
+00:16:10,169 --> 00:16:14,811
+y les gusta mirar ese tipo de datos, así que lo usamos más por ellos que por nosotros
+
+111
+00:16:14,891 --> 00:16:16,331
+y los entrenados también, yo creo que...
+
+112
+00:16:17,112 --> 00:16:20,073
+Conociendo a Daniele tampoco le interesa mucho el tema del GPS.
+
+113
+00:16:20,593 --> 00:16:23,354
+Vos es que cuando Daniele jugaba acá en Boca,
+
+114
+00:16:23,755 --> 00:16:25,695
+una nota con el pollo, Viñuelo en Fox,
+
+115
+00:16:25,735 --> 00:16:29,457
+decía que era fanático de Riquelme y que era fanático de los mediocampistas
+
+116
+00:16:29,477 --> 00:16:33,159
+y que tenía un chat que era solamente para hablar de mediocampistas.
+
+117
+00:16:33,179 --> 00:16:35,219
+¿Te dijo algo de eso? ¿Sabés algo de ese chat?
+
+118
+00:16:36,440 --> 00:16:40,582
+Sí, no sé del chat, pero sí soy consciente de que está todo el tiempo mirando...
+
+119
+00:16:41,943 --> 00:16:49,729
+El jugador es en esa posición, le encanta, sabe de Rodríguez, que es un jugador de la Serie B de Italia.
+
+120
+00:16:50,769 --> 00:16:56,093
+Le encanta mirar el fútbol, le encanta el hombre campista, tratar de siempre sacarlo al mejor de cada uno
+
+121
+00:16:57,514 --> 00:16:59,335
+y ayudar a los demás a que puedan seguir mejorando.
+
+122
+00:17:00,396 --> 00:17:04,198
+Vos sos también un futbolista que parte de la mitad de la cancha.
+
+123
+00:17:04,538 --> 00:17:07,981
+¿Crees que sin un buen medio campo es muy difícil que el equipo juegue bien?
+
+124
+00:17:11,153 --> 00:17:17,374
+Sí, a mi entender, sí. Yo creo que pasa todo por ahí, de tener jugadores de buen pie,
+
+125
+00:17:17,394 --> 00:17:24,235
+de que traten de jugar bien, que sean inteligentes también para la hora de recuperar. No necesariamente
+
+126
+00:17:24,255 --> 00:17:31,317
+tienen que ser recuperadores, sino más pensantes también. Y la verdad que sí, miro mucho fútbol,
+
+127
+00:17:31,337 --> 00:17:31,737
+me encanta.
+
+128
+00:17:32,417 --> 00:17:36,419
+Miran ese tipo de jugadores y creo que por un equipo el mediocampo es muy importante.
+
+129
+00:17:36,820 --> 00:17:45,104
+Se está armando lindo en el mediocampo de Boca, con Equipol, Medina, Zenón, Saralegui como alternativa.
+
+130
+00:17:45,224 --> 00:17:47,385
+Blondel hasta que se lastimó jugó de ocho también.
+
+131
+00:17:48,346 --> 00:17:56,230
+¿Ve esa Boca? Me imagino que sí, pero me refiero a esa parte concreta, el mediocampo y las variantes que está empezando a tener.
+
+132
+00:17:57,291 --> 00:17:58,991
+Sí, la verdad que sí, son chicos con...
+
+133
+00:18:00,273 --> 00:18:04,395
+con mucha calidad, que son muy jóvenes y le pueden dar muchísimo al club.
+
+134
+00:18:04,415 --> 00:18:07,876
+Creo que el otro día con Newell, que tuviera posibilidades del partido,
+
+135
+00:18:08,556 --> 00:18:11,757
+jugaron muy bien y el entrenador que tiene también le gusta jugar al fútbol
+
+136
+00:18:11,797 --> 00:18:15,078
+y seguramente lo hará jugar todavía mejor.
+
+137
+00:18:15,218 --> 00:18:18,219
+Y creo que Boca puede jugar muchísimo mejor todavía.
+
+138
+00:18:19,381 --> 00:18:23,083
+Obviamente, el regreso a Boca forma parte de tu plan.
+
+139
+00:18:23,683 --> 00:18:25,284
+¿Tiene fecha, no tiene fecha?
+
+140
+00:18:25,504 --> 00:18:28,085
+¿A partir de la temporada siguiente ya empezás a pensar
+
+141
+00:18:28,125 --> 00:18:29,726
+bueno, cuándo va a ser el momento?
+
+142
+00:18:30,167 --> 00:18:32,648
+¿O todavía crees que hay un par de años más en Europa
+
+143
+00:18:32,668 --> 00:18:35,770
+para después sí pensar en el regreso?
+
+144
+00:18:35,970 --> 00:18:37,050
+No, no tengo fecha.
+
+145
+00:18:37,070 --> 00:18:40,752
+No me puse fecha, no me pongo fecha para nada en mi vida.
+
+146
+00:18:40,772 --> 00:18:44,514
+Trato de vivir mi vida y mi carrera día a día.
+
+147
+00:18:44,834 --> 00:18:46,595
+Seguramente todo lo que tenga que pasar, pasará.
+
+148
+00:18:47,797 --> 00:18:56,884
+Obviamente que las ganas de volver siempre están, siempre lo dije y eso va a estar siempre en mi cabeza, pero no, no me pongo fecha.
+
+149
+00:18:57,264 --> 00:18:59,545
+¿Quieres volver con Román de presidente?
+
+150
+00:19:01,387 --> 00:19:13,115
+Ojalá, ojalá, lo hablé con él también, dijo que quiere que vuelva antes que se vaya, seguramente estará muchísimos años en el club, igualmente, porque como es que ya hace un tiempo lo está haciendo muy bien, la gente está contenta, así que...
+
+151
+00:19:14,017 --> 00:19:16,659
+Seguramente vuelva cuando esté él.
+
+152
+00:19:17,239 --> 00:19:19,161
+Tenés una relación bastante especial con él,
+
+153
+00:19:19,221 --> 00:19:22,903
+que hasta incluso tiene que ver con tus primeros años en Boca.
+
+154
+00:19:22,923 --> 00:19:24,544
+Vos arrancás muy chico con Borghi,
+
+155
+00:19:24,945 --> 00:19:27,166
+pero hay un momento en el que vos ibas a usar la 10
+
+156
+00:19:27,266 --> 00:19:30,108
+y vuelve Román con Bianchi de Técnico en 2013.
+
+157
+00:19:31,650 --> 00:19:35,352
+Sí, él deja Boca por seis meses.
+
+158
+00:19:36,213 --> 00:19:40,816
+Y bueno, yo en ese tiempo en su enlace americano usé la 10
+
+159
+00:19:40,856 --> 00:19:42,597
+y en el torneo de verano también.
+
+160
+00:19:43,439 --> 00:19:47,620
+Empezaba a usar la 10 con Bianchi y después tomo la decisión de volver a Ramon.
+
+161
+00:19:48,000 --> 00:19:53,682
+¿Y cómo fue ese momento de tomar la camiseta? Vos usabas la 32 después, ¿no?
+
+162
+00:19:54,922 --> 00:20:00,104
+Usaba la 20. Bianchi me daba la 20. Usaba la 32 antes de usar la 10.
+
+163
+00:20:01,224 --> 00:20:03,745
+No, la verdad que no hacía ni falta que se la dé.
+
+164
+00:20:03,925 --> 00:20:09,586
+Obviamente era una camiseta que estaba tomando prestado, que seguramente era de él.
+
+165
+00:20:10,388 --> 00:20:13,493
+Para mí era espectacular que él vuelva.
+
+166
+00:20:13,513 --> 00:20:17,821
+Seguramente era consciente que podía aprender muchísimo de él.
+
+167
+00:20:17,841 --> 00:20:21,106
+Era mi ídolo y estar cerca de él para mí era espectacular.
+
+168
+00:20:21,751 --> 00:20:25,292
+Eras enganche hasta que Marco Gianpaolo en Empoli te dice,
+
+169
+00:20:25,673 --> 00:20:30,275
+vamos a probar con vos de mediocampista central, ahí arranca tu reconversión futbolística.
+
+170
+00:20:30,976 --> 00:20:36,339
+¿Fue fácil para él convencerte a vos, te gustó la idea de entrada?
+
+171
+00:20:36,379 --> 00:20:41,541
+Habías visto quizás, no sé, la reconversión de Pirlo, por ejemplo, por poner un nombre de 10 a 5.
+
+172
+00:20:41,722 --> 00:20:43,022
+¿Cómo fueron esos días?
+
+173
+00:20:44,343 --> 00:20:49,286
+La verdad que el momento que me lo dijo no tuve ningún problema,
+
+174
+00:20:49,306 --> 00:20:49,766
+no es que...
+
+175
+00:20:50,768 --> 00:20:55,090
+que hubo mucha charla, me dijo que él quería que yo fuera en esa posición porque quería que su equipo tenga mucha salida
+
+176
+00:20:55,630 --> 00:20:58,652
+y que yo sea el centro de esa salida de juego.
+
+177
+00:20:59,693 --> 00:21:08,438
+Y me pareció raro, pero el primer partido me sentí muy bien y a partir de ahí no quise cambiar la posición.
+
+178
+00:21:09,178 --> 00:21:11,440
+Decías, tengo que mejorar algunas cosas.
+
+179
+00:21:11,680 --> 00:21:13,781
+¿En qué cosas crees que tenés que mejorar?
+
+180
+00:21:15,623 --> 00:21:21,987
+No, creo que en todo, día a día, en todos los aspectos puedes mejorar siempre un poco,
+
+181
+00:21:22,007 --> 00:21:27,891
+sea en posición y sea en fase defensiva también.
+
+182
+00:21:29,733 --> 00:21:32,175
+en las dos formas se puede mejorar siempre.
+
+183
+00:21:51,707 --> 00:21:56,150
+un punto fijo para San Paoli en las primeras convocatorias, pero yendo al ciclo escalón y
+
+184
+00:21:56,170 --> 00:22:02,094
+digamos jugaste ese primer partido con Guatemala, ese abrazo después de la final del mundial es
+
+185
+00:22:02,535 --> 00:22:07,978
+emocionante, lo veo y me sigue conmoviendo. Contanos un poco de la relación que tenés con él.
+
+186
+00:22:09,439 --> 00:22:16,704
+La relación es espectacular, el primer día que le tocó agarrar la selección y
+
+187
+00:22:18,767 --> 00:22:23,088
+Y me dio esa camiseta y me dio esa responsabilidad y me dijo que yo iba a ser el 5 de su selección.
+
+188
+00:22:23,108 --> 00:22:29,931
+Para mí fue increíble y a partir de ahí creo que hicimos una relación espectacular.
+
+189
+00:22:29,951 --> 00:22:35,153
+Hemos un grupo muy muy bueno de jugadores jóvenes con mucha gana, de personas increíbles.
+
+190
+00:22:35,193 --> 00:22:37,774
+Y eso llevó a que hayamos logrado todo lo que logramos.
+
+191
+00:22:38,334 --> 00:22:40,174
+¿Cuándo nace el LPD?
+
+192
+00:22:43,416 --> 00:22:45,196
+Yo creo que...
+
+193
+00:22:47,519 --> 00:22:54,809
+después de la Copa América 2019, cuando perdimos con Chile, cuando ganamos a Chile, que perdimos
+
+194
+00:22:54,829 --> 00:22:59,755
+en el final con Brasil y le ganamos a Chile en el tercer y cuarto puesto.
+
+195
+00:23:01,960 --> 00:23:25,219
+El LPD es obviamente lo chelso, Paredes de Pol, ese triángulo de mediocampistas, se han sumado Enzo, Alexis, hay muchas otras variantes también de chicos entre 20 y 25 años. Argentina tiene un montón de mediocampistas, pero bueno, en algún momento Argentina va a jugar sin Messi y han pasado partidos sin Leo.
+
+196
+00:23:26,502 --> 00:23:31,986
+¿Hay alguna diferencia, obviamente sabemos todo lo que da Leo como jugador, como símbolo,
+
+197
+00:23:32,406 --> 00:23:39,211
+pero desde el punto de vista táctico, estratégico, de cómo se paran y cómo se relacionan dentro de la cancha,
+
+198
+00:23:39,231 --> 00:23:39,892
+¿hay diferencias?
+
+199
+00:23:41,573 --> 00:23:49,579
+Hay diferencias en el momento que te toca atacar que no tener a Leo, esa es la diferencia,
+
+200
+00:23:49,599 --> 00:23:54,603
+pero después creo que hay jugadores increíbles que...
+
+201
+00:23:55,685 --> 00:24:00,388
+también lo pueden hacer muy bien. Lo hemos demostrado cuando nos ha tocado jugar
+
+202
+00:24:00,408 --> 00:24:03,690
+sin Leo, que también podemos jugar muy bien, pero como te dije recién, la
+
+203
+00:24:04,290 --> 00:24:08,713
+diferencia es esa de que a la hora de abrir un partido seguramente con Leo las
+
+204
+00:24:08,753 --> 00:24:13,416
+cosas pueden ser mucho más fáciles. ¿Y desde el lado defensivo digamos hay algún cambio?
+
+205
+00:24:15,838 --> 00:24:18,239
+No, a nivel defensivo no, porque seguramente
+
+206
+00:24:19,581 --> 00:24:24,984
+Como digo siempre, no hace falta que corra tanto para darnos una mano a la hora de defender.
+
+207
+00:24:25,565 --> 00:24:34,930
+Es demasiado inteligente para saber posicionarse, para saber cortar línea de parces y eso nos ayuda muchísimo a nosotros en los mini-compis.
+
+208
+00:24:34,950 --> 00:24:41,914
+¿Crees que la 10 debe retirarse cuando deje de jugar él?
+
+209
+00:24:42,435 --> 00:24:43,655
+No lo sé, no lo sé.
+
+210
+00:24:43,916 --> 00:24:47,478
+No lo sé porque seguramente se habrá hablado muchísimo cuando...
+
+211
+00:24:48,279 --> 00:24:53,440
+cuando Diego podía dejar esa camiseta, hoy en día Leo también.
+
+212
+00:24:53,480 --> 00:24:57,441
+No creo que él quiera tampoco que se retire, porque ahora seguramente
+
+213
+00:24:57,461 --> 00:25:01,401
+muchísimos chicos que tienen la ilusión de jugar con esta camiseta
+
+214
+00:25:03,002 --> 00:25:03,902
+y no creo que él quiera.
+
+215
+00:25:04,642 --> 00:25:09,783
+Es más, el 10 es una función, es un número que representa algo dentro de la cancha.
+
+216
+00:25:09,803 --> 00:25:12,303
+No es, no sé, la 23 de Jordan o la 32 de Magic Johnson,
+
+217
+00:25:12,323 --> 00:25:14,343
+que el número está identificado con la persona.
+
+218
+00:25:14,363 --> 00:25:16,004
+Acá el número está identificado con el juego.
+
+219
+00:25:17,545 --> 00:25:20,228
+No sé si se puede igual, ¿se puede retirar el número?
+
+220
+00:25:20,248 --> 00:25:23,491
+No, no, en competencia oficial no, pero en amistoso sí puede ser.
+
+221
+00:25:23,551 --> 00:25:25,132
+Pero me parece que hay muchos chavos que no lo hacen.
+
+222
+00:25:25,152 --> 00:25:29,196
+Seguramente que en amistoso no lo usa nadie igual, estoy seguro.
+
+223
+00:25:29,296 --> 00:25:32,539
+Así que en eso no hace falta que la retiran, no creo que ninguno tenga la...
+
+224
+00:25:33,863 --> 00:25:38,507
+la suficiente personalidad para usarla si no se obliga a todo esto.
+
+225
+00:25:38,927 --> 00:25:43,171
+Hay jugadores a los que yo veo con la 10, bueno a Alexis por ejemplo que está usando
+
+226
+00:25:43,191 --> 00:25:47,435
+en Liverpool y lo veo con esa personalidad, con ese carácter.
+
+227
+00:25:47,475 --> 00:25:49,637
+Sí, tenemos jugadores que pueden usar la 10 sin duda.
+
+228
+00:25:52,381 --> 00:25:57,783
+Desde que terminó el Mundial, ¿qué jugador crees que ha tenido un rendimiento, de los
+
+229
+00:25:57,803 --> 00:26:03,644
+campeones del mundo por supuesto, muy elevado y muy sostenido desde diciembre de 2022 hasta
+
+230
+00:26:03,704 --> 00:26:03,764
+acá?
+
+231
+00:26:03,784 --> 00:26:15,608
+Yo creo que Cuti, Alexis, Lautaro, creo que han mantenido un nivel muy muy alto.
+
+232
+00:26:16,889 --> 00:26:21,031
+¿Cómo llegan a la Copa América, teniendo en cuenta que hay un par de partidos amistosos antes?
+
+233
+00:26:21,052 --> 00:26:26,715
+Por ejemplo, vos llegás mejor que lo que fue el Mundial, con todo lo que te costó a vos y al propio Lené Escalón,
+
+234
+00:26:26,775 --> 00:26:29,456
+y decir, mira, no está para jugar el titular.
+
+235
+00:26:31,337 --> 00:26:36,160
+Tengo la sensación de que llegan igual o hasta mejor, teniendo en cuenta que hay más variantes.
+
+236
+00:26:37,781 --> 00:26:42,224
+Sí, la verdad que sí. Yo personalmente llego mucho mejor que lo que llegó el Mundial.
+
+237
+00:26:44,466 --> 00:26:49,653
+teniendo mucha más continuidad, estando muy bien físicamente, no tengo, gracias a Dios, ningún dolor
+
+238
+00:26:50,353 --> 00:26:55,780
+y eso me lleva a jugar todos los partidos en mi club y hacerlo de la mejor manera.
+
+239
+00:26:56,541 --> 00:27:01,547
+Y a nivel grupo también, llegamos muy bien, llegamos haciendo dos amistosos muy buenos.
+
+240
+00:27:03,451 --> 00:27:08,535
+Más allá de, como dijimos, que los rivales, con todo el respeto, no eran los que esperábamos.
+
+241
+00:27:08,955 --> 00:27:14,279
+Hicimos dos partidos muy serios, que lo hicimos realmente muy bien y llegamos con muchísimas ganas.
+
+242
+00:27:14,399 --> 00:27:19,663
+¿Compartís con Dibu que quizás había que subir la exigencia de los rivales?
+
+243
+00:27:21,964 --> 00:27:24,466
+Sí, siempre nosotros queremos jugar con los mejores.
+
+244
+00:27:24,626 --> 00:27:29,130
+Creo que ahí es donde te medís, donde sabés para qué realmente estás.
+
+245
+00:27:31,933 --> 00:27:34,935
+y más antes de una convivisión tan importante como la Copa Médica.
+
+246
+00:27:35,275 --> 00:27:38,578
+Las últimas dos cortitas, y te dejo que vas a buscar a los chicos al core.
+
+247
+00:27:39,578 --> 00:27:44,162
+El pelotazo contra Holanda, ¿se te cortó la luz, se te apagó la tele?
+
+248
+00:27:45,442 --> 00:27:47,644
+Sí, me salió, me salió desde el arco.
+
+249
+00:27:48,625 --> 00:27:51,567
+Cuando lo veo ahora digo, qué suerte tuve de...
+
+250
+00:27:54,590 --> 00:28:04,036
+De que el central vino a empujarme, de que vino a chocarme, porque si sabes, capaz no me choca, me termina echando, pero sí, lo hice inconscientemente, me salió del alma.
+
+251
+00:28:07,980 --> 00:28:10,982
+Dibuli, Atahacoman, Erra, Chouameny y vos pateas el tercero.
+
+252
+00:28:11,723 --> 00:28:14,645
+Sabes que pones match point, o sea que si vos meteses
+
+253
+00:28:15,085 --> 00:28:18,647
+o un error de ellos o un acierto nuestro y hay cuatro chances, salimos campeones del mundo.
+
+254
+00:28:19,187 --> 00:28:23,390
+¿Te cambió ese contexto el lugar donde ibas a patear el penal, la caminata?
+
+255
+00:28:23,410 --> 00:28:28,513
+¿Fuiste pensando en eso? ¿Eso ya no es inconsciente, sino es puro laburo en la cabeza?
+
+256
+00:28:29,854 --> 00:28:32,055
+Mira, yo te voy a contar que yo el día anterior
+
+257
+00:28:33,276 --> 00:28:34,477
+me quedo pateando con Rulli
+
+258
+00:28:35,898 --> 00:28:37,919
+y había pateado todos los penales abiertos.
+
+259
+00:28:39,061 --> 00:28:44,623
+al otro lado. Claro, le digo a Rulli, yo sé que el arquero se va a tirar cruzado, estoy convencido
+
+260
+00:28:44,643 --> 00:28:51,825
+que se va a tirar cruzado, pero yo vengo de patear cinco pelanes cruzados y no erré ninguno, si yo abro hierro
+
+261
+00:28:51,845 --> 00:29:02,809
+me voy a sentir muy mal, porque cambie, entonces prefiero ir a mi seguro, que sé que pateando
+
+262
+00:29:02,829 --> 00:29:07,970
+fuerte es muy difícil que el arquero me ataque, aunque si va a ese lado
+
+263
+00:29:08,931 --> 00:29:11,553
+Y Rulli me decía, si vos pateás fuerte, es muy difícil que nosotros lleguemos.
+
+264
+00:29:12,414 --> 00:29:15,916
+Y digo, entonces voy a patear cruzado, por más que el arquero vaya ahí.
+
+265
+00:29:16,196 --> 00:29:18,598
+Perfecto. Y no cambiaste.
+
+266
+00:29:18,618 --> 00:29:21,340
+No, fui convencido de patear ahí. Es más, me rebalé un poco.
+
+267
+00:29:21,360 --> 00:29:21,660
+Claro.
+
+268
+00:29:22,561 --> 00:29:27,844
+Me rebalé un poco, pero con lo fuerte que había pateado, era difícil que el arquero pueda sacarlo.
+
+269
+00:29:28,244 --> 00:29:32,967
+Leán, cumplimos. Dos minutos más tarde. Estamos bien, ¿no? Llegamos a buscar a los chicos.
+
+270
+00:29:32,988 --> 00:29:34,509
+Sí, sí, llegamos, llegamos.
+
+271
+00:29:34,569 --> 00:29:37,491
+Muchísimas gracias, abrazo gigante y la seguimos pronto, cuando quieras.
+
+272
+00:29:38,452 --> 00:29:39,493
+Dale, dale, no hay problema.
+
+273
+00:29:39,873 --> 00:29:42,014
+Chau, Leandro, un abrazo.
+
+274
+00:29:42,214 --> 00:29:42,554
+Chau, chau.
+
+275
+00:29:42,634 --> 00:29:45,575
+Leandro Paredes, charlando con nosotros en una charlita.
+
+276
+00:29:45,615 --> 00:29:48,476
+Tenemos ganas de hacer estos 20, 25 minutos
+
+277
+00:29:48,856 --> 00:29:52,638
+en horarios más cercanos a la tarde europea
+
+278
+00:29:52,658 --> 00:29:54,498
+y a nuestra mañana.
+
+279
+00:29:56,200 --> 00:29:59,241
+Leí el chat, pero bueno, teníamos poco tiempo
+
+280
+00:29:59,542 --> 00:30:05,425
+y acá tenía el listado de temas que quería tocar con él,
+
+281
+00:30:05,445 --> 00:30:07,326
+así que les pido disculpas a todos.
+
+282
+00:30:08,306 --> 00:30:12,648
+Gracias a todos por los mensajes.
+
+283
+00:30:13,829 --> 00:30:17,111
+A Seba Álvaro, a Juli Casablanca, que agradece por el mundial.
+
+284
+00:30:17,531 --> 00:30:19,992
+A Julián Galloso, que me pregunta si leo el chat.
+
+285
+00:30:20,032 --> 00:30:22,533
+Sí, lo que pasa es que teníamos...
+
+286
+00:30:23,095 --> 00:30:29,196
+muy poco tiempo para hacer la nota con Leandro y lo quería aprovechar
+
+287
+00:30:29,216 --> 00:30:32,437
+y no me quería distraer,
+
+288
+00:30:32,837 --> 00:30:34,458
+no porque ustedes sean una distracción, al contrario,
+
+289
+00:30:34,478 --> 00:30:39,639
+pero como que tenía el foco puesto en esos 20, 25 minutos que teníamos de charla.
+
+290
+00:30:39,659 --> 00:30:43,120
+Así que, bueno, iba a haber de estas un montón.
+
+291
+00:30:43,180 --> 00:30:47,661
+Así, a avisar, con poco tiempo de anticipación,
+
+292
+00:30:48,202 --> 00:30:51,284
+Pero ahora, por supuesto, la subimos a nuestro canal de YouTube
+
+293
+00:30:51,344 --> 00:30:53,826
+y el que dice, uy, me la perdí, llegué tarde,
+
+294
+00:30:53,886 --> 00:30:58,049
+estaba viendo otra cosa, bueno, la charla se puede disfrutar
+
+295
+00:30:58,109 --> 00:31:02,753
+así como un buen snack durante toda la jornada y mañana.
+
+296
+00:31:02,773 --> 00:31:04,615
+Hay una referencia solamente a la...
+
+297
+00:31:05,137 --> 00:31:08,058
+a la UEFA Europa League del jueves, pero recontravale.
+
+298
+00:31:08,138 --> 00:31:13,101
+Así que es un contenido más que estamos experimentando
+
+299
+00:31:14,001 --> 00:31:17,683
+aquí en Clang, probando cosas para que después ustedes,
+
+300
+00:31:17,723 --> 00:31:20,265
+por supuesto, en cualquier momento, en el...
+
+301
+00:31:21,767 --> 00:31:28,052
+en el momento que quieran, vengan y tengan las entrevistas que grabamos en estudio.
+
+302
+00:31:28,393 --> 00:31:30,595
+Ayer grabamos una muy linda con Rubén Capria,
+
+303
+00:31:31,696 --> 00:31:33,457
+que va a salir la semana que viene,
+
+304
+00:31:33,577 --> 00:31:35,679
+está recién estrenada la de Pablo Guede,
+
+305
+00:31:35,699 --> 00:31:38,802
+ahora esta charlita con Leandro Paredes
+
+306
+00:31:38,962 --> 00:31:43,666
+y vamos a seguir con este recorrido.
+
+307
+00:31:43,768 --> 00:31:45,388
+Qué lástima, llegué hace tres minutos.
+
+308
+00:31:45,848 --> 00:31:48,369
+Tranquilo, ahora la ves cuando quieras.
+
+309
+00:31:49,749 --> 00:31:53,230
+Si no viste a Ciro Fernández, la de Pablo Guede,
+
+310
+00:31:55,311 --> 00:32:01,332
+véanla, no solo a Ciro, a todos les recomiendo esto.
+
+311
+00:32:01,812 --> 00:32:04,113
+¿Por qué no voy a Twitch? Estamos en Twitch también.
+
+312
+00:32:05,133 --> 00:32:07,413
+Estamos en Twitch y en...
+
+313
+00:32:08,234 --> 00:32:16,796
+en YouTube ahora. De hecho, el multistream se nos rompió 9 y 20, y con Leandro ya preparado,
+
+314
+00:32:16,996 --> 00:32:24,198
+todo listo, todo ok para arrancar y boom, se desconfiguró el Streamlabs, que es el
+
+315
+00:32:24,238 --> 00:32:27,038
+programa que usamos, y hubo que darle otro link.
+
+316
+00:32:28,139 --> 00:32:32,561
+Nos perdimos 5 minutos de charla, pero igual sabíamos,
+
+317
+00:32:32,601 --> 00:32:35,823
+Manuel Ibarri, que produjo la nota y que estuvo detrás de todo,
+
+318
+00:32:36,623 --> 00:32:38,504
+la gente técnica y por supuesto yo también,
+
+319
+00:32:38,524 --> 00:32:42,266
+que a las 10 teníamos que cortar,
+
+320
+00:32:42,306 --> 00:32:44,547
+porque a las 3 de la tarde de allá,
+
+321
+00:32:44,587 --> 00:32:48,189
+León tenía que ir a buscar a sus hijos al colegio.
+
+322
+00:32:48,209 --> 00:32:53,752
+De hecho, yo me tengo que ir a buscar a Lupe al colegio en un ratito.
+
+323
+00:32:53,772 --> 00:32:56,133
+Se viene una con Velasteguín,
+
+324
+00:32:57,095 --> 00:33:00,157
+Vamos a hablar con el Goat, vamos a hablar con el Goat.
+
+325
+00:33:00,558 --> 00:33:02,479
+¿Te interesa algo del máster de Augusto?
+
+326
+00:33:02,499 --> 00:33:06,102
+Sí, claro, juega a Tiger, el mejor aportista de todos los tiempos, nada.
+
+327
+00:33:07,623 --> 00:33:08,764
+Podemos discutir, Daniel,
+
+328
+00:33:10,266 --> 00:33:13,728
+pero ni siquiera es el campeón con más grandes slams,
+
+329
+00:33:14,189 --> 00:33:17,331
+ni siquiera es el golfista con más majors.
+
+330
+00:33:18,374 --> 00:33:29,658
+lo amo a Tiger, amo incluso hasta su parte más controvertida y te recomiendo un libro que habla de justamente ese momento de tiniebla, se llama Unplayable,
+
+331
+00:33:30,078 --> 00:33:47,125
+injugable, muy bueno y vi el documental de HBO y es un deportista que admiro, pero si hablamos de los majors como patrón, más allá del impacto que tiene Tiger y que ha tenido Tiger en el deporte, más allá del golf,
+
+332
+00:33:48,147 --> 00:33:51,691
+Ahí hay algo como para, por lo menos, discutir.
+
+333
+00:33:52,372 --> 00:33:58,158
+Y el golf también era muy competitivo en la era Niklaus
+
+334
+00:33:58,218 --> 00:34:02,543
+y había muy buenos golfistas y grandes campeones.
+
+335
+00:34:02,583 --> 00:34:05,627
+Pero bueno, lo podemos charlar.
+
+336
+00:34:08,010 --> 00:34:09,151
+¿No sabía que estabas en Twitch?
+
+337
+00:34:09,171 --> 00:34:13,154
+Sí, sí, sí, estamos en Twitch, en YouTube.
+
+338
+00:34:13,474 --> 00:34:16,516
+Pongan like, suscríbanse a nuestro canal,
+
+339
+00:34:16,536 --> 00:34:22,339
+que va a cumplir seis meses el 20 de abril.
+
+340
+00:34:23,020 --> 00:34:25,221
+¿Soles mirar los programas más conocidos de fútbol en YouTube?
+
+341
+00:34:25,561 --> 00:34:30,364
+No, pero por falta de tiempo, no es una cuestión de importancia.
+
+342
+00:34:30,384 --> 00:34:32,586
+No, no, no, no tengo tiempo.
+
+343
+00:34:34,809 --> 00:34:38,991
+porque además de transmisiones y clank y entrevistas,
+
+344
+00:34:39,511 --> 00:34:43,493
+hay otras cosas que tienen más que ver con la vida personal,
+
+345
+00:34:43,513 --> 00:34:50,277
+familiar, los hijos, pero no, no, no, no hay, no tengo tiempo.
+
+346
+00:34:50,297 --> 00:34:54,559
+Si me quieren recomendar, buenísimo, voy para ahí.
+
+347
+00:34:54,639 --> 00:34:56,100
+Es clank media, correcto.
+
+348
+00:34:56,660 --> 00:35:00,782
+Mis tres candidatos para ganar la Copa de la Liga, no lo sé,
+
+349
+00:35:00,822 --> 00:35:03,184
+todavía no sabemos quiénes se van a clasificar
+
+350
+00:35:03,444 --> 00:35:04,104
+y además es...
+
+351
+00:35:05,186 --> 00:35:11,732
+Es algo muy aleatorio, es a un partido 90 minutos penales, no es un torneo de regularidad.
+
+352
+00:35:11,792 --> 00:35:17,517
+Obviamente hay una copa, hay que ganarla y el que la gana es feliz, sale campeón, vuelta olímpica y todo eso.
+
+353
+00:35:18,138 --> 00:35:24,363
+Y nadie, por supuesto, le quita el derecho ni la alegría de ese equipo campeón.
+
+354
+00:35:25,025 --> 00:35:28,050
+pero es difícil hablar de favoritos en un torneo
+
+355
+00:35:28,070 --> 00:35:32,877
+donde vos tenés cruces, que tampoco son de ida y vuelta,
+
+356
+00:35:33,418 --> 00:35:36,382
+es a 90 minutos y después penales.
+
+357
+00:35:38,144 --> 00:35:38,685
+Así que, bueno.
+
+358
+00:35:40,049 --> 00:35:43,851
+Cumpleaños Miguel O'Ruso hoy, 68, le voy a dejar un mensaje.
+
+359
+00:35:44,111 --> 00:35:51,174
+Recomiendo la charla que tuvimos en Klan con Miguel O'Ruso, muy, muy linda.
+
+360
+00:35:51,194 --> 00:35:53,035
+¿Sos de River o sos de Boca? De Boca.
+
+361
+00:35:53,235 --> 00:35:57,397
+Lo he dicho por primera vez en Basta de Todo,
+
+362
+00:35:57,437 --> 00:36:01,078
+un programa que compartí con Matías Martínez, el conductor,
+
+363
+00:36:01,098 --> 00:36:04,019
+y yo me sumaba las siguientes dos horas, de 4 a 6.
+
+364
+00:36:04,720 --> 00:36:06,801
+Lo dije en el programa número 100, en el año 2001.
+
+365
+00:36:08,282 --> 00:36:14,408
+hace 23 años, así que bueno, es injusto que no haya un premio
+
+366
+00:36:14,428 --> 00:36:16,610
+para el mejor de cada zona, me dice Telsen.
+
+367
+00:36:18,131 --> 00:36:19,232
+Sí, es clasificarte.
+
+368
+00:36:21,456 --> 00:36:24,696
+A partir de ahí, o sea, no es que arrancás en semifinales
+
+369
+00:36:24,716 --> 00:36:29,277
+como pasa en otros torneos de fútbol que se definen por playoff,
+
+370
+00:36:29,297 --> 00:36:34,459
+que el primero saltea una o dos rondas de playoff y se mete después.
+
+371
+00:36:34,919 --> 00:36:39,200
+Así que, bueno, muchachos, nos reencontramos seguramente el viernes
+
+372
+00:36:39,240 --> 00:36:41,360
+con el stream de cada semana.
+
+373
+00:36:42,120 --> 00:36:44,841
+Les dejo aquí la charla con Leandro Paredes.
+
+374
+00:36:45,882 --> 00:36:52,248
+Y voy a buscar al UPE y la seguimos, no se pierdan la nota con Pablo Guede y las anteriores
+
+375
+00:36:52,268 --> 00:37:00,615
+ya son 23, el número de este señor, 23, en nuestro canal, suscríbanse, pongan like
+
+376
+00:37:01,115 --> 00:37:05,419
+y gracias por la compañía de cada encuentro, hasta la próxima, chao.
+
