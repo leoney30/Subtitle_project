@@ -1,155 +1,128 @@
 1
-00:00:00,984 --> 00:00:06,934
-教授，第一个问题，这次芝加哥和华盛顿之行的重要性是什么？
-Profe, la primera pregunta, ¿cuál es la importancia de esta gira de Chicago y Washington DC?
+00:00:00,984 --> 00:00:07,657
+教练 第一个问题 这次芝加哥和华盛顿特区之行
 
 2
 00:00:07,657 --> 00:00:10,534
-为美洲杯开始前国家队的准备工作。
-para la preparación de la selección antes del comienzo de la Copa América.
+对阿根廷国家队备战美洲杯有什么重要意义?
 
 3
 00:00:12,093 --> 00:00:18,203
-好吧，这始终是一场巡演，在杯赛之前总是很重要，最重要的是
-Bueno, siempre es una gira, antes de una Copa siempre es importante y sobre todo
+好吧 在一个大赛开始之前 这种比赛都很重要
 
 4
 00:00:19,926 --> 00:00:23,996
-因为你为杯赛首秀调整了最后的细节。
-porque ajustás los últimos detalles para el debut de la Copa.
+因为你可以在大赛第一场比赛前做最后的调整 
 
 5
-00:00:25,640 --> 00:00:27,584
-球员们即将结束漫长的赛季。
-Los jugadores vienen de una temporada larga.
+00:00:25,640 --> 00:00:28,684
+球员们经历了漫长的赛季 
 
 6
 00:00:30,422 --> 00:00:34,030
-大多数人都玩过很多游戏，现在是时候了
-que la mayoría ha jugado un montón de partidos y bueno es el momento de
+大多数人踢了很多场比赛 
 
 7
 00:00:34,972 --> 00:00:40,098
-联合起来，走到一起，好吧，他们是两个政党
-de unir fuerza, de juntarse y bueno son dos partidos que
+现在是时候团结一致 聚在一起
 
 8
-00:00:40,959 --> 00:00:42,764
-这将使团队做好竞争的准备。
-que dejaría al equipo listo para competir.
+00:00:40,959 --> 00:00:43,264
+ 这两场比赛将会让球队准备好参赛 
 
 9
-00:00:47,162 --> 00:00:52,576
-这个对手给国家队和球队的备战带来了什么？
-¿Qué se presenta este rival a la selección y en la preparación del equipo?
+00:00:43,787 --> 00:00:47,100
+在芝加哥对阵厄瓜多尔
 
 10
-00:00:53,736 --> 00:00:56,147
-厄瓜多尔一直是我们的难敌。
-Ecuador siempre ha sido un rival difícil para nosotros.
+00:00:47,100 --> 00:00:52,576
+这个对手对球队备战意味着什么?
 
 11
-00:00:57,655 --> 00:01:00,288
-这是一支伟大的球队，拥有伟大的球员。
-Es una gran selección y tiene grandes jugadores.
+00:00:53,736 --> 00:00:56,147
+厄瓜多尔队一直是我们的一个棘手对手 
 
 12
-00:01:02,381 --> 00:01:06,536
-作为杯赛的候选人之一，所以这是一个很好的考验。
-uno de los candidatos a estar en la Copa, así que es una buena prueba.
+00:00:57,655 --> 00:01:00,763
+他们是一支强队 拥有出色的球员 
 
 13
-00:01:07,960 --> 00:01:11,371
-对我们来说很重要，在一个漂亮的体育场里也很重要。
-importante para nosotros, en un lindo estadio también.
+00:01:02,381 --> 00:01:06,536
+是这届美洲杯的热门球队之一 所以这是一个好的检验 
 
 14
-00:01:12,554 --> 00:01:15,123
-希望我们能上演一场精彩的表演，一切都顺利。
-Esperemos dar un buen espectáculo y que se haga todo bien.
+00:01:08,135 --> 00:01:12,554
+这对我们来说很重要 而且场地也很不错 
 
 15
-00:01:17,989 --> 00:01:19,471
-另一方面，在华盛顿特区
-Por otro lado, en Washington D.C.
+00:01:12,554 --> 00:01:16,698
+希望我们能呈现一场精彩的比赛 一切顺利 
 
 16
-00:01:19,551 --> 00:01:20,974
-比赛将对阵危地马拉。
-se iba a jugar contra Guatemala.
+00:01:17,989 --> 00:01:19,471
+另一方面 在华盛顿特区
 
 17
-00:01:21,675 --> 00:01:23,899
-这支球队总是能吸引很多人来到这些体育场。
-Es una selección que trae mucha gente siempre a esos estadios.
+00:01:19,551 --> 00:01:20,974
+对阵危地马拉队 
 
 18
-00:01:25,304 --> 00:01:28,679
-您如何看待这场比赛以及您对这场比赛有何期待？
-¿Cómo ve ese partido y qué se le anticipa para ese partido?
+00:01:21,675 --> 00:01:23,899
+危地马拉总是会带来很多球迷 
 
 19
-00:01:30,124 --> 00:01:34,049
-与中美洲球队比赛总是很愉快。
-Siempre es bonito jugar contra selecciones de Centroamérica.
+00:01:25,304 --> 00:01:28,679
+你如何看待这场比赛?对于这场比赛你有什么期待?
 
 20
-00:01:35,330 --> 00:01:39,014
-他们带来了人，他们是非常火爆的粉丝。
-Han traído gente, son aficionados muy calientes.
+00:01:30,124 --> 00:01:34,049
+与中美洲球队比赛总是件很高兴的事 
 
 21
-00:01:39,955 --> 00:01:45,907
-而且他们一直对我们很好，所以我们也希望能上演一场好戏，最后......
-y siempre nos han tratado bien, así que esperemos también dar un buen espectáculo que al final...
+00:01:35,330 --> 00:01:39,014
+他们会带来球迷 这些球迷非常热情 
 
 22
-00:01:46,449 --> 00:01:50,120
-人们来这里就是为了看球员并与他们近距离接触。
-La gente viene para eso, para ver a los jugadores y tenerlos cerca.
+00:01:39,955 --> 00:01:45,907
+而且他们一直对我们很好 所以我们也希望能呈现一场精彩的比赛 因为...
 
 23
-00:01:50,802 --> 00:01:54,508
-我们的想法是打造一款精彩的游戏并让人们享受。
-nuestra idea es hacer un buen partido y que la gente disfrute.
+00:01:46,449 --> 00:01:50,120
+观众就是为了看球员 近距离看他们 
 
 24
-00:01:55,325 --> 00:01:59,275
-最后你可以说，作为现任世界冠军
-y por ultima se le podría decir que como el actual campeon mundial
+00:01:50,802 --> 00:01:54,508
+我们的想法是踢好这一场比赛 让观众能够享受比赛 
 
 25
-00:01:59,736 --> 00:02:04,506
-是不是所有的对手在对阵阿根廷队的时候都会变大一点呢？
-¿Todos los rivales se agrandan un poco más cuando juegan contra la selección argentina?
+00:01:55,325 --> 00:01:59,275
+最后 作为当前的世界冠军
 
 26
-00:02:05,636 --> 00:02:08,249
-现在确实是这样，在对阵阿根廷的比赛中......
-Ahora es verdad que sí, que al jugar contra Argentina...
+00:01:59,736 --> 00:02:04,506
+是不是所有的对手 在对阵阿根廷国家队时会格外重视?
 
 27
-00:02:09,535 --> 00:02:15,051
-他们的对手是冠军，但对我们来说并没有什么改变，我们总是穿着这件球衣踢球。
-Juegan contra el campeón, pero para nosotros mucho no cambia, siempre jugar con esta camiseta.
+00:02:05,636 --> 00:02:08,249
+现在的确是这样 对阵阿根廷...
 
 28
-00:02:15,572 --> 00:02:22,078
-这意味着我们要参加每场比赛，并且不会改变我们对待每场比赛的方式。
-implica salir a competir todos los partidos y no va a cambiar nuestra manera de afrontar cada encuentro.
+00:02:09,535 --> 00:02:15,051
+他们是在对阵世界冠军 但对我们来说并没有太大变化 
 
 29
-00:02:23,622 --> 00:02:27,414
-如果我们胸前确实有一颗星星，那就再多一颗吧。
-Si es verdad que tenemos la estrella en el pecho, una más.
+00:02:15,572 --> 00:02:22,078
+一直以来穿上这件球衣就意味着要全力以赴  不会改变我们对待每场比赛的方式 
 
 30
-00:02:29,059 --> 00:02:34,351
-责任是继续比赛，但我们的比赛方式将保持不变。
-La responsabilidad es seguir compitiendo, pero nuestra manera de jugar será la misma.
+00:02:23,622 --> 00:02:28,089
+的确 我们胸前现在多了一颗星星 
 
 31
-00:02:35,735 --> 00:02:36,338
-谢谢老师。
-Gracias, profe.
+00:02:28,509 --> 00:02:34,351
+我们的责任是继续竞争 但我们的比赛方式不会变 
+
+32
+00:02:35,735 --> 00:02:37,163
+谢谢 教练 - 谢谢
 
