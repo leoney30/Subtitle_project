@@ -1,325 +1,244 @@
 1
 00:00:00,089 --> 00:00:03,481
-萨格人们说，请不要让这成为最后一次
-Sague a la gente y dice por favor que no sea la última esta por favor
+请不要让这是最后一次,拜托了
 
 2
 00:00:04,230 --> 00:00:05,473
 上届美洲杯？
-¿Ultima Copa América?
 
 3
 00:00:05,533 --> 00:00:05,774
-是的。
-Sí.
+是的 
 
 4
 00:00:05,794 --> 00:00:06,535
-美洲杯。
-La Copa América.
+美洲杯 
 
 5
 00:00:06,615 --> 00:00:07,497
-不，世界杯。
-No, el Mundial.
+不,是世界杯 
 
 6
-00:00:07,798 --> 00:00:07,958
-啊，是啊。
-Ah, ya.
+00:00:08,961 --> 00:00:10,107
+我总是这么说 
 
 7
-00:00:08,961 --> 00:00:10,107
-我总是说同样的话。
-Siempre digo lo mismo.
+00:00:10,309 --> 00:00:11,857
+拜托,我们都请求你 
 
 8
-00:00:10,309 --> 00:00:11,857
-拜托，我们什么都问你。
-Por favor, te lo pedimos todo.
+00:00:12,651 --> 00:00:18,906
+我们一天一天走来,说实话我很享受,感觉很好,我们继续前进
 
 9
-00:00:12,651 --> 00:00:18,906
-我们日复一日地走，事实是我很享受，我感觉很好，我们走吧，我们走吧
-que vamos día a día la verdad que estoy disfrutando y me sentí bien y vamos vamos
+00:00:20,191 --> 00:00:25,332
+就像我之前说的,我们再试一次,活在当下 
 
 10
-00:00:20,191 --> 00:00:24,529
-让我们走吧，正如我之前告诉过你的，再尝试一次，过好每一天。
-Vamos como te decía antes, a intentarlo una vez más y a vivir el día a día.
+00:00:25,332 --> 00:00:27,381
+今天开局赢球很重要 
 
 11
-00:00:25,332 --> 00:00:27,381
-今天开始获胜很重要。
-Y hoy fue importante empezar ganando.
+00:00:28,927 --> 00:00:33,718
+最重要的是要看情况如何发展 
 
 12
-00:00:27,441 --> 00:00:28,204
-到了门口就疼。
-En la puerta herda.
+00:00:34,306 --> 00:00:36,751
+一步一步来,不要看得太远 
 
 13
-00:00:28,927 --> 00:00:33,343
-不，既然你必须先走，那就要看事情进展如何了。
-No, como hay que ir ante todo, depende de cómo se va yendo la cosa.
+00:00:36,932 --> 00:00:37,593
+好的 
 
 14
-00:00:34,306 --> 00:00:36,751
-并且一步步走下去，不展望未来。
-Y ir paso a paso sin mirar el futuro.
+00:00:37,593 --> 00:00:38,216
+是的,很好 
 
 15
-00:00:36,932 --> 00:00:37,333
-好吧。
-Está bien.
+00:00:38,455 --> 00:00:40,480
+我们开局赢球很重要 
 
 16
-00:00:37,593 --> 00:00:38,054
-是的，很好。
-Sí, muy bien.
+00:00:41,302 --> 00:00:44,146
+第一场胜利,确实,我们付出了努力,尤其是...
 
 17
-00:00:38,275 --> 00:00:38,375
-洲。
-Chau.
+00:00:44,808 --> 00:00:47,016
+上半场,球场的状况也有点影响
 
 18
-00:00:38,455 --> 00:00:40,480
-重要的是我们开始获胜。
-Es importante que empezamos ganando.
+00:00:48,864 --> 00:00:51,439
+虽然影响不大,但确实是...
 
 19
-00:00:41,302 --> 00:00:44,146
-第一场胜利，事实是我们付出了代价，尤其是……
-El primer triunfo, la verdad que sí, que nos costó, sobre todo el...
+00:00:52,585 --> 00:00:57,386
+种种因素使这场比赛变得困难,重要的是我们赢了 
 
 20
-00:00:44,808 --> 00:00:47,016
-上半场场次也没有上升一点
-en el primer tiempo la cancha tampoco ha subido un poquito
+00:00:57,546 --> 00:00:59,050
+在中场休息期间你们讨论了什么，注意到了什么呢？
 
 21
-00:00:48,864 --> 00:00:51,439
-我说，这也不需要太多，但它确实......
-Tampoco lleva mucho, digo, pero sí un...
+00:01:00,073 --> 00:01:02,540
+我们尝试…
 
 22
-00:00:52,585 --> 00:00:57,386
-有很多事情让这场比赛变得困难，而我们赢得这场比赛是多么重要。
-un cúmulo de cosas que hicieron que este partido sea difícil y lo importante que lo ganamos.
+00:01:04,707 --> 00:01:07,423
+改变我们的传递路线，特别是在组织进攻时
 
 23
-00:00:57,546 --> 00:00:59,050
-中场休息时他们谈论了什么以及看到了什么？
-que hablaron y que vieron en el entretiempo?
+00:01:08,729 --> 00:01:12,782
+并且尝试寻找防线之间的空间，这是我们之前没能找到的
 
 24
-00:01:00,073 --> 00:01:02,540
-不，不是那样，所看到的，试图……
-No, eso no, lo que se vio, intentar de...
+00:01:12,802 --> 00:01:15,734
+我们很幸运...进球了...
 
 25
-00:01:04,707 --> 00:01:07,423
-改变路线，尤其是起点。
-de cambiar la línea de trail, sobre todo para la salida.
+00:01:17,461 --> 00:01:21,943
+虽然我们还是有些困难,但比赛有所改变,这让我们更加冷静,我们有...
 
 26
-00:01:08,729 --> 00:01:12,782
-并找到我们在那里找不到的行之间的空间。
-y encontrar el espacio entre líneas que por ahí no lo estábamos encontrando.
+00:01:22,525 --> 00:01:28,007
+我们有很多机会可以终结比赛,但我重复一下,重要的是我们以胜利开局 
 
 27
-00:01:12,802 --> 00:01:13,504
-我们很幸运...
-Tuvimos la suerte de...
+00:01:28,328 --> 00:01:31,111
+球场的状况是否改变了你们原本的比赛计划?
 
 28
-00:01:14,528 --> 00:01:15,734
-进球，然后……
-de hacer el gol y eso...
+00:01:31,111 --> 00:01:32,796
+斯卡洛尼说他想传球
 
 29
-00:01:17,461 --> 00:01:21,943
-虽然这对我们来说仍然很困难，但它改变了游戏规则，让我们安心，我们……
-Si bien nos siguió costando cambió un poco el partido, nos dio tranquilidad y tuvimos...
+00:01:33,015 --> 00:01:35,735
+从中路渗透,但实际上这很难做到 
 
 30
-00:01:22,525 --> 00:01:28,007
-我们有足够的机会来定义它，但我再说一遍，重要的是我们以胜利开始。
-Tuvimos bastantes ocasiones para poder definirlo, pero repito, lo importante es que arrancamos con una victoria.
+00:01:37,023 --> 00:01:38,608
+我们总是尝试同样的打法,对吧?
 
 31
-00:01:28,328 --> 00:01:31,111
-比赛场地的状况是否稍微改变了您的比赛计划？
-El estado del campo de juego, ¿les cambió un poco el plan que tenían del partido?
+00:01:38,628 --> 00:01:42,159
+不管球场状况如何...
 
 32
-00:01:33,015 --> 00:01:35,735
-但事实是，做到这一点非常困难。
-pelotas por adentro pero que la verdad es que estaba muy difícil para poder hacerlo.
+00:01:42,159 --> 00:01:47,722
+这是我们的比赛方式,我们尝试了,但确实变得更加困难 
 
 33
-00:01:37,023 --> 00:01:38,608
-我们总是尝试同样的事情，不是吗？
-Nosotros intentamos siempre lo mismo, no?
+00:01:48,163 --> 00:01:52,760
+首先是因为对方封锁了空间,其次你必须非常精准
 
 34
-00:01:38,628 --> 00:01:39,471
-超越...的状态
-Más allá del estado de lo...
+00:01:53,502 --> 00:02:00,219
+而在这样的球场上可能需要更多时间来控球或传球
 
 35
-00:01:42,159 --> 00:01:47,722
-在球场上，这是我们的比赛方式，我们尝试着，但事情确实变得非常复杂。
-de las canchas, es nuestra manera de jugar y lo intentamos, de verdad que se complica mucho.
+00:02:00,459 --> 00:02:02,925
+这些传球很困难 
 
 36
-00:01:48,163 --> 00:01:52,760
-更多的是因为首先因为我关闭了空间，然后它必须非常
-mucho más porque primero porque yo cerraba el espacio y después tiene que ser muy
+00:02:05,813 --> 00:02:08,243
+所以,这让我们多费了一些力气 
 
 37
-00:01:53,502 --> 00:02:00,219
-非常精确，而且在法庭上我需要更多时间来控制或投入它
-muy preciso y con la cancha por ahí necesitaba un tiempo más para controlar o para meterla
+00:02:08,754 --> 00:02:12,737
+你成为了参加美洲杯次数最多的阿根廷球员 
 
 38
-00:02:00,459 --> 00:02:02,925
-那些困难的球。
-las pelotas que son difíciles.
+00:02:12,837 --> 00:02:14,141
+这对你来说有什么不同?
 
 39
-00:02:05,813 --> 00:02:08,243
-嗯，这就是我们花费更多的地方。
-Y bueno, por ahí nos cuesta un poquito de más.
+00:02:15,777 --> 00:02:21,822
+和以往一样,很高兴能继续在这里,能参加这项比赛 
 
 40
-00:02:09,087 --> 00:02:12,737
-您成为参加美洲杯次数最多的阿根廷人。
-Convertiste en el argentino con más ediciones de Copa América disputadas.
+00:02:23,404 --> 00:02:25,769
+代表国家队参加正式比赛 
 
 41
-00:02:12,837 --> 00:02:14,141
-这对你来说有什么不同？
-¿Qué tiene esto para vos de distinta?
+00:02:25,789 --> 00:02:26,450
+我一直说...
 
 42
-00:02:16,295 --> 00:02:21,822
-一如既往，很高兴能够继续存在并能够参加比赛。
-Igual que siempre, feliz de poder seguir estando y poder participar en una competición.
+00:02:27,813 --> 00:02:34,391
+我不关注这类记录,也不关注任何记录,只是单纯地享受
 
 43
-00:02:23,404 --> 00:02:25,769
-玛雅官员在选拔。
-Oficial Maya en la selección.
+00:02:34,925 --> 00:02:40,614
+这届美洲杯,我们会尽最大努力 
 
 44
-00:02:25,789 --> 00:02:26,450
-我总是这么说...
-Siempre digo que...
+00:02:40,886 --> 00:02:44,485
+有时表现更好,有时表现更差,但我们总是尽力
 
 45
-00:02:27,813 --> 00:02:33,928
-我不是一个专注于这种类型的唱片或任何类型的人，只是享受
-que no soy de fijarme en este tipo de récord ni en ninguno, simplemente disfrutando
+00:02:46,111 --> 00:02:49,701
+发挥每个人的最佳水平,像我们一直在做的那样拼每一场比赛 
 
 46
-00:02:34,128 --> 00:02:39,743
-对于本届美洲杯，我们将始终尽力做到最好。
-de esta Copa América e intentaremos dar el máximo siempre.
+00:02:50,229 --> 00:02:56,473
+这第一步有多重要,考虑到比如说在你们赢得的最近几次比赛中?
 
 47
-00:02:40,886 --> 00:02:44,485
-有时打得更好，有时打得更差，但总是在努力付出。
-A veces jugando mejor, a veces peor, pero siempre intentando de dar.
+00:02:56,795 --> 00:02:58,511
+第一场比赛没赢,你们很艰难 
 
 48
-00:02:46,111 --> 00:02:49,701
-每一场比赛都做到最好，就像我们一直在做的那样去打每一场比赛。
-lo mejor de cada uno y pelear cada partido como lo venimos haciendo.
+00:02:58,976 --> 00:03:02,429
+确实非常重要,非常重要,因为就像我说的,这是第一次...
 
 49
-00:02:52,045 --> 00:02:56,473
-知道，例如，在上一场比赛中他们甚至赢得了胜利，这第一步有多大价值？
-¿Cuánto valor tiene este primer paso, sabiendo que por ejemplo en los últimos torneos que inclusive ganaron?
+00:03:05,379 --> 00:03:11,648
+我们以胜利开始比赛,这给了我们额外的安心感,因为这个小组...
 
 50
-00:02:56,795 --> 00:02:58,511
-他们没有赢得第一场比赛，这对他们来说很困难。
-no ganaron el primer partido que les costó.
+00:03:12,802 --> 00:03:17,802
+接下来我们要面对智利,虽然他们明天才进行第一场比赛 
 
 51
-00:02:58,976 --> 00:03:02,429
-事实是，这非常重要，非常重要，因为我说的是第一个……
-La verdad es que es muy importante, muy importante porque lo que digo sí es la primera que...
+00:03:18,284 --> 00:03:23,558
+小组赛还有两场非常艰难的比赛,显然以胜利开局
 
 52
-00:03:05,379 --> 00:03:11,648
-这是一个进步，我们开始赢得比赛，这让你更加安心，因为这是一个团队......
-que está a escalón y arrancamos la competición ganando y te da un plus de tranquilidad porque es un grupo...
+00:03:24,743 --> 00:03:27,274
+拿到三分会让人更加安心 
 
 53
-00:03:12,469 --> 00:03:17,802
-现在我们面对智利，尽管明天他们将迎来他们的第一场比赛。
-Ahora enfrentamos a Chile si bien mañana tienen su primer partido.
+00:03:27,575 --> 00:03:30,526
+在那个进球的处理上,你过掉了守门员
 
 54
-00:03:18,284 --> 00:03:23,558
-小组赛还剩下两场非常艰难的比赛，显然我们将以一场胜利开始。
-No quedan dos partidos muy duros todavía en el grupo y obviamente empezar ganando.
+00:03:30,744 --> 00:03:34,870
+你可能想用一种艺术的方式来终结,但最后停在了半路 
 
 55
-00:03:24,743 --> 00:03:27,274
-拿下三分让我们安心很多。
-y acomodarte con tres puntos da mucha tranquilidad.
+00:03:35,222 --> 00:03:37,852
+是的,确实如此,也许在那个时候,我应该要
 
 56
-00:03:27,575 --> 00:03:28,377
-此刻
-en el momento en el que se
+00:03:39,217 --> 00:03:44,001
+大力射门,尝试其他方式,但是,那一刻就那样了...
 
 57
-00:03:34,592 --> 00:03:37,852
-是的，事实是，在外面，考虑到时间，我必须去看。
-Sí, la verdad que sí, que por ahí, pensando en la hora, tenía que ver.
+00:03:44,694 --> 00:03:49,220
+那时候出现了,我运气不好,球打在了他的头上 
 
 58
-00:03:39,217 --> 00:03:43,631
-定义强大并尝试过其他方法，但是，它有效......
-definido fuerte y haber intentado otra cosa, pero bueno, salió...
+00:03:51,243 --> 00:03:52,666
+但是我有那个机会,还有其他几次机会 
 
 59
-00:03:44,694 --> 00:03:49,220
-就在那时他出来了，我很不幸，黄麻也击中了他的头。
-salió en ese momento, tuve mala suerte que Jute le pegó en la cabeza también.
+00:03:53,748 --> 00:03:55,919
+这很遗憾,重要的是我们赢了 
 
 60
-00:03:51,243 --> 00:03:52,666
-但是的，我有那个，我还有更多。
-pero sí tuve esa, tuve alguna más.
+00:03:58,209 --> 00:04:03,985
+尽管我们对比赛的表现不是完全满意,但我们尽力了
 
 61
-00:03:53,748 --> 00:03:55,919
-这是一种耻辱，重要的是它赢了。
-Fue una lástima, lo importante es que se ganó.
-
-62
-00:03:58,209 --> 00:04:03,985
-除此之外，无论我们多么努力，我们对游戏并不完全满意
-y más allá de que no nos vamos conformes del todo con el juego por más que lo intentamos
-
-63
 00:04:04,406 --> 00:04:06,249
-重要的是我们开始获胜。
-Lo importante es que empezamos ganando.
-
-64
-00:04:09,574 --> 00:04:12,381
-并激活小铃以了解我们所有的内容。
-y actives la campanita para enterarte de todo nuestro contenido.
-
-65
-00:04:12,581 --> 00:04:16,470
-访问 takesports.com 以了解所有最新的体育新闻。
-Visita takesports.com para estar al tanto de todas las novedades del deporte.
+重要的是我们以胜利开局 
 
