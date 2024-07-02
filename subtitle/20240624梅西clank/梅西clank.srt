@@ -3,452 +3,452 @@
 La presentación para el personaje es una sola, no puede ser otra que la rutina de lo extraordinario
 
 2
-00:00:07,187 --> 00:00:08,702
-En Clang, Leo Messi.
+00:00:07,187 --> 00:00:08,150
+En Clank
 
 3
-00:00:20,114 --> 00:00:24,408
-Bienvenido Leo, un placer, un honor, un orgullo tenerte acá en Clang.
+00:00:08,150 --> 00:00:08,977
+Leo Messi.
 
 4
+00:00:20,114 --> 00:00:24,408
+Bienvenido Leo, un placer, un honor, un orgullo tenerte acá en Clank.
+
+5
 00:00:27,287 --> 00:00:31,883
 Leo, cuando un chico sueña con jugar al fútbol, a la pelota,
 
-5
+6
 00:00:32,725 --> 00:00:33,547
 Sueño con títulos.
 
-6
+7
 00:00:33,808 --> 00:00:38,919
 Mi sueño es ganar un mundial, está tu video, el de Diego, el de todos los cracks que finalmente concretan ese sueño.
 
-7
+8
 00:00:40,011 --> 00:00:46,083
 Pero una vez cumplido ese sueño siguen jugando y ya no es por seguir ganando, obviamente está el gen competitivo ahí.
 
-8
+9
 00:00:46,744 --> 00:00:48,653
 sino por el amor por el fútbol.
 
-9
+10
 00:00:48,673 --> 00:00:50,602
 Hablemos de tu amor por el juego.
 
-10
+11
 00:00:51,747 --> 00:00:56,575
 Bueno, yo cuando empecé a jugar era muy chiquito, tenía...
 
-11
+12
 00:00:57,216 --> 00:01:00,345
 tres o cuatro años y no era consciente.
 
-12
+13
 00:01:01,410 --> 00:01:03,884
 del mundial y de todos los títulos.
 
-13
+14
 00:01:04,628 --> 00:01:07,905
 que se jugaban y pensaban eso, simplemente.
 
-14
+15
 00:01:08,928 --> 00:01:11,937
 porque me encantaba la pelota, me divertía estar con una pelota.
 
-15
-00:01:12,719 --> 00:01:19,394
-Era mi pasatiempo, vivía a toda hora pateando, buscando alguno para hacer.
-
 16
+00:01:12,719 --> 00:01:14,050
+Era mi pasatiempo, 
+
+17
+00:01:15,850 --> 00:01:19,394
+vivía a toda hora pateando, buscando alguno para hacer.
+
+18
 00:01:20,096 --> 00:01:24,749
 para jugar y si no había lo hacía solo, haciendo jueguito, pateando contra la pared.
 
-17
-00:01:26,135 --> 00:01:27,240
+19
+00:01:26,560 --> 00:01:27,665
 o lo que fuese.
 
-18
+20
 00:01:30,092 --> 00:01:35,397
 Nací con eso, me encantó el fútbol como la mayoría de los argentinos desde muy chiquito.
 
-19
+21
 00:01:36,581 --> 00:01:39,900
 Y siempre fue mi manera de verlo, más allá de mi...
 
-20
+22
 00:01:40,623 --> 00:01:46,539
 de mis responsabilidades, de los objetivos que uno se proponía, sobre todo cuando...
 
-21
+23
 00:01:47,725 --> 00:01:53,381
 Cuando ya era más profesional siempre intenté divertirme como lo hice desde el primer día.
 
-22
+24
 00:01:53,601 --> 00:01:56,204
 Pero sigue ese leo de tres, cuatro años en este de 37.
 
-23
+25
 00:01:57,972 --> 00:02:03,868
 Sí, incluso creo que ahora más todavía, después de haber conseguido todos los...
 
-24
+26
 00:02:04,750 --> 00:02:08,860
 los objetivos y haber tenido más de lo que
 
-25
+27
 00:02:09,341 --> 00:02:14,542
 de lo que hubiese imaginado, lo que hubiese soñado de chiquito cuando empezaba a entender de...
 
-26
+28
 00:02:15,426 --> 00:02:19,400
 de lo que se trataba del fútbol, lo que se jugaba y la profesión.
 
-27
-00:02:20,883 --> 00:02:24,692
+29
+00:02:21,883 --> 00:02:24,692
 Hoy después de haber conseguido todo el objetivo, vuelvo.
 
-28
+30
 00:02:27,839 --> 00:02:33,112
 o estoy disfrutando como aquel chico, por decirlo de alguna manera, porque sé también que...
 
-29
-00:02:33,854 --> 00:02:38,747
+31
+00:02:33,854 --> 00:02:36,247
 que cada vez que falta menos que cada vez son
 
-30
+32
 00:02:39,890 --> 00:02:43,517
 Son menos los años que me quedan por edad e intentos de...
 
-31
+33
 00:02:44,346 --> 00:02:47,311
 de disfrutar todo lo que es el fútbol dentro de una cancha.
 
-32
+34
 00:02:48,809 --> 00:02:51,374
 los momentos que vivo con el día a día también.
 
-33
+35
 00:02:51,575 --> 00:02:54,080
 Hay muchos futbolistas que cuando dejan de jugar dicen...
 
-34
+36
 00:02:54,801 --> 00:02:59,358
 Sí, lo de los títulos, las vueltas olímpicas, todo muy lindo, pero lo que más extraña es el día a día.
 
-35
+37
 00:03:00,160 --> 00:03:04,842
 Eso que vos estás contando, la convivencia con los compañeros, el cambiarse, tomar unos mates.
 
-36
+38
 00:03:05,204 --> 00:03:11,343
 que quizás a los que somos periodistas nos es bastante lejano, porque nosotros los vemos jugar a ustedes, pero hay un montón de cosas de ustedes que no vemos.
 
-37
+39
 00:03:11,704 --> 00:03:14,266
 y que son finalmente las que los conectan y que ustedes más disfrutan.
 
-38
+40
 00:03:14,527 --> 00:03:17,049
 Sí, más cuando se tratan de grupos...
 
-39
+41
 00:03:17,450 --> 00:03:20,945
 de grupo lindo, donde te lleva bien, donde pasar...
 
-40
+42
 00:03:22,933 --> 00:03:26,439
 mucho tiempo con tu compañero al lado.
 
-41
+43
 00:03:27,445 --> 00:03:31,167
 y se pasa rápido porque el tiempo vuela y lo pasa porque...
 
-42
+44
 00:03:31,668 --> 00:03:32,429
 La pasaba bien.
 
-43
+45
 00:03:33,930 --> 00:03:35,672
 Antiguamente se concentraba mucho.
 
-44
+46
 00:03:36,734 --> 00:03:39,771
 y a veces hacían pesadas las concentraciones porque no dejan de ser día.
 
-45
+47
 00:03:41,318 --> 00:03:44,869
 encerrado en un hotel, en una habitación porque muchas veces no puede salir, no puede hacer...
 
-46
+48
 00:03:45,791 --> 00:03:47,218
 No puedo hacer nada.
 
-47
+49
 00:03:49,407 --> 00:03:55,027
 y bueno después fue cambiando, fuimos concentrando mucho menos, la época de Guardiola nosotros empezamos a ir
 
-48
+50
 00:03:55,689 --> 00:04:01,623
 hasta el mismo día de partida a la cancha, que en ese momento también estaba buenísimo.
 
-49
+51
 00:04:03,347 --> 00:04:08,879
 Porque compartías mucho más en tu casa y con tu familia, te daba el partido y no tenías que...
 
-50
-00:04:09,704 --> 00:04:15,583
-que concentrar, pero estos momentos de encierro cuando un grupo es bueno y te ayuda bien
-
-51
-00:04:16,707 --> 00:04:17,249
-está bueno también.
-
 52
+00:04:09,704 --> 00:04:17,249
+que concentrar, pero estos momentos de encierro cuando un grupo es bueno y te ayuda bien está bueno también. 
+
+53
 00:04:17,871 --> 00:04:21,181
 ¿Cuándo te diste cuenta de que tenías un don para jugar a la pelota?
 
-53
+54
 00:04:24,496 --> 00:04:29,211
 No sé, la verdad que por lo que hice desde muy chico siempre...
 
-54
+55
 00:04:30,073 --> 00:04:35,798
 siempre, por lo que hice, siempre era diferente y la gente me iba...
 
-55
+56
 00:04:36,920 --> 00:04:39,648
 Claro, o sea, vos tenés cuatro o cinco años y ves un montón de gente.
 
-56
+57
 00:04:40,551 --> 00:04:41,775
 ¿Y a qué viene esta gente?
 
-57
+58
 00:04:41,856 --> 00:04:43,783
 Que yo no me daba cuenta tampoco.
 
-58
-00:04:43,803 --> 00:04:45,710
+59
+00:04:44,378 --> 00:04:46,285
 Yo fui entendiendo eso con...
 
-59
+60
 00:04:46,923 --> 00:04:49,476
 cuando fui creciendo, cuando fui siendo más grande.
 
-60
-00:04:53,027 --> 00:04:55,293
+61
+00:04:53,027 --> 00:04:56,193
 Pero no sé, yo creo que el darme cuenta yo...
 
-61
+62
 00:04:58,039 --> 00:05:01,305
 No sé en qué momento lo hice.
 
-62
+63
 00:05:02,648 --> 00:05:07,264
 que tengo muy claro que nací así porque Dios me eligió a mí, porque fue...
 
-63
+64
 00:05:07,926 --> 00:05:14,081
 un don el que él me dio, el cual yo después intenté aprovecharlo, hice todo lo posible para...
 
-64
+65
 00:05:15,082 --> 00:05:20,947
 para sacarle todo el fruto y todo el jugo, pero la verdad que...
 
-65
+66
 00:05:22,048 --> 00:05:23,973
 que no hice nada para ser el jugador.
 
-66
+67
 00:05:23,993 --> 00:05:28,123
 Si bien hice mucha cosa, no hice nada para ser el jugador.
 
-67
+68
 00:05:29,338 --> 00:05:30,620
 el jugador que ya de chiquito era.
 
-68
+69
 00:05:30,740 --> 00:05:32,383
 Ahora, si hay algo en los genes...
 
-69
+70
 00:05:32,984 --> 00:05:38,631
 creo que el apellido Cuccittini tiene que estar y que creo que en algún momento se le dice, hey, no me dejen afuera, Lionel, Andrés, Messi.
 
-70
+71
 00:05:38,851 --> 00:05:40,255
 Cuccitini, por favor.
 
-71
-00:05:40,777 --> 00:05:41,659
+72
+00:05:40,777 --> 00:05:42,409
 Sí, muchas veces.
 
-72
+73
 00:05:44,768 --> 00:05:45,889
 Lo decía, ¿no?
 
-73
+74
 00:05:46,109 --> 00:05:51,373
 Nosotros en Argentina, generalmente, es el apellido del padre y cuando llega a España se usan los dos.
 
-74
+75
 00:05:52,148 --> 00:05:55,959
 el padre Lamar y ahí se reconocía un poco más pero muchas veces es verdad que decía...
 
-75
+76
 00:05:58,499 --> 00:06:00,348
 Yo soy tu mamá, yo soy el que te tuve.
 
-76
+77
 00:06:02,003 --> 00:06:03,065
 Y siempre Messi, ¿no?
 
-77
+78
 00:06:03,966 --> 00:06:06,749
 Y no parezco, pero sí, obviamente que...
 
-78
+79
 00:06:08,793 --> 00:06:10,262
 que hay higiene de los dos lados.
 
-79
+80
 00:06:11,846 --> 00:06:17,857
 El fútbol de potrero es el que vos, digamos, empezás a jugar en New Wales, fútbol de la calle también.
 
-80
+81
 00:06:18,739 --> 00:06:22,812
 y te vas muy temprano a un equipo donde
 
-81
+82
 00:06:23,736 --> 00:06:25,523
 Hay más academia que calle, que es la masía.
 
-82
+83
 00:06:27,090 --> 00:06:30,683
 como fue, no sé si transición, porque muchas cosas del potrero.
 
-83
+84
 00:06:31,184 --> 00:06:36,894
 Nunca las resignaste, pero incorporaste otras que quizás si ibas a otro equipo no te las enseñaba, no te las marcaban.
 
-84
+85
 00:06:37,435 --> 00:06:43,611
 Sí, sí, la verdad que para mí fue un cambio muy grande cuando me fui de Ñuela.
 
-85
+86
 00:06:44,372 --> 00:06:50,303
 a Barcelona, primero por la manera de entrenar, no más llegar a...
 
-86
+87
 00:06:50,984 --> 00:06:54,590
 las instalaciones que tenía el club.
 
-87
+88
 00:06:55,652 --> 00:06:59,097
 La ropa, pequeños detalles que hacen la diferencia.
 
-88
+89
 00:06:59,117 --> 00:07:00,119
 La cantidad de pelotas.
 
-89
+90
 00:07:00,279 --> 00:07:05,549
 Pelotas, sí, parece una W, pero... Cancha sintética, pelota...
 
-90
+91
 00:07:06,252 --> 00:07:07,420
 ropa todo vestido igual
 
-91
+92
 00:07:10,740 --> 00:07:16,337
 Me imagino que no había pretemporadas tediosas de vueltas a la plaza, acá se laburó mucho.
 
-92
+93
 00:07:16,798 --> 00:07:18,827
 en lo físico disociado de la pelota, allá no?
 
-93
+94
 00:07:19,349 --> 00:07:20,012
 No, allá...
 
-94
+95
 00:07:22,173 --> 00:07:28,302
 La verdad es que con media cancha se hacía un entrenamiento o se hacía una pretemporada.
 
-95
+96
 00:07:28,911 --> 00:07:33,619
 Era todo mucho trabajo reducido, mucha posesión, mucho...
 
-96
+97
 00:07:34,332 --> 00:07:35,697
 muchos partiditos cortos.
 
-97
-00:07:36,299 --> 00:07:39,730
+98
+00:07:36,299 --> 00:07:40,305
 Yo me acuerdo que cuando ante Emmanuel, ante el Barça,
 
-98
+99
 00:07:40,894 --> 00:07:42,517
 que hoy cambió mucho también, ¿no?
 
-99
+100
 00:07:45,080 --> 00:07:48,397
 pero me acuerdo que había dos o tres veces por semana que nos mandaban a correr.
 
-100
-00:07:50,462 --> 00:07:53,846
+101
+00:07:50,812 --> 00:07:53,846
 ¿Hacías todo a la vuelta o te escondías detrás de un árbol?
 
-101
+102
 00:07:53,906 --> 00:07:54,847
 No, era de esconderme
 
-102
+103
 00:07:56,069 --> 00:07:59,340
 Sí, era de esconderme.
 
-103
+104
 00:07:59,380 --> 00:08:02,189
 Nunca fue lo mío correr sin pelota.
 
-104
-00:08:03,353 --> 00:08:07,084
+105
+00:08:04,803 --> 00:08:07,084
 Pero sí, bueno, eso era una gran diferencia para mí.
 
-105
+106
 00:08:10,698 --> 00:08:13,212
 entrenar de otra manera y me hizo...
 
-106
+107
 00:08:14,178 --> 00:08:17,014
 crecer y entender muchísimo más del fútbol también.
 
-107
+108
 00:08:17,838 --> 00:08:21,592
 largalas o jugados toques, ¿cómo convivías con ese pedido?
 
-108
+109
 00:08:21,632 --> 00:08:23,399
 Porque había un poco de todo también.
 
-109
+110
 00:08:24,918 --> 00:08:31,109
 Sí, pero bueno, también por un lado era por el motivo porque yo estaba ahí, porque me habían elegido por...
 
-110
+111
 00:08:31,590 --> 00:08:35,850
 por el jugador que era, yo sabía mi manera de...
 
-111
+112
 00:08:36,894 --> 00:08:39,726
 de ser y yo no iba a cambiar porque...
 
-112
+113
 00:08:40,769 --> 00:08:46,518
 era lo que había hecho hasta ese entonces, sí que incluí un montón de cosas que yo me
-
-113
-00:08:47,282 --> 00:08:47,606
-me...
 
 114
 00:08:49,238 --> 00:08:52,963
@@ -495,2626 +495,2594 @@ Era el único club.
 ¿Y qué es el juego de posición, eso del tercer hombre?
 
 125
-00:09:46,775 --> 00:09:50,888
-Bueno, en realidad cuando yo llegué a...
+00:09:46,775 --> 00:09:55,892
+Bueno, en realidad cuando yo llegué a... Barcelona, crecí con eso. 
 
 126
-00:09:53,710 --> 00:09:55,892
-Barcelona, crecí con eso.
-
-127
 00:09:59,578 --> 00:10:03,933
 y no me costó nada o me parece muy fácil y al mismo tiempo para muchos es muy difícil.
 
-128
+127
 00:10:04,835 --> 00:10:08,030
 Es muy difícil, pero es muy chiquito te enseñar eso.
 
-129
+128
 00:10:09,201 --> 00:10:13,745
 el jugar rápido, el jugar al toque e intentar de buscar los espacios.
 
+129
+00:10:15,626 --> 00:10:23,840
+del tercer hombre agresivo de jugar una línea más para recibir de frente el que viene frente para jugar siempre con de frente y tenerla... 
+
 130
-00:10:15,626 --> 00:10:22,002
-del tercer hombre agresivo de jugar una línea más para recibir de frente el que viene frente para jugar siempre con
-
-131
-00:10:22,868 --> 00:10:23,840
-de frente y tenerla...
-
-132
-00:10:24,843 --> 00:10:29,479
+00:10:24,843 --> 00:10:30,279
 la visión de todo el terreno, a jugar rápido de espalda o a enseñarte a
 
-133
+131
 00:10:30,743 --> 00:10:32,228
 a perfilarte para recibir.
 
-134
+132
 00:10:35,076 --> 00:10:36,480
 Pequeño detalle, pequeño...
 
-135
+133
 00:10:37,128 --> 00:10:43,199
 volviese por así decirlo de alguna manera pero que después son importantísimos a la hora de llevarlo al juego.
 
-136
+134
 00:10:44,298 --> 00:10:45,703
 ¿Cuánta bola le das a la táctica?
 
-137
+135
 00:10:46,065 --> 00:10:47,711
 ¿Y qué es la táctica para vos?
 
-138
+136
 00:10:49,557 --> 00:10:55,840
 La verdad que yo no le daba mucha bola a la táctica nada poco y con Guardiola creo que...
 
-139
+137
 00:10:56,101 --> 00:11:00,370
 que aprendí muchísimo y empecé a entender mucho más de...
 
-140
+138
 00:11:02,655 --> 00:11:04,101
 del juego, de los espacios...
 
-141
-00:11:07,835 --> 00:11:13,168
+139
+00:11:07,835 --> 00:11:13,743
 de la tenencia de pelota, de manejar los partidos a través de la pelota.
 
-142
+140
 00:11:14,250 --> 00:11:19,602
 El fútbol evolucionó muchísimo también y hoy es todo muy táctico, demasiado táctico.
 
-143
+141
 00:11:20,283 --> 00:11:22,126
 que hoy cualquier equipo
 
-144
+142
 00:11:23,908 --> 00:11:28,628
 con una línea de 4-4, metiendo 5 atrás, ordenadito.
 
-145
+143
 00:11:29,351 --> 00:11:32,806
 y bien trabajado te complica y que
 
-146
+144
 00:11:33,891 --> 00:11:39,465
 que antes se encontraba mucho más espacio, yo creo que hoy por hoy es mucho más táctico y físico también.
 
-147
-00:11:39,645 --> 00:11:42,835
+145
+00:11:39,645 --> 00:11:43,135
 Ahora, por un lado hay mayor y mejor organización defensiva.
 
-148
+146
 00:11:43,697 --> 00:11:45,888
 pero hay menos espontaneidad, menos gambeta.
 
-149
+147
 00:11:46,350 --> 00:11:47,636
 ¿Por qué crees que pasa eso?
 
-150
+148
 00:11:48,119 --> 00:11:52,354
 porque los jugadores vienen ya formateados más con la academia que con la calle.
 
-151
+149
 00:11:53,453 --> 00:11:58,512
 Sí, creo que también confundió un poco la época.
 
-152
+150
 00:12:00,177 --> 00:12:03,003
 de Guardiola, porque todo el mundo quiso copiar y quiso...
 
-153
+151
 00:12:03,902 --> 00:12:09,194
 Quiso que sus equipos juegan de esa manera o ser el Barcelona de...
 
-154
+152
 00:12:10,056 --> 00:12:13,887
 de ese momento y muchas veces a chicos de lo que hablábamos antes.
 
-155
+153
 00:12:14,890 --> 00:12:20,244
 que están empezando, 6, 7 años, ya le empezaba a decir que tiene que jugar a dos toques, que tiene que jugar...
 
-156
+154
 00:12:21,053 --> 00:12:27,569
 es rápido que no puede tener mucho la pelota y yo creo que a esa edad tiene que pasar un poco lo que me pasó a mí, ¿no?
 
-157
+155
 00:12:28,288 --> 00:12:31,062
 que cada uno es como es, sí que hay que enseñarle a...
 
-158
+156
 00:12:31,906 --> 00:12:38,609
 Cuanto más chicos, mejor entender el juego, saber moverse, encontrar los espacios.
 
-159
+157
 00:12:39,010 --> 00:12:42,869
 a jugar rápido pero tampoco quitarle la espontaneidad de cada uno.
 
-160
+158
 00:12:44,113 --> 00:12:48,423
 que fue un poco toda la vida, que el jugador sudamericano siempre fue.
 
-161
-00:12:48,903 --> 00:12:51,047
+159
+00:12:48,903 --> 00:12:51,847
 Fue diferente y tuvo mucho más eso.
 
-162
+160
 00:12:52,529 --> 00:12:55,827
 que el europeo, pero es verdad que cada vez es menos también.
 
-163
+161
 00:12:56,269 --> 00:13:00,906
 te ayudó a arrancar por lo menos como profesional jugando de win derecho la raya
 
-164
+162
 00:13:01,107 --> 00:13:05,089
 ¿Te ordenaba en ese momento hasta llegar a un punto que más que ordenarte, te limitaba?
 
-165
+163
 00:13:06,448 --> 00:13:11,789
 Bueno, no me quedó otro tampoco, porque era el único espacio donde yo podía jugar.
 
-166
+164
 00:13:12,572 --> 00:13:16,024
 En ese momento yo había hecho toda la inferiore...
 
-167
-00:13:18,331 --> 00:13:18,851
+165
+00:13:18,331 --> 00:13:19,326
 Jugamos 3-4-3.
 
-168
-00:13:18,912 --> 00:13:21,253
+166
+00:13:19,687 --> 00:13:21,253
 Era la punta del rombo, el enganche.
 
-169
+167
 00:13:21,313 --> 00:13:21,654
 Claro.
 
-170
-00:13:21,814 --> 00:13:23,535
+168
+00:13:21,814 --> 00:13:24,435
 Y a mí me caía hermoso ahí.
 
-171
-00:13:24,757 --> 00:13:28,473
+169
+00:13:24,757 --> 00:13:29,548
 jugaba 6 de 5 y jugaba Víctor Vázquez de 9 y vos detrás de él
 
-172
+170
 00:13:30,301 --> 00:13:32,288
 La verdad es que teníamos un equipazo también en esa época.
 
-173
+171
 00:13:32,308 --> 00:13:33,693
 Muy crucifista era el 3-4-3.
 
-174
+172
 00:13:33,713 --> 00:13:35,500
 Sí, claro, era la época donde...
 
-175
+173
 00:13:36,864 --> 00:13:41,856
 donde por decirlo de alguna manera Curiba bajaba a la línea y jugábamos todos de esa misma manera.
 
-176
+174
 00:13:44,051 --> 00:13:45,856
 incluso en la primera, muchas veces...
 
-177
-00:13:48,101 --> 00:13:51,209
+175
+00:13:48,101 --> 00:13:51,984
 Se jugó así y cuando llegó Raija ya cambió.
 
-178
+176
 00:13:52,813 --> 00:13:56,378
 cuatro test tres y bueno, no me queda otra que...
 
-179
+177
 00:13:57,259 --> 00:14:01,727
 que jugar por derecha yo la verdad que no entendía mucho de la posición tampoco
 
-180
+178
 00:14:03,501 --> 00:14:04,523
 ¿Te convenció Raizkhan?
 
-181
+179
 00:14:05,325 --> 00:14:06,708
 O no te quedó otra que acercarte?
 
-182
+180
 00:14:08,371 --> 00:14:11,635
 Me fui acomodando, la verdad que era...
 
-183
+181
 00:14:12,719 --> 00:14:15,550
 tenía uno contra uno, era rápido, entendía
 
-184
+182
 00:14:16,374 --> 00:14:20,212
 el juego y me acomode por la clase de jugador.
 
-185
+183
 00:14:21,035 --> 00:14:27,310
 que tenía al lado también, cuando uno tiene jugadores de ese nivel creo que te hace...
 
-186
+184
 00:14:28,073 --> 00:14:32,592
 te hacen mejorar y también me pasó al principio de...
 
-187
+185
 00:14:33,697 --> 00:14:36,412
 de mi carrera cuando debuté que por ahí
 
-188
+186
 00:14:38,420 --> 00:14:41,705
 Era más individualista y me jugaba mal uno contra uno.
 
-189
+187
 00:14:43,368 --> 00:14:48,366
 que jugar a toque o ser más jugador de...
 
-190
+188
 00:14:49,128 --> 00:14:52,915
 de equipo y bueno después fui creciendo y fui agregando cosas
 
-191
+189
 00:14:53,677 --> 00:14:59,657
 a mi juego también y me fui adaptando a la posición de extremo.
 
-192
+190
 00:15:01,636 --> 00:15:04,512
 Pero bueno, nunca fue mi posición tampoco.
 
-193
+191
 00:15:06,059 --> 00:15:11,471
 lo has mencionado ya Guardiola un par de veces, ¿te acuerdas de la primera charla con él estaba el tema de los Juegos Olímpicos?
 
-194
+192
 00:15:12,273 --> 00:15:15,331
-de Beijing, ya surgió en la primera conversación con Pepe eso.
+de Beijing, ya surgió en la primera conversación con Pep eso.
 
-195
+193
 00:15:16,365 --> 00:15:22,487
 No, no, porque nosotros cuando llega él empezamos de pretemporada, ya habíamos...
 
-196
+194
 00:15:23,530 --> 00:15:26,178
 La verdad no me acuerdo bien, pero habíamos empezado...
 
-197
+195
 00:15:28,992 --> 00:15:29,774
 A entrenar.
 
-198
+196
 00:15:29,794 --> 00:15:32,603
 Tenían pre-champions, creo, contra el Visla-Krasnovia, claro.
 
-199
+197
 00:15:32,623 --> 00:15:32,643
 Sí.
 
-200
+198
 00:15:33,945 --> 00:15:36,675
 Y bueno, cuando se empezó hace un poco...
 
-201
+199
 00:15:37,557 --> 00:15:43,796
 de ruido y el quilombo de que si me iba o no me iba, para nosotros también era muy importante jugar la Champions.
 
-202
+200
 00:15:44,804 --> 00:15:47,654
 Y nosotros veníamos de dos años complicados.
 
-203
+201
 00:15:47,754 --> 00:15:49,720
 Era el Barcelona que después fue con...
 
-204
+202
 00:15:50,342 --> 00:15:53,660
 con él, si bien tuvimos una etapa muy buena con Rijkaard también.
 
-205
+203
 00:15:54,645 --> 00:15:59,226
 Tuvimos un bache de dos años ahí donde... Ah, que dieron 4-1 con el Madrid el día que dieron la vuelta.
 
-206
+204
 00:15:59,507 --> 00:16:01,836
 Estuvimos dos años sin ganar nada.
 
-207
+205
 00:16:05,371 --> 00:16:08,730
 un poco en los líos ahí y nosotros teníamos que entrar a Champions y
 
-208
+206
 00:16:09,634 --> 00:16:13,609
 sí o sí y bueno yo estaba medio
 
-209
+207
 00:16:15,413 --> 00:16:20,427
 medio ahí, medio renegado, también lo día de entrenamiento, con cara larga, eso quería ir a jugarlo.
 
-210
-00:16:21,209 --> 00:16:25,241
+208
+00:16:21,209 --> 00:16:25,616
 los Juegos Olímpicos y hasta que tuvimos la charla.
 
-211
-00:16:28,470 --> 00:16:31,656
+209
+00:16:28,970 --> 00:16:31,656
 ¿Se dio cuenta enseguida de que querías ir a los Juegos Olímpicos?
 
-212
+210
 00:16:33,058 --> 00:16:34,963
 O habría estado en los olímpicos en Barcelona.
 
-213
+211
 00:16:35,083 --> 00:16:37,449
 Aparte es una persona muy...
 
-214
+212
 00:16:38,011 --> 00:16:40,911
 muy inteligente, que se da cuenta de todo, no se le escapa nada.
 
-215
+213
 00:16:42,625 --> 00:16:47,136
 Y si bien recién no conocíamos, yo soy muy fácil de conocer también.
 
-216
+214
 00:16:48,348 --> 00:16:50,318
 muy transparente y...
 
-217
+215
 00:16:53,893 --> 00:16:55,580
 y me conoció rápido, nos conocimos.
 
-218
+216
 00:16:56,223 --> 00:17:00,126
 Lo correcimos rápido, por eso él enseguida me agarró, tuvimos la charla.
 
-219
+217
 00:17:01,280 --> 00:17:05,357
 Y no me acuerdo bien, pero más o menos pasó un poco como que me dijo...
 
-220
+218
 00:17:06,140 --> 00:17:08,247
 Quédate tranquilo que nosotros vamos a entrar a la Champions.
 
-221
+219
 00:17:08,468 --> 00:17:08,849
 Buen día.
 
-222
+220
 00:17:09,611 --> 00:17:13,178
 Yo te voy a dejar ahí, ganar los Juegos Olímpicos y después venir que vamos a tener un año...
 
-223
+221
 00:17:14,621 --> 00:17:18,715
 largo, lo vamos a disfrutar, pero hace largo así que anda a disfrutar y después volvemos.
 
-224
+222
 00:17:19,016 --> 00:17:25,257
 ¿Te marcó alguna otra pauta, alimentación, algo que vos no hacías y que con él empezaste a hacer?
 
-225
+223
 00:17:27,745 --> 00:17:32,057
 Sí, él estaba en todo el tema de...
 
-226
+224
 00:17:32,438 --> 00:17:38,299
 del cuidado, del canso, de la buena alimentación, pero tampoco era tan estricto.
 
-227
+225
 00:17:40,811 --> 00:17:42,800
 Sí que he bajado una línea y...
 
-228
+226
 00:17:44,208 --> 00:17:46,440
 y nos enseñaba que era lo mejor para cada uno.
 
-229
-00:17:47,742 --> 00:17:49,108
+227
+00:17:47,742 --> 00:17:51,933
 Pero después dependía de cada uno.
 
-230
+228
 00:17:52,782 --> 00:17:56,951
 Sí es verdad que empezamos a comer en el club todos juntos y ya de una manera u otra.
 
-231
+229
 00:17:58,073 --> 00:18:02,681
 ahí ya te estaba cuidando, ya te estaba alimentando diferente.
 
-232
+230
 00:18:03,463 --> 00:18:06,776
 por lo menos la comida después de entrenamiento, los desayunos.
 
-233
-00:18:08,402 --> 00:18:10,450
+231
+00:18:08,802 --> 00:18:10,850
 Pero bueno, cuando uno es joven también...
 
-234
+232
 00:18:11,596 --> 00:18:12,757
 no se da cuenta de todo eso.
 
-235
+233
 00:18:12,777 --> 00:18:16,721
 Creo que hoy por hoy también cambió eso y el jugador de fútbol.
 
-236
+234
 00:18:17,381 --> 00:18:21,616
 empieza a cuidarse de más joven también en esa época.
 
-237
+235
 00:18:22,800 --> 00:18:25,354
 tomar, comer lo que quiere, que al final no...
 
-238
+236
 00:18:27,064 --> 00:18:29,794
 no te das cuenta o no lo sentís, porque físicamente...
 
-239
-00:18:31,219 --> 00:18:32,463
+237
+00:18:32,215 --> 00:18:33,459
 Tienes restos, tienes margen.
 
-240
-00:18:32,483 --> 00:18:32,584
+238
+00:18:33,459 --> 00:18:34,309
 Claro.
 
-241
+239
 00:18:35,012 --> 00:18:39,644
 Pero después te das cuenta con los años que cuanto antes empezar es mejor, ¿no?
 
-242
+240
 00:18:40,666 --> 00:18:41,508
 Y le vas a sacar más.
 
-243
+241
 00:18:42,572 --> 00:18:44,860
 más rendimiento a tu físico.
 
-244
+242
 00:18:45,924 --> 00:18:47,731
 ¿El Falso 9 nace contra el Madrid?
 
-245
+243
 00:18:49,281 --> 00:18:51,044
 ¿No lo habían practicado antes?
 
-246
-00:18:55,232 --> 00:18:58,560
+244
+00:18:55,232 --> 00:18:59,560
 Veníamos jugando... Vos de 7, Eto'o de 9 y Titi de 11 Claro
 
-247
-00:19:00,581 --> 00:19:00,601
-Y...
-
-248
+245
 00:19:02,572 --> 00:19:04,356
 No, no lo habíamos hablado.
 
-249
+246
 00:19:04,838 --> 00:19:09,428
 Sí que creo que él antes, en la semana, antes de un par de días de entrenamiento,
 
-250
-00:19:09,569 --> 00:19:11,076
-un momento.
-
-251
+247
 00:19:11,621 --> 00:19:17,158
 no lo llego a probar, pero algo mencionaba de que capaz hacemos algo diferente, estoy viendo.
 
-252
+248
 00:19:18,782 --> 00:19:24,125
 Yo me entero el día antes del partido, nosotros viajamos el mismo día a Madrid.
 
-253
-00:19:25,166 --> 00:19:31,353
+249
+00:19:26,205 --> 00:19:31,353
 Y es más, me entero a la tarde porque me manda llamar a la tarde y me dice qué está haciendo, estoy en mi casa.
 
-254
+250
 00:19:32,392 --> 00:19:34,141
 Bueno, venía a la Ciudad Deportiva y quería hablar con vos.
 
-255
+251
 00:19:34,161 --> 00:19:36,452
 Y ahí me muestra un par de videos y me dice lo que...
 
-256
+252
 00:19:37,335 --> 00:19:43,250
 Lo que vamos a hacer, que vamos a jugar con Falso 9, porque no quiero que los centrales tengan...
 
-257
+253
 00:19:44,353 --> 00:19:50,232
 tenga la referencia y que quiero ser uno más en la mitad de cancha para tener la pelota porque
 
-258
+254
 00:19:50,874 --> 00:19:54,739
 Para ir a Madrid a ganar, hay que tener la pelota, hay que ser protagonistas.
 
-259
+255
 00:19:58,229 --> 00:20:01,199
 y tenemos que ser nosotros y no es muy difícil ganar ahí.
 
-260
+256
 00:20:02,466 --> 00:20:07,166
 Ya conozco bien ese estadio, yo ya fui muchas veces y es un estadio diferente a todo.
 
-261
+257
 00:20:08,120 --> 00:20:10,490
 y si queremos ganar tenemos que ser muy muy superior a ellos.
 
-262
+258
 00:20:11,189 --> 00:20:15,270
 y yo quiero tener la pelota esa, así que te quiero que venga a mitad de cancha, que te junte con...
 
-263
+259
 00:20:16,655 --> 00:20:19,678
 con Busi, con Xavi, con André y tener la pelota ahí.
 
-264
+260
 00:20:19,758 --> 00:20:22,740
 Y después que si salen los centrales tenemos a Samuel y a...
 
-265
+261
 00:20:23,481 --> 00:20:25,925
 y a ti y a ti qué son lo que van a aplicar al espacio.
 
-266
+262
 00:20:27,607 --> 00:20:29,690
 Y bueno, así lo hicimos.
 
-267
+263
 00:20:29,810 --> 00:20:32,854
 Pobre Fernando Gago, te miró el número muchas veces ese día.
 
-268
+264
 00:20:33,475 --> 00:20:37,108
 La verdad que... Lo paso él y las dias rápido, sobre todo Fernando.
 
-269
+265
 00:20:37,530 --> 00:20:42,844
 Y la verdad que nosotros éramos, lo que había dicho él, uno más siempre dentro de mitad de cancha.
 
-270
+266
 00:20:44,045 --> 00:20:47,784
 y ellos estaban un poco perdidos porque era algo nuevo también para todo el mundo.
 
-271
+267
 00:20:49,750 --> 00:20:53,094
 hacíamos después de haber jugado un montón de tiempo de una misma manera.
 
-272
+268
 00:20:55,444 --> 00:20:57,830
 Y encima era chava y nieta, y busqué que...
 
-273
+269
 00:20:58,800 --> 00:21:03,691
 ahora llegó para quedarse porque no es que solamente fue contra el Madrid después fuiste
 
-274
+270
 00:21:04,273 --> 00:21:07,952
 FALSO 9 durante el resto de la temporada y las que siguieron.
 
-275
+271
 00:21:08,723 --> 00:21:12,211
 Sí, porque encontramos eso.
 
-276
+272
 00:21:12,652 --> 00:21:13,233
 Encontramos...
 
-277
+273
 00:21:15,829 --> 00:21:20,689
 el siempre ser uno más dentro de la cancha y manejar el juego a través de...
 
-278
+274
 00:21:21,291 --> 00:21:24,903
 de eso, de la tenencia de la penota, de tenerla mucho y de
 
-279
+275
 00:21:27,872 --> 00:21:30,599
 de hacer correr al rival y la verdad que
 
-280
+276
 00:21:31,761 --> 00:21:36,693
 que llevó unos años hasta que algún equipo le pueda encontrar contra eso.
 
-281
+277
 00:21:38,089 --> 00:21:39,580
 Hoy me hablabas de disfrutar.
 
-282
+278
 00:21:40,899 --> 00:21:46,159
 ¿Disfrutaste menos de lo que te hubiera gustado ese equipo, ese día a día, esos partidos?
 
-283
+279
 00:21:46,239 --> 00:21:47,042
 Sí, la verdad que sí.
 
-284
+280
 00:21:47,847 --> 00:21:49,576
 La verdad que sí es lo que te decía un poco antes.
 
-285
+281
 00:21:49,636 --> 00:21:51,304
 Uno cuando es joven no se da cuenta de nada.
 
-286
+282
 00:21:52,830 --> 00:21:56,760
 aparte estuvo tan seguido, jugábamos cada tres días, no te daba tiempo
 
-287
+283
 00:21:58,545 --> 00:22:00,954
 a terminar un partido que ya estaba preparando el otro.
 
-288
+284
 00:22:02,755 --> 00:22:06,387
 No jugábamos muchas cosas, si bien lo disfrutábamos el día a día.
 
-289
+285
 00:22:09,212 --> 00:22:14,870
 La pasábamos bien porque el entrenamiento era lo mismo que un partido, los trabajos, lo que te hablaba antes.
 
-290
+286
 00:22:17,078 --> 00:22:18,404
 de posición, te tocaba
 
-291
+287
 00:22:19,950 --> 00:22:25,107
 tener mucho la pelota y cuando no la tenía correr mucho también porque era un equipo que jugaban bien todos
 
-292
+288
 00:22:27,617 --> 00:22:29,546
 y los partiditos cortos eran muy competitivos.
 
-293
+289
 00:22:31,001 --> 00:22:36,673
 queríamos ganar siempre, creo que ese equipo aparte de jugar bien tenía eso también, que tenía muchos ganadores, mucha gente.
 
-294
+290
 00:22:37,335 --> 00:22:42,324
 competitivo que había pasado muchos años sufriendo en el Barcelona también.
 
-295
+291
 00:22:42,895 --> 00:22:48,881
 pasándola con resultado y se encontraba en un momento fabuloso y quería
 
-296
+292
 00:22:49,642 --> 00:22:51,668
 quería ganar también, pero...
 
-297
+293
 00:22:52,622 --> 00:22:57,491
 Pero bueno, en ese momento no me daba cuenta de todo eso y de lo que realmente el equipo era.
 
-298
-00:22:57,711 --> 00:23:00,217
+294
+00:22:57,711 --> 00:23:00,823
 Por suerte a vos se te fue la competitividad, ya no querés ganar a todos.
 
-299
+295
 00:23:03,504 --> 00:23:05,792
 Yo creo que eso no se me va a ir nunca.
 
-300
-00:23:09,284 --> 00:23:13,148
+296
+00:23:09,284 --> 00:23:14,124
 como decía antes, del don, soy así, nací así.
 
-301
+297
 00:23:15,991 --> 00:23:18,257
 es muy difícil que se me vaya.
 
-302
+298
 00:23:18,617 --> 00:23:20,582
 Me cuesta hasta dejar ganar a mis hijos.
 
-303
+299
 00:23:22,547 --> 00:23:26,659
 le cambias del color en el uno a... creo que era a Mateo
 
-304
+300
 00:23:26,980 --> 00:23:30,381
-Mateo, si necesite hago todavía, Mateo, es el segundo.
+Mateo, si necesite Tihago todavía, Mateo, es el segundo.
 
-305
+301
 00:23:31,466 --> 00:23:35,942
 Eso era un poco para hacerlo calentado, porque es igual a mí en ese sentido.
 
-306
+302
 00:23:36,986 --> 00:23:41,383
 Es muy calentón y también a eso no le gusta perder nada.
 
-307
+303
 00:23:41,845 --> 00:23:43,312
 son muy parecido a mí
 
-308
+304
 00:23:46,627 --> 00:23:50,698
 Está bueno eso de ser competitivo también, pero después también aprendí a...
 
-309
+305
 00:23:52,421 --> 00:23:57,678
 a saber perder, a sacar cosas positivas de derrota.
 
-310
+306
 00:23:58,300 --> 00:24:02,210
 Y también entendí que son más veces las que se pierden las que se ganan, ¿no?
 
-311
+307
 00:24:02,370 --> 00:24:04,375
 Son manos inóviles, dijo eso en un reportaje.
 
-312
+308
 00:24:05,217 --> 00:24:07,686
 Se aprende de las derrotas, realmente se aprende.
 
-313
+309
 00:24:09,136 --> 00:24:10,418
 Y con el tiempo se aprende.
 
-314
-00:24:11,160 --> 00:24:11,480
+310
+00:24:11,160 --> 00:24:12,192
 Por ahí...
 
-315
+311
 00:24:13,645 --> 00:24:16,641
 Por ahí cuesta porque hay derrota que...
 
-316
+312
 00:24:17,324 --> 00:24:22,363
 que son difíciles de superar o de... o de... a mí por lo menos no me...
 
-317
+313
 00:24:23,627 --> 00:24:27,360
 No me gusta revivirla o repasar.
 
-318
+314
 00:24:29,295 --> 00:24:31,161
 pero la larga...
 
-319
+315
 00:24:33,468 --> 00:24:35,133
 ayuda y te hace crecer.
 
-320
+316
 00:24:35,634 --> 00:24:38,621
 ¿Y cómo gestionas vos hoy emocionalmente una derrota?
 
-321
+317
 00:24:39,042 --> 00:24:39,884
 ¿Diferente de antes?
 
-322
+318
 00:24:40,265 --> 00:24:41,591
 mucho más, mucho más.
 
-323
-00:24:44,061 --> 00:24:46,687
+319
+00:24:44,061 --> 00:24:48,059
 que la llegada de mi primer hijo, de Tiago,
 
-324
-00:24:48,832 --> 00:24:50,374
+320
+00:24:48,832 --> 00:24:51,772
 cambió mucho eso también en mí.
 
-325
+321
 00:24:54,299 --> 00:24:59,616
 perdía un partido y podía estar dos o tres días encerrado sin querer hablar con nadie.
 
-326
-00:25:01,582 --> 00:25:04,350
-y no hablar de nada, ir a entrenar.
+322
+00:25:01,582 --> 00:25:05,637
+y no hablar de nada, ir a entrenar. mal 
 
-327
-00:25:05,354 --> 00:25:05,637
-mal
-
-328
+323
 00:25:09,380 --> 00:25:13,128
 con la cabeza pensando en lo que había pasado, en por qué habíamos perdido.
 
-329
+324
 00:25:14,416 --> 00:25:18,007
 en si hubiese pasado tal cosa o tal cosa o que no se dio.
 
-330
+325
 00:25:20,750 --> 00:25:23,876
 Y bueno, cuando llegó Tiago me cambió todo, ¿no?
 
-331
+326
 00:25:25,564 --> 00:25:31,210
 Llegaba a casa y verlo a él me hacía olvidar un poco lo que había pasado.
 
-332
+327
 00:25:31,963 --> 00:25:35,184
 ¿Y cómo te llevas con tus errores dentro de la cancha, más allá del resultado final?
 
-333
+328
 00:25:35,506 --> 00:25:38,980
 Por ejemplo, el 2-2 de Francia es una pelota que te quitan a vos.
 
-334
+329
 00:25:39,642 --> 00:25:44,481
-hace el gol en vape y el director de cámaras cruel al primero que enfoca es a vos, por eso vemos ese gesto en el que...
+hace el gol en Vape y el director de cámaras cruel al primero que enfoca es a vos, por eso vemos ese gesto en el que...
 
-335
+330
 00:25:45,023 --> 00:25:46,765
 estás por caerte y al final te levantas.
 
-336
-00:25:47,485 --> 00:25:49,307
+331
+00:25:47,485 --> 00:25:50,336
 Y eso pasó hace poco, el 18 de diciembre de 2022.
 
-337
+332
 00:25:50,968 --> 00:25:55,975
 sos muy autocrítico, para vos siempre jugas mal y siempre puedes hacer algo mejor y ya lo que es...
 
-338
+333
 00:25:56,636 --> 00:25:57,459
 durante el partido.
 
-339
+334
 00:25:57,499 --> 00:26:00,691
 ¿Cómo gestionás eso de, uy me equivoqué, pero esto sigue?
 
-340
+335
 00:26:01,980 --> 00:26:04,508
 Sí, siempre fui así, muy autocrítico.
 
-341
+336
 00:26:07,737 --> 00:26:12,888
 creo que quemar soy el primero que sé cuando
 
-342
+337
 00:26:13,649 --> 00:26:15,758
 cuando hago las cosas bien o cuando hago las cosas mal.
 
-343
+338
 00:26:19,029 --> 00:26:21,632
 y durante el partido...
 
-344
+339
 00:26:24,791 --> 00:26:27,823
 intento de no irme nunca del partido por ahí.
 
-345
+340
 00:26:29,192 --> 00:26:32,958
 Por ahí hay muchas veces que no participo, pero nunca dejo de estar metido en el...
 
-346
+341
 00:26:33,579 --> 00:26:36,467
 en el partido viendo lo que está pasando, lo que puede llegar a...
 
-347
+342
 00:26:38,912 --> 00:26:43,000
 a pasar y intento internamente hablarme.
 
-348
+343
 00:26:43,982 --> 00:26:45,364
 y no irme nunca de partido.
 
-349
+344
 00:26:45,384 --> 00:26:45,965
 ¿Qué te decís?
 
-350
+345
 00:26:46,626 --> 00:26:47,367
 ¿Qué te decís a vos mismo?
 
-351
+346
 00:26:47,808 --> 00:26:52,120
 Y muchas veces me aputeo de cómo voy a perder esa pelota, cómo voy a dar ese paso.
 
-352
+347
 00:26:52,140 --> 00:26:52,923
 Vos te decís burro.
 
-353
+348
 00:26:54,219 --> 00:26:57,184
 Vos Sabuño te decís burro, pero qué burro soy, me da pena que perdí.
 
-354
+349
 00:26:57,304 --> 00:26:58,987
 Sí, de todo medio, cuando...
 
-355
+350
 00:27:01,795 --> 00:27:04,944
 Por ejemplo, en la jugada del Mundial me quería...
 
-356
+351
 00:27:05,586 --> 00:27:11,492
 Me quería matar porque si bien fue una pérdida lejos del arco, cerca de...
 
-357
+352
 00:27:12,193 --> 00:27:13,115
 del banco de hecho
 
-358
+353
 00:27:16,798 --> 00:27:19,751
 Era una pelota que la perdí por...
 
-359
+354
 00:27:20,876 --> 00:27:24,614
 por querer hacer una de más, por querer voludear, por no...
 
-360
+355
 00:27:25,518 --> 00:27:27,931
 no buscar ir hacia adelante.
 
-361
+356
 00:27:28,876 --> 00:27:33,017
 y porque también cuando quiero hacer el último pasito medio que se me queda la pelota
 
-362
+357
 00:27:34,082 --> 00:27:37,415
 y me queda lejos y ahí es donde me corre
 
-363
+358
 00:27:38,940 --> 00:27:40,863
 Me corre el otro y me la saca.
 
-364
+359
 00:27:42,765 --> 00:27:46,920
 pero sí en el mismo partido soy autocrítico conmigo mismo e intento de...
 
-365
-00:27:47,441 --> 00:27:53,476
+360
+00:27:48,681 --> 00:27:53,476
 de superarme y de volver a estar en contacto con la pelota.
 
-366
+361
 00:27:54,358 --> 00:27:56,560
 para revertir eso y volver otra vez al juego.
 
-367
+362
+00:27:56,560 --> 00:28:00,949
+Y ese sentimiento es universal. Cuando uno pierde la pelota, seas amateur o profesional.
+
+363
 00:28:01,165 --> 00:28:04,889
 y ves el desenlace que no sea gol, que no sea gol, que no sea gol, que no sea gol, gol.
 
-368
+364
 00:28:06,050 --> 00:28:11,912
 Sí, aparte, por más que la pierda arriba, como decía recién, puede estar lejos de...
 
-369
+365
 00:28:12,213 --> 00:28:17,605
 del arco que la jugada termina en gol, uno se siente...
 
-370
+366
 00:28:18,450 --> 00:28:20,299
 se siente culpable y ese día me...
 
-371
+367
 00:28:22,952 --> 00:28:29,260
 Me daba mucha bronca, mucha bronca de que haya perdido esa pelota y que haya pasado eso después del partido que veníamos haciendo.
 
-372
+368
 00:28:30,925 --> 00:28:35,078
 Frente al error, obviamente uno convive, lo gestiona.
 
-373
+369
 00:28:37,352 --> 00:28:40,965
 Pienso, por ejemplo, en lo que me decía recién de las caminatas.
 
-374
+370
 00:28:41,627 --> 00:28:47,067
 Hay un video en el cual Guardiola te ve a vos caminar y dice está tramando algo, está pensando.
 
-375
+371
 00:28:47,981 --> 00:28:52,881
 cuando no es que desapareces del partido, cuando hay tres, cuatro minutos en los que no tocas la pelota.
 
-376
+372
 00:28:54,199 --> 00:28:54,681
 ¿Qué miras?
 
-377
+373
 00:28:55,282 --> 00:28:56,646
 ¿Qué escaneas?
 
-378
+374
 00:28:57,387 --> 00:28:58,229
 ¿Qué analizas?
 
-379
-00:29:01,877 --> 00:29:07,225
+375
+00:29:01,877 --> 00:29:08,174
 Bueno, el posicionamiento del rival,
 
-380
+376
 00:29:08,598 --> 00:29:11,752
 de cómo quedan parados ellos cuando no tenemos la pelota nosotros.
 
-381
+377
 00:29:13,612 --> 00:29:18,664
 Nosotros que siempre fuimos un equipo protagonista en el Barcelona y hoy nos pasa en la selección también.
 
-382
+378
 00:29:20,450 --> 00:29:23,460
 siempre cuando enfrentábamos a un rival era...
 
-383
+379
 00:29:26,149 --> 00:29:29,360
 era cuando estamos atacando tengamos cuidado de la vigilancia.
 
-384
+380
 00:29:30,931 --> 00:29:35,165
 no estemos mirando el partido, sino marcando a los que quedan descolgados.
 
-385
+381
 00:29:36,488 --> 00:29:41,730
 Y yo intento hacer un poco eso, intentar de alejarme de la marca.
 
-386
+382
 00:29:42,432 --> 00:29:45,823
 salirme entre comillas del partido de lo que está pasando para
 
-387
-00:29:47,470 --> 00:29:52,694
+383
+00:29:46,679 --> 00:29:52,694
 para, si recuperamos, estar bien perfilados y estar solos.
 
-388
-00:29:53,836 --> 00:29:57,871
+384
+00:29:53,836 --> 00:29:59,295
 un tiempo para poder iniciar una contra o poder iniciar una...
 
-389
+385
 00:30:00,689 --> 00:30:02,913
 Una jugada, generalmente estudio como...
 
-390
+386
 00:30:04,107 --> 00:30:07,786
 cómo queda parado el rival cuando está teniendo un ataque.
 
-391
+387
 00:30:08,846 --> 00:30:11,673
 ¿Se puede explicar todo lo que pasa dentro de un partido de fútbol?
 
-392
+388
 00:30:12,134 --> 00:30:15,122
 ¿O es una obsesión más nuestra de periodistas y comentaristas?
 
-393
+389
 00:30:16,644 --> 00:30:22,822
 Lo que pasa es que yo creo que hay cosas que son inexplicables, hay cosas que pasan en el fútbol que pasan solamente en este deporte.
 
-394
-00:30:24,754 --> 00:30:26,117
+390
+00:30:24,754 --> 00:30:29,151
 Es un deporte donde puede ser
 
-395
+391
 00:30:30,186 --> 00:30:33,097
 10 veces mejor que el rival y puede perder.
 
-396
+392
 00:30:34,343 --> 00:30:35,528
 puedes ganar sin batear al arco
 
-397
+393
 00:30:38,703 --> 00:30:43,031
 o el mejor equipo de una competición, no es campeón ni llega...
 
-398
+394
 00:30:44,193 --> 00:30:45,334
 ni llega a la final.
 
-399
-00:30:45,815 --> 00:30:48,878
+395
+00:30:46,316 --> 00:30:49,379
 Hay cosas en el fútbol que es muy difícil encontrarle.
 
-400
-00:30:49,681 --> 00:30:51,511
+396
+00:30:49,681 --> 00:30:53,120
 de explicación se puede...
 
-401
+397
 00:30:53,928 --> 00:30:56,153
 estudiar, opinar, pero hay cosas que...
 
-402
+398
 00:30:57,389 --> 00:30:59,675
 que es difícil de encontrar explicación.
 
-403
+399
 00:30:59,855 --> 00:31:01,760
 ¿Y cómo te llevas con esos detalles que hacen...?
 
-404
+400
 00:31:02,441 --> 00:31:06,163
 que algunos partidos tengan resultados muy diferentes a lo que es el desarrollo.
 
-405
+401
 00:31:08,531 --> 00:31:11,202
 Es un poco eso también, ¿no?
 
-406
+402
 00:31:12,447 --> 00:31:13,130
 El no entender.
 
-407
-00:31:14,174 --> 00:31:16,845
+403
+00:31:14,675 --> 00:31:17,346
 o la bronca, la impotencia de decir...
 
-408
+404
 00:31:18,523 --> 00:31:20,460
 Es imposible que haya pasado de esta manera.
 
-409
+405
 00:31:21,363 --> 00:31:28,179
 Si hicimos todo para que sea farobor nuestro o diferente, buscando un poco...
 
-410
+406
 00:31:28,941 --> 00:31:30,747
 esa explicación que muchas veces no se encuentra.
 
-411
-00:31:31,631 --> 00:31:33,397
+407
+00:31:31,631 --> 00:31:34,083
 Te propongo un recorrido, son 20 años de selección.
 
-412
+408
 00:31:34,761 --> 00:31:37,649
 Empezaste siendo el más chico y ahora sos el mayor de edad.
 
-413
+409
 00:31:38,571 --> 00:31:39,554
 ¿Te acordás algo de
 
-414
+410
 00:31:40,416 --> 00:31:44,172
 de esos 90 segundos contra Hungría, entras por Lisandro López.
 
-415
+411
 00:31:45,176 --> 00:31:51,431
 y en una jugada, metés el manotazo, Marcus Merck te hecha, o sea, todo el mundo estaba pendiente del estreno.
 
-416
+412
 00:31:51,993 --> 00:31:53,419
 y dura un minuto y medio.
 
-417
+413
 00:31:54,926 --> 00:31:55,911
 Sí, me acuerdo que toqué...
 
-418
+414
 00:31:58,143 --> 00:32:00,395
 dos o tres pelotas como mucho había hecho.
 
-419
-00:32:02,622 --> 00:32:05,989
+415
+00:32:02,622 --> 00:32:06,780
 un arranque antes de la jugada esa que me echa.
 
-420
+416
 00:32:07,392 --> 00:32:11,645
 muy parecida y bueno la verdad que que no entendía nada cuando
 
-421
+417
 00:32:12,809 --> 00:32:16,463
 cuando me habían echado porque me había pasado
 
-422
+418
 00:32:18,018 --> 00:32:21,889
 un montón de veces la situación esa de que me agarren ni querer sacármelo de encima.
 
-423
-00:32:23,875 --> 00:32:26,183
+419
+00:32:24,640 --> 00:32:26,948
 y bueno, el árbitro tampoco tuvo
 
-424
+420
 00:32:27,488 --> 00:32:29,416
 Nada de tacto, ni nada.
 
-425
+421
 00:32:31,448 --> 00:32:36,062
 Me echó que tampoco era para Roja.
 
-426
-00:32:37,273 --> 00:32:42,320
+422
+00:32:37,273 --> 00:32:42,874
 Fue un momento durísimo para mí, por todo lo que significaba mi debut, mis primeros partidos.
 
-427
+423
 00:32:43,659 --> 00:32:44,402
 De esa manera.
 
-428
+424
 00:32:45,026 --> 00:32:46,594
 Pero bueno, el vestuario me... Eso.
 
-429
-00:32:46,775 --> 00:32:47,338
-¿Qué te dijeron?
+425
+00:32:46,775 --> 00:32:48,835
+¿Qué te dijeron? ¿Había cada nene en ese vestuario?
 
-430
-00:32:47,806 --> 00:32:49,414
+426
+00:32:48,835 --> 00:32:51,735
 No, yo entre muerto, llorando...
 
-431
+427
 00:32:52,869 --> 00:32:54,776
 no me podían condenar.
 
-432
+428
 00:32:55,659 --> 00:32:56,783
 Y nada, el vestuario me...
 
-433
+429
 00:32:58,187 --> 00:33:01,573
 me arropó muchísimo estuvo muy
 
-434
-00:33:02,094 --> 00:33:06,168
+430
+00:33:02,094 --> 00:33:06,828
 muy cerca a mí, o me acuerdo que el Kili me decía tranquilo que a mí también me pasó lo mismo y después jugué.
 
-435
+431
 00:33:07,052 --> 00:33:08,944
 No sé cuántos partidos jugó el Kylian en la selección.
 
-436
+432
 00:33:10,664 --> 00:33:11,566
 Y bueno, así fue al final.
 
-437
+433
 00:33:11,586 --> 00:33:14,874
 Llevo todavía jugando en la Selección un millón de partidos.
 
-438
+434
 00:33:16,173 --> 00:33:21,046
 Pero me acuerdo que me quedó muy marcado eso, decía tranquilo, a mí me pasó lo mismo, después juega en la selección, no sé cuánto.
 
-439
+435
 00:33:21,860 --> 00:33:24,451
 Cuánto partido, la verdad que el Kylian en ese momento conmigo...
 
-440
+436
 00:33:25,956 --> 00:33:29,980
 fue muy cariñoso, se me apegó a mí, me cuidó.
 
-441
+437
 00:33:32,583 --> 00:33:33,184
 él y todo, ¿no?
 
-442
+438
 00:33:33,204 --> 00:33:36,572
 Pero bueno, me acuerdo en especial
 
-443
+439
 00:33:37,313 --> 00:33:42,322
 La palabra de él, pero había todos los jugadores, creo que... bueno, Caloni también contó, ¿no?
 
-444
+440
 00:33:42,342 --> 00:33:42,362
 Sí.
 
-445
+441
 00:33:43,484 --> 00:33:46,275
 que decía que el primer pase de mí a la selección me lo había dado él.
 
-446
+442
 00:33:47,901 --> 00:33:53,213
 En verdad no me acuerdo y no lo vi, pero en general el vestuario me apoyó mucho.
 
-447
+443
 00:33:54,716 --> 00:33:57,981
 Quiero ir a 2019, el resto de su historia conocida.
 
-448
+444
 00:33:59,346 --> 00:34:03,205
 Vos llegás a la selección dirigida por Leonel Aquel amistoso contra Venezuela en Madrid.
 
-449
-00:34:04,448 --> 00:34:08,475
+445
+00:34:04,791 --> 00:34:08,818
 y era una selección muy diferente, se habían ido todos tus.
 
-450
+446
 00:34:09,116 --> 00:34:11,202
 O sea, me río con esto del club de amigos.
 
-451
+447
 00:34:11,282 --> 00:34:13,167
 Ese club de amigos que perdía, ahora el club de amigos gana.
 
-452
-00:34:14,993 --> 00:34:15,859
+448
+00:34:14,993 --> 00:34:16,571
 dicho esto con ironía.
 
-453
+449
 00:34:17,620 --> 00:34:21,610
 y alguien que estaba ahí cuando vos llegaste a la selección, me decía...
 
-454
+450
 00:34:23,175 --> 00:34:24,741
 Lo miran hasta para comer.
 
-455
+451
 00:34:26,218 --> 00:34:32,853
 Era un grupo de chicos que tenía a su ídolo de compañero, pero claro, estaban todos...
 
-456
+452
 00:34:33,937 --> 00:34:35,302
 absortos mirándote comer.
 
-457
+453
 00:34:36,121 --> 00:34:41,211
 ¿Vos percibiste eso en esa llegada, en ese primer contacto con la selección de Scaloni?
 
-458
+454
 00:34:43,113 --> 00:34:48,088
 No me acuerdo lo que me pasó a mí, que a mí también me costó mucho volver al grupo ese.
 
-459
+455
 00:34:49,273 --> 00:34:51,665
 o volver a la selección después de lo que había pasado.
 
-460
+456
 00:34:52,964 --> 00:34:55,468
 porque eran todos chicos nuevos.
 
-461
+457
 00:34:58,033 --> 00:35:01,041
 No conocía a ninguno personalmente, obviamente.
 
-462
-00:35:02,324 --> 00:35:06,953
+458
+00:35:03,827 --> 00:35:07,348
 y a mí es muy difícil entrar en el grupo también por mi manera de...
 
-463
+459
 00:35:09,436 --> 00:35:12,940
 de ser y por más que ya había pasado mucho tiempo en...
 
-464
+460
 00:35:13,450 --> 00:35:16,122
 estando en la selección y era uno de los más grandes.
 
-465
+461
 00:35:18,359 --> 00:35:21,989
 Me costó mucho, ellos venían de jugar un par de amistosos seguidos.
 
-466
+462
 00:35:23,013 --> 00:35:27,892
 Habían ganado a México, habían hecho creo que amistoso en Argentina también.
 
-467
+463
 00:35:28,032 --> 00:35:29,602
 Bueno, con Dimas, con Colón, sí, sí.
 
-468
-00:35:29,622 --> 00:35:30,206
+464
+00:35:29,622 --> 00:35:31,208
 Dos con México, sí.
 
-469
+465
 00:35:31,925 --> 00:35:36,121
 y ya se conocía, ya llevaba tiempo juntos y era también como el...
 
-470
+466
 00:35:36,482 --> 00:35:38,471
 como el inicio de eso también, después de...
 
-471
+467
 00:35:40,238 --> 00:35:44,516
 de una nueva generación, de una nueva etapa.
 
-472
+468
 00:35:45,680 --> 00:35:49,244
 en la selección y en ese momento Rodrigo a mí me ayudó mucho.
 
-473
-00:35:51,149 --> 00:35:53,196
+469
+00:35:51,808 --> 00:35:53,196
 Rodrigo es el que rompe el hielo.
 
-474
-00:35:53,216 --> 00:35:54,802
+470
+00:35:53,216 --> 00:35:56,279
 Sí, por la manera de ser de él.
 
-475
+471
 00:35:57,301 --> 00:36:03,127
 Yo me acuerdo que cuando lo conocí me recordó mucho al Pocho, porque el Pocho era...
 
-476
-00:36:04,191 --> 00:36:04,818
-era...
-
-477
-00:36:06,198 --> 00:36:08,206
+472
+00:36:06,198 --> 00:36:10,527
 muy parecido en ese sentido, era un chico muy alegre.
 
-478
+473
 00:36:11,397 --> 00:36:16,006
 donde era muy bueno para el grupo, donde hacía que
 
-479
+474
 00:36:16,727 --> 00:36:20,459
 que todos nos sacáramos lo mejor de nosotros.
 
-480
+475
 00:36:20,961 --> 00:36:24,357
 Y bueno, me acuerdo que los primeros días él se me acercó, estuvo hablando.
 
-481
+476
 00:36:25,681 --> 00:36:30,027
 Él había estado con Nota también, ya de Valencia se conocían.
 
-482
-00:36:31,832 --> 00:36:36,469
+477
+00:36:32,518 --> 00:36:36,469
 Y bueno, él me hizo entrar al grupo mucho más.
 
-483
-00:36:37,654 --> 00:36:43,895
+478
+00:36:37,654 --> 00:36:44,690
 más rápido de lo que hubiese imaginado yo y me ayudó mucho.
 
-484
+479
 00:36:44,690 --> 00:36:48,234
 Además no era fácil para los chicos descolgar el póster, ya lo tenían que hacer, obvio.
 
-485
+480
 00:36:49,017 --> 00:36:51,428
 Sí, yo creo que fue una ayuda para los dos lados.
 
-486
+481
 00:36:52,933 --> 00:36:57,158
 que él me hablara de esa manera o me integrara entre comillas.
 
-487
+482
 00:36:59,264 --> 00:37:02,353
 al grupo y mi postura también...
 
-488
+483
 00:37:03,877 --> 00:37:05,805
 el de sacarme la vergüenza e intentar de...
 
-489
+484
 00:37:07,552 --> 00:37:11,027
 de ser yo el que dé el paso y acercarme a ellos también porque era una situación
 
-490
+485
 00:37:13,435 --> 00:37:15,020
 diferente y nueva para todos.
 
-491
+486
 00:37:17,467 --> 00:37:19,133
 Y bueno, la verdad que enseguida fue...
 
-492
+487
 00:37:20,531 --> 00:37:24,306
 fue muy sencillo porque hay buena gente y cuando hay buena gente todo es mucho más fácil.
 
-493
+488
 00:37:24,921 --> 00:37:30,604
 El arranque ahí en Madrid es malo, Venezuela hace un gol rondón, una línea de cinco que se descompone.
 
-494
+489
 00:37:31,125 --> 00:37:34,189
 vos venía de jugar contra Francia en Kazán
 
-495
+490
 00:37:35,182 --> 00:37:39,560
 de famoso falso nueve, pero a los 20 minutos estás podrido, que no te pasa en la pelota.
 
-496
-00:37:40,263 --> 00:37:43,881
+491
+00:37:40,263 --> 00:37:44,603
 y termina el pobre Enzo Pérez fajándose con un tití de espalda al arco y jugando de ocho.
 
-497
+492
 00:37:44,603 --> 00:37:48,867
 es más hicimos un informe diciendo esto pasó porque evidentemente vos no podías
 
-498
+493
 00:37:49,468 --> 00:37:52,912
 Estar tan lejos de la pelota ya no era fingir esa tensión, sino que la pelota no te llegaba.
 
-499
+494
 00:37:53,533 --> 00:37:58,293
 y el primer partido en el ciclo escalón, y es una derrota con Venezuela.
 
-500
+495
 00:37:58,976 --> 00:38:04,246
 después no juegas con Marruecos, le das una nota a Pablo González y a Martín Souto en radio
 
-501
+496
 00:38:04,847 --> 00:38:10,068
 Y ya incluís a tu hijo, diciendo, miren, mi hijo me pregunta por qué voy a la selección.
 
-502
+497
 00:38:10,851 --> 00:38:14,859
 Ese es el germen, si querés, del grupo, porque pienso en todos los que vieron esa nota.
 
-503
+498
 00:38:15,697 --> 00:38:21,611
 que fueron con vos compañeros en ese pequeño ciclo, en ese partido contra Venezuela en Madrid.
 
-504
+499
 00:38:23,175 --> 00:38:26,441
-Che, acá tenemos a alguien que nos quiere representar y que nos quiere conducir.
+ acá tenemos a alguien que nos quiere representar y que nos quiere conducir.
 
-505
-00:38:28,614 --> 00:38:29,237
+500
+00:38:28,614 --> 00:38:30,266
 No sé, yo creo que...
 
-506
+501
 00:38:31,650 --> 00:38:33,454
 y de a poquito se fue armando todo eso.
 
-507
+502
 00:38:33,474 --> 00:38:36,341
 No sé si tuvo que ver la charla de eso o...
 
-508
+503
 00:38:38,867 --> 00:38:45,105
 o mi postura en ese momento, yo sentí que tenía que hacerlo de esa manera porque ya me había cansado de...
 
-509
+504
 00:38:47,078 --> 00:38:50,665
 de muchas cosas que había escuchado.
 
-510
-00:38:52,689 --> 00:38:57,277
+505
+00:38:54,061 --> 00:38:57,277
 y después se fueron dando las cosas, pero yo creo que...
 
-511
+506
 00:38:58,439 --> 00:39:04,252
 que cuando amaba el grupo se sintió fuerte y se sintió que estaba preparado.
 
-512
-00:39:05,576 --> 00:39:08,365
+507
+00:39:05,576 --> 00:39:09,578
 para grandes cosas fue después de la Copa América.
 
-513
+508
 00:39:10,252 --> 00:39:11,075
 Ahí llegamos.
 
-514
+509
 00:39:11,677 --> 00:39:15,151
 Arranque muy malo con Colombia, con Paraguay y Armani a taja el penal.
 
-515
+510
 00:39:15,975 --> 00:39:18,988
 algo cambia en el partido contra Qatar, tácticamente.
 
-516
+511
 00:39:19,409 --> 00:39:25,055
 4-3-1-2, el famoso LPD de Paul Palais de Lochelzo, vos, Agüero y Lautaro, el eje del mal.
 
-517
+512
 00:39:26,117 --> 00:39:27,501
 Antes no jugaban así.
 
-518
-00:39:27,521 --> 00:39:32,295
+513
+00:39:28,286 --> 00:39:32,295
 Hubo alguna charla, se fue gestando, se lo plantearon a Scaloni.
 
-519
+514
 00:39:32,555 --> 00:39:33,558
 No, no él decidió...
 
-520
-00:39:36,505 --> 00:39:39,808
+515
+00:39:36,505 --> 00:39:42,235
 cambiar por la manera también de jugar de Qatar.
 
-521
+516
 00:39:43,151 --> 00:39:48,528
 y porque era un partido donde teníamos que ganar para pasar también.
 
-522
-00:39:50,191 --> 00:39:53,955
+517
+00:39:50,745 --> 00:39:54,509
 Y bueno, a veces es difícil meter tres jugadores.
 
-523
+518
 00:39:54,877 --> 00:39:59,811
 de esa característica, porque siendo realistas, nosotros...
 
-524
+519
 00:40:01,354 --> 00:40:03,642
 defensivamente ha aportado muy poco.
 
-525
+520
 00:40:06,110 --> 00:40:11,545
 y en ese momento ya dejar tres jugadores descolgados era...
 
-526
+521
 00:40:12,338 --> 00:40:13,321
 Era muchísimo, ¿no?
 
-527
+522
 00:40:14,103 --> 00:40:18,194
 Pero no nos quedaba otra que ir a buscar el partido, que ir a ganar y que...
 
-528
+523
 00:40:18,916 --> 00:40:25,199
 que no podíamos desaprovechar el momento de Lautaro y el Kun, y bueno, lo decidió de...
 
-529
+524
 00:40:26,116 --> 00:40:28,137
 De esa manera nosotros también teníamos...
 
-530
+525
 00:40:28,624 --> 00:40:33,704
 en ese momento, los medios como para poder hacerlo, para que salgan a presionar a los...
 
-531
+526
 00:40:34,922 --> 00:40:36,696
 a los laterales y nosotros también.
 
-532
-00:40:37,287 --> 00:40:41,650
+527
+00:40:37,287 --> 00:40:42,336
 No habíamos comprometido con el técnico, con el grupo, a ayudar.
 
-533
-00:40:45,546 --> 00:40:48,212
+528
+00:40:45,546 --> 00:40:50,157
 Y bueno, por suerte ganamos y creo que...
 
-534
+529
 00:40:50,157 --> 00:40:51,841
 que nos sentimos cómodos jugando de esa manera.
 
-535
-00:40:51,861 --> 00:40:54,968
+530
+00:40:51,861 --> 00:40:56,452
 Ya había pasado esto en 2011 y 2012 con Sabela.
 
-536
+531
 00:40:56,452 --> 00:41:02,974
 un día me lo encontré a Alejandro en la playa en Cariló y nos pusimos a charlar y dijo miren yo hablé con Kun
 
-537
+532
 00:41:03,457 --> 00:41:05,547
 Leo, Fideo y Pipa.
 
-538
+533
 00:41:06,206 --> 00:41:07,169
 ¿Quieren jugar los cuatro?
 
-539
+534
 00:41:07,510 --> 00:41:09,176
 Ok, pero ayuden.
 
-540
+535
 00:41:09,657 --> 00:41:10,480
 Se dio esa charla.
 
-541
-00:41:12,507 --> 00:41:13,992
+536
+00:41:12,955 --> 00:41:14,440
 y creo que puede
 
-542
-00:41:16,718 --> 00:41:21,589
+537
+00:41:16,718 --> 00:41:22,116
 de un amistoso con Alemania que ganamos allá, el primer tiempo nos jugábamos así.
 
-543
-00:41:24,012 --> 00:41:26,577
+538
+00:41:25,013 --> 00:41:27,578
 y el segundo tiempo ya...
 
-544
+539
 00:41:27,578 --> 00:41:30,722
 Ya cambiamos y jugamos los tres, me parece.
 
-545
+540
 00:41:30,743 --> 00:41:32,325
 No me acuerdo bien, pero me parece fue ahí.
 
-546
+541
 00:41:33,387 --> 00:41:35,498
 que no sé si ganamos 2 a 0, que yo erro el penal.
 
-547
+542
 00:41:38,452 --> 00:41:42,670
 y me acuerdo en el primer tiempo de tener la charla nosotros como grupo también y decía bueno,
 
-548
+543
 00:41:42,991 --> 00:41:45,763
 Queremos jugar de esta manera, tenemos que comprometer y tenemos que...
 
-549
+544
 00:41:46,506 --> 00:41:48,073
 que ha ayudado definitivamente.
 
-550
+545
 00:41:50,644 --> 00:41:55,162
 y estar preparado para primero defender y después atacar porque si no...
 
-551
+546
 00:41:56,274 --> 00:41:58,910
 jugar de esta manera no vamos a poder jugar porque somos cuatro los jugadores.
 
-552
+547
 00:42:00,219 --> 00:42:01,964
 que ya no eran tres, eran cuatro.
 
-553
-00:42:01,984 --> 00:42:04,732
+548
+00:42:02,353 --> 00:42:04,732
 Estaban Gago, Mascherano y después vos.
 
-554
+549
 00:42:05,153 --> 00:42:06,897
 Fideo, Kun y Pippa.
 
-555
+550
 00:42:06,917 --> 00:42:11,268
 Claro, pero bueno en ese momento también Fide volaba, Pippa...
 
-556
+551
 00:42:12,049 --> 00:42:16,638
 el Kun, y nosotros nos supimos adaptar a eso, dimos
 
-557
+552
 00:42:17,259 --> 00:42:20,550
 dimos un paso hacia atrás en los defensivos y después las contras éramos.
 
-558
+553
 00:42:21,193 --> 00:42:26,910
 Éramos vara que salíamos y bueno, en la eliminatoria terminamos...
 
-559
+554
 00:42:27,512 --> 00:42:32,148
 terminamos primero sin perder contra contra nadie puede del famoso partido con
 
-560
+555
 00:42:32,850 --> 00:42:38,003
 con Colombia y bueno fue fue una
 
-561
+556
 00:42:39,447 --> 00:42:40,870
 una etapa muy linda también de la selección.
 
-562
+557
 00:42:43,376 --> 00:42:49,402
 penales, boludos, fules, pelotudos o al revés, no me acuerdo, tuya, que además se hizo música también después del partido con Brasil.
 
-563
+558
 00:42:50,885 --> 00:42:52,890
 más ese crecimiento futbolístico.
 
-564
+559
 00:42:53,752 --> 00:42:58,629
 terminan creando lo que finalmente es una tormenta perfecta, que es este ciclo de Scaloni.
 
-565
-00:42:59,110 --> 00:43:04,198
+560
+00:42:59,110 --> 00:43:05,661
 ¿Cuándo empezaron a sentir natural esto de jugar todos juntos cerca de la pelota, pase de 4 o 5 metros?
 
-566
+561
 00:43:05,661 --> 00:43:07,497
 más funcional que posicional, si querés.
 
-567
+562
 00:43:08,740 --> 00:43:13,019
 Yo creo que ya el partido con Brasil nos sentimos...
 
-568
-00:43:13,300 --> 00:43:16,874
+563
+00:43:13,300 --> 00:43:18,773
 Nos sentimos que habíamos hecho un gran partido, nos sentimos que más allá de...
 
-569
-00:43:19,063 --> 00:43:20,992
-de resultado, habíamos sido superior en...
+564
+00:43:19,063 --> 00:43:25,567
+de resultado, habíamos sido superior en... en el juego 
 
-570
-00:43:22,899 --> 00:43:29,394
-en el juego y después se fue se fue dando no porque vos podés tener una idea pero puede tener que tenerlo
+565
+00:43:25,567 --> 00:43:29,394
+ y después se fue se fue dando no porque vos podés tener una idea pero puede tener que tenerlo
 
-571
+566
 00:43:29,474 --> 00:43:34,160
 jugadores también y nosotros encontramos unos medios maravillosos.
 
-572
+567
 00:43:36,423 --> 00:43:37,023
 donde...
 
-573
+568
 00:43:38,526 --> 00:43:42,818
 donde la mayoría en algún momento fue enganche.
 
-574
+569
 00:43:45,422 --> 00:43:46,082
 Se nota eso, ¿no?
 
-575
-00:43:46,202 --> 00:43:46,903
+570
+00:43:46,202 --> 00:43:47,958
 Se nota mucho.
 
-576
+571
 00:43:48,697 --> 00:43:54,613
 Cuando tenés mucha posición creo que el enganche generalmente es un jugador diferente.
 
-577
-00:43:57,022 --> 00:44:00,236
+572
+00:43:57,022 --> 00:44:01,133
 y que pierde pocas pelotas y nosotros en el medio...
 
-578
+573
 00:44:01,721 --> 00:44:04,604
 Empezamos a perder poquita pelota, a tener muchas posesiones.
 
-579
-00:44:05,425 --> 00:44:10,178
+574
+00:44:05,425 --> 00:44:11,075
 y a través de las posiciones largas nos fuimos haciendo fuerte.
 
-580
-00:44:12,042 --> 00:44:15,266
-Rodrigo, Enzo, Alexis, Leandro,
+575
+00:44:12,042 --> 00:44:16,215
+Rodrigo, Enzo, Alexis, Leandro,Gio
 
-581
+576
 00:44:16,587 --> 00:44:22,075
 hasta Fideo fue enganche, vos también, o sea, vos hace rato jugabas de Messi, pero sos enganche.
 
-582
+577
 00:44:23,007 --> 00:44:25,052
 Sí, era lo que decíamos al principio.
 
-583
+578
 00:44:25,072 --> 00:44:28,820
 Si tuvieras que llenar el formulario en aduana, enganche.
 
-584
+579
 00:44:29,702 --> 00:44:30,083
 No sé.
 
-585
+580
 00:44:30,804 --> 00:44:32,527
 Si bien es verdad que hoy por hoy...
 
-586
+581
 00:44:33,789 --> 00:44:38,079
 Ya no existen los enganches, es muy difícil, ya no son más interiores los enganches.
 
-587
+582
 00:44:39,212 --> 00:44:40,139
 pero...
 
-588
-00:44:42,293 --> 00:44:47,201
+583
+00:44:42,293 --> 00:44:47,702
 Pero sí, por eso te digo, todos los medios tenían muy buen pie o tienen muy buen pie.
 
-589
-00:44:49,159 --> 00:44:54,598
+584
+00:44:50,372 --> 00:44:54,598
 y encontramos un poco lo que salvando la distancia y sin comparar
 
-590
+585
 00:44:55,160 --> 00:44:58,113
 lo que era Chávin y esta búsqueda en su momento y
 
-591
+586
 00:44:58,856 --> 00:45:02,428
 Hoy lo encontramos en la selección también.
 
-592
+587
 00:45:06,021 --> 00:45:08,940
 No me gusta comparar ni hablar de lo que pasó, pero también...
 
-593
+588
 00:45:09,841 --> 00:45:15,549
 También en las selecciones anteriores hemos tenido un juego muy bueno, me acuerdo.
 
-594
+589
 00:45:16,351 --> 00:45:20,338
 El Mundial, si bien no jugábamos bien, se dio en los resultados que se dio.
 
-595
+590
 00:45:20,959 --> 00:45:22,081
 En la Copa América,
 
-596
+591
 00:45:22,882 --> 00:45:27,329
 2016, sobre todo en Estados Unidos, creo que la selección esa jugaba muy...
 
-597
+592
 00:45:27,990 --> 00:45:30,662
 muy bien también y nos pasaba un poco también con...
 
-598
-00:45:31,827 --> 00:45:35,380
+593
+00:45:31,827 --> 00:45:36,250
 con Eber, que nos juntamos mucho.
 
-599
-00:45:37,307 --> 00:45:39,055
+594
+00:45:37,307 --> 00:45:40,110
 Pastora en 2015 Pastora en 2015
 
-600
-00:45:41,063 --> 00:45:43,949
+595
+00:45:41,063 --> 00:45:45,901
 Sí, pero creo que la del 2016 fue mejor a nivel fútbolítico.
 
-601
-00:45:46,840 --> 00:45:47,486
+596
+00:45:46,840 --> 00:45:48,172
 que la 2015.
 
-602
+597
 00:45:49,758 --> 00:45:54,614
 Si bien jugaba bien la 2015, la 2016 creo que ya estaba más afianzada, más firme.
 
-603
-00:45:56,098 --> 00:45:59,548
+598
+00:45:56,704 --> 00:45:59,548
 Pero bueno, en esta se da un poco todo también.
 
-604
+599
 00:46:00,431 --> 00:46:04,228
 ¿El vestuario del 2016 fue el peor de esa serie?
 
-605
+600
 00:46:05,327 --> 00:46:07,978
 Andújar me dijo que sí, Javier Macherano me dijo que sí.
 
-606
+601
 00:46:08,480 --> 00:46:09,704
 De tristeza, no puede ser.
 
-607
-00:46:11,746 --> 00:46:14,598
+602
+00:46:11,746 --> 00:46:16,313
 Sí, sin duda sí, porque ya era la tercera.
 
-608
+603
 00:46:18,058 --> 00:46:23,150
 seguida porque lo que te decía un poco recién, habíamos hecho una Copa América
 
-609
+604
 00:46:25,495 --> 00:46:30,762
 muy buena a nivel de juego, llegando a la final siendo muy superior a
 
-610
+605
 00:46:31,463 --> 00:46:35,249
 al resto, porque en la final a Chile también si bien no tuvimos...
 
-611
-00:46:36,251 --> 00:46:42,045
+606
+00:46:36,251 --> 00:46:43,074
 En muchísimas ocasiones, Clara, a nivel de juego también fuimos superiores.
 
-612
+607
 00:46:44,533 --> 00:46:48,288
 y volvíamos a perder otra vez de penal y bueno a raíz de todo eso también
 
-613
+608
 00:46:48,769 --> 00:46:51,576
 También pasa lo mío y mi declaración.
 
-614
+609
 00:46:52,258 --> 00:46:55,165
 En esa serie por penales la diste por terminada cuando erraste vos.
 
-615
+610
 00:46:55,988 --> 00:46:58,862
 porque arranca de serie con Chiquito tapándole a Vidal
 
-616
+611
 00:46:59,864 --> 00:47:05,514
 y vos vas a patear con esa ventaja, se te va por arriba del travesaño y desde la cancha te mirábamos y estábamos como más
 
-617
+612
 00:47:05,874 --> 00:47:08,385
 pendiente de ese error que algo que seguía.
 
-618
+613
 00:47:09,369 --> 00:47:13,162
 un poco lo que me pasa o lo que me pasó cuando perdí la pelota esa con...
 
-619
+614
 00:47:15,595 --> 00:47:21,138
 con Francia o en el juego, lo que hablábamos antes de ser autocríticos con uno mismo.
 
-620
+615
 00:47:23,065 --> 00:47:25,876
 En ese momento me quería...
 
-621
+616
 00:47:26,297 --> 00:47:29,149
 Me quería matar porque era el primer penal, era el que nos ponía...
 
-622
+617
 00:47:31,969 --> 00:47:37,610
 en ventaja porque le quise pegar fuerte cuando
 
-623
+618
 00:47:38,413 --> 00:47:42,410
 cuando sabía que no hacía falta, que tenía claro que...
 
-624
+619
 00:47:42,967 --> 00:47:46,899
 No sé por qué que Bravo lo conocía, que iba a ir hacia ese lado.
 
-625
-00:47:49,588 --> 00:47:54,092
+620
+00:47:49,588 --> 00:47:54,813
 y ahí fue una cruz hacia mí mismo.
 
-626
+621
 00:47:54,813 --> 00:48:00,075
 cuando erré por no poder poner en ventaja al equipo después de que ellos habían errado.
 
-627
+622
 00:48:01,155 --> 00:48:07,321
 y porque siempre pensé y pienso que el primer penal hay que hacerlo y que es importantísimo.
 
-628
+623
 00:48:08,899 --> 00:48:09,882
 Y bueno, no fue de esa manera.
 
-629
+624
 00:48:10,263 --> 00:48:12,709
 Basta de látigos porque parece que son todas malas y no.
 
-630
+625
 00:48:13,351 --> 00:48:14,193
 Vamos a otro penal.
 
-631
+626
 00:48:15,310 --> 00:48:18,641
 El único momento donde Argentina está perdiendo con Francia es cuando Mbappé mete el primero en la serie.
 
-632
+627
 00:48:19,203 --> 00:48:20,006
 Y ahí te toca patear a vos.
 
-633
+628
 00:48:22,034 --> 00:48:23,979
 ¿Ya sabías que ibas a patearlo así?
 
-634
+629
 00:48:24,761 --> 00:48:28,951
 ¿Qué pensás si pensás algo en esa larga caminata que es irreproducible en cualquier entrenamiento?
 
-635
+630
 00:48:30,114 --> 00:48:33,784
 No, pensé en estar tranquilo.
 
-636
+631
 00:48:35,550 --> 00:48:39,626
 No traicionarme, no apurarme, no querer patiar rápido, no querer...
 
-637
-00:48:40,548 --> 00:48:46,237
+632
+00:48:42,157 --> 00:48:46,237
 es raro cambiar la manera que venía cambiando
 
-638
+633
 00:48:46,959 --> 00:48:51,851
 venía pateando los penales por ser el penal que era y por lo que significaba
 
-639
+634
 00:48:54,820 --> 00:48:58,937
 Empezar bateando después que Mbappé había hecho...
 
-640
+635
 00:49:00,404 --> 00:49:02,453
 el primero y...
 
-641
+636
 00:49:03,135 --> 00:49:09,911
 y estar convencido de que siga pateando de la misma manera que había pateado los anteriores.
 
-642
+637
 00:49:11,232 --> 00:49:15,658
 Y así lo hice, de la misma manera que había pateado el anterior y contra Holanda también.
 
-643
+638
 00:49:16,809 --> 00:49:19,351
 ¿Le das bola a las estadísticas, al GPS?
 
-644
+639
 00:49:19,451 --> 00:49:22,954
 ¿Cómo te llevas con los números aplicados a tu performance?
 
-645
+640
 00:49:23,317 --> 00:49:27,985
 No, la verdad que no, que no le doy mucho a la estadística.
 
-646
+641
 00:49:29,669 --> 00:49:33,422
 ni a la asistencia, ni a los goles y mucho menos...
 
-647
-00:49:34,043 --> 00:49:37,367
+642
+00:49:34,043 --> 00:49:39,002
 Perdón hacia todos los profes, a los GPS...
 
-648
+643
 00:49:39,571 --> 00:49:42,548
 Si no daba la vuelta completa a los cinco o seis años, esa cosa no cambia.
 
-649
-00:49:44,874 --> 00:49:45,815
-Claro, ¿qué es eso?
+644
+00:49:44,452 --> 00:49:46,396
+Claro, ¿qué es eso? Nunca le... 
 
-650
-00:49:45,855 --> 00:49:46,396
-Nunca le...
-
-651
+645
 00:49:47,987 --> 00:49:52,660
 Nunca me importó el cuánto corro en un partido.
 
-652
+646
 00:49:54,023 --> 00:49:58,068
 o a qué velocidad, en qué... qué sé yo, todo lo que dirán ellos.
 
-653
+647
 00:49:58,568 --> 00:49:59,569
 Sé que puede ser...
 
-654
-00:50:00,720 --> 00:50:00,822
-Eh...
-
-655
+648
 00:50:02,620 --> 00:50:07,695
 importante y les puede servir a ellos para el día a día, sobre todo por la carga de...
 
-656
-00:50:08,398 --> 00:50:13,095
+649
+00:50:09,427 --> 00:50:13,095
 de entrenamiento o partido, pero yo personalmente nunca...
 
-657
+650
 00:50:13,516 --> 00:50:16,342
 Nunca fui muy amigo de la estadística y de los GPS.
 
-658
+651
 00:50:18,226 --> 00:50:20,650
 Vamos a ir terminando, tengo dos o tres preguntas más.
 
-659
+652
 00:50:21,531 --> 00:50:23,734
 Hay un video en el que...
 
-660
+653
 00:50:24,721 --> 00:50:26,084
 te pegan patadas y vos seguís.
 
-661
+654
 00:50:27,025 --> 00:50:27,687
 y no simula.
 
-662
+655
 00:50:27,727 --> 00:50:32,758
 Hay una frase de Luis Escola en una entrevista que dice, a mí lo que más me gusta de Messi es que no simula.
 
-663
-00:50:33,680 --> 00:50:38,696
+656
+00:50:34,260 --> 00:50:38,696
 Esto es la intención, quiero seguir jugando, no me importa la patada que me pegue, quiero seguir jugando, por eso es.
 
-664
+657
 00:50:39,850 --> 00:50:42,298
 Sí, porque también crecí de esa manera.
 
-665
+658
 00:50:45,026 --> 00:50:48,374
 Siempre jugué con chicos más grandes, con mis primos, mis hermanos.
 
-666
+659
 00:50:49,076 --> 00:50:51,241
 Siempre me quedaba una patada.
 
-667
+660
 00:50:52,767 --> 00:50:56,343
 por roca, por calentura o por querer simplemente a veces por...
 
-668
+661
 00:50:56,604 --> 00:50:58,949
 por querer sacarme la pelota y llegar tarde.
 
-669
+662
 00:51:02,237 --> 00:51:07,278
 y siempre intenté seguir y jugar y tener la pelota, a mí me gusta.
 
-670
+663
 00:51:07,900 --> 00:51:12,850
 estar con la pelota en los pies, generar... que pasen cosas cuando la tengo y...
 
-671
+664
 00:51:14,817 --> 00:51:17,667
 Y bueno, cuanto más para mí mejor y cuanto más...
 
-672
+665
 00:51:18,490 --> 00:51:24,492
 más fluido sea el juego y menos se pare también ayuda a mi juego.
 
-673
+666
 00:51:25,034 --> 00:51:27,120
 ¿Te entrenás con la misma intensidad con la que jugás?
 
-674
+667
 00:51:28,564 --> 00:51:33,599
 Por ejemplo, Scaloni hace poco dijo, Messi te exige al máximo, ya no solo hablamos de partido, sino de entrenamiento.
 
-675
-00:51:33,920 --> 00:51:37,223
+668
+00:51:33,920 --> 00:51:35,614
 ¿Cómo concebís el entrenamiento?
 
-676
+669
 00:51:37,263 --> 00:51:38,324
 Sí, generalmente...
 
-677
+670
 00:51:40,466 --> 00:51:44,516
 me entreno al máximo, hoy por hoy me conozco
 
-678
-00:51:46,721 --> 00:51:52,167
+671
+00:51:46,721 --> 00:51:53,169
 de lo físico y sé cuándo puedo ir al 100, al 80, al 90, al entrenamiento.
 
-679
+672
 00:51:54,568 --> 00:51:59,991
 pero sí que es verdad que muchas veces cuando empieza un juego de posición, un reducido...
 
-680
+673
 00:52:00,498 --> 00:52:04,846
 o un campeonato o algo, siempre quiero ganar, me molesta, él no...
 
-681
+674
 00:52:06,510 --> 00:52:07,212
 el no ganar.
 
-682
+675
 00:52:07,272 --> 00:52:09,398
 Mascherano me dijo, él decide cuando su equipo gana.
 
-683
+676
 00:52:12,564 --> 00:52:16,489
 A mí me gusta ganar siempre los partidos cortos cuando hay campeonato.
 
-684
-00:52:17,659 --> 00:52:20,951
+677
+00:52:17,659 --> 00:52:21,834
 Yo quiero hacerme la foto final, incluso ni me importa la foto.
 
-685
-00:52:21,834 --> 00:52:24,964
+678
+00:52:21,834 --> 00:52:25,861
 que si se hace la foto serlo ganadores.
 
-686
+679
 00:52:27,230 --> 00:52:31,060
 y me calienta perder, me calienta mucho.
 
-687
+680
 00:52:31,080 --> 00:52:32,162
 ¿Te calienta con los compañeros?
 
-688
+681
 00:52:33,450 --> 00:52:39,805
 Sí, sí, y con el árbitro y con el que sea, pero ya me conocen, ¿sabes qué?
 
-689
+682
 00:52:40,697 --> 00:52:43,322
 que se me pasa rápido.
 
-690
+683
 00:52:43,342 --> 00:52:46,567
 Pero en la cancha también, cuando no viene se pase a la media luna.
 
-691
+684
 00:52:47,209 --> 00:52:53,644
 desborda el lateral, sea por derecha o por izquierda, y vos estás en la medaluna listo, que te dio toda la vida Jordi Alba.
 
-692
+685
 00:52:54,286 --> 00:52:57,573
 y esa abuela nos llega, mamita esa mirada, hay que sostenerla.
 
-693
+686
 00:52:58,735 --> 00:53:04,743
 Pero lo bueno es que cuando hay grupos fuertes pueden pasar esas cosas.
 
-694
+687
 00:53:05,276 --> 00:53:06,722
 Y tienen que pasar esas cosas.
 
-695
+688
 00:53:06,742 --> 00:53:10,837
 Yo creo que no hay problema en putear a un compañero o decirle...
 
-696
-00:53:12,065 --> 00:53:12,187
-eh...
-
-697
+689
 00:53:13,334 --> 00:53:18,503
 o decirle algo que está bien o está mal, siempre y cuando sea para...
 
-698
+690
 00:53:19,184 --> 00:53:22,418
 Para bien del equipo y el grupo, yo creo que tienen que...
 
-699
+691
 00:53:23,902 --> 00:53:30,068
 que pasar y nosotros tenemos la oportunidad de que estamos en un grupo muy unido, que nos llevamos muy bien y que...
 
-700
+692
 00:53:30,669 --> 00:53:35,641
 que pueden pasar esas cosas que no pasa nada, ya no conocemos el uno al otro, ya sabemos cómo...
 
-701
+693
 00:53:36,308 --> 00:53:41,277
 Como somos todos, convivimos mucho, como decíamos antes, tenemos muchas concentraciones juntos.
 
-702
+694
 00:53:44,026 --> 00:53:46,014
 Y no pasa nada, pero sí que me calienta.
 
-703
-00:53:46,696 --> 00:53:50,801
+695
+00:53:46,696 --> 00:53:52,042
 La última tiene que ver con el cuidado del cuerpo, vos fuiste un nutricionista en el 2014.
 
-704
+696
 00:53:52,042 --> 00:53:55,413
 Creo que Martín Demicheli tuvo bastante que ver en que fueras al nutricionista.
 
-705
+697
 00:53:56,235 --> 00:54:00,433
 qué hábitos cambiaste si hacés un entrenamiento preventivo diferente, ya esto no con la comida, sino...
 
-706
+698
 00:54:00,714 --> 00:54:05,022
 No sé, fortalecimiento, isquios, tren inferior.
 
-707
+699
 00:54:05,262 --> 00:54:06,765
 Sí, hoy le doy muchísimo más.
 
-708
-00:54:08,370 --> 00:54:10,878
+700
+00:54:08,370 --> 00:54:11,907
 importancia a todo eso, del 2014 si yo me
 
-709
+701
 00:54:13,038 --> 00:54:15,962
 Sentía que tenía que hacer un cambio, sentía que no...
 
-710
+702
 00:54:19,025 --> 00:54:22,533
 no me sentía bien y que podía sacarle mucho más rendimiento a...
 
-711
+703
 00:54:23,957 --> 00:54:27,870
 a mi físico también y bueno Martín me hizo conocer
 
-712
+704
 00:54:28,852 --> 00:54:29,834
 el autoreste el cual
 
-713
+705
 00:54:33,101 --> 00:54:37,453
 Estuve yendo un par de años y aprendí mucho con él.
 
-714
+706
 00:54:39,159 --> 00:54:42,333
 Fui cambiando, fui agregando, cambiando cosas también.
 
-715
+707
 00:54:43,177 --> 00:54:46,554
 Volviendo a hacer cosas que hacía antiguamente.
 
-716
+708
 00:54:48,001 --> 00:54:51,776
 pasa mucho también por la confianza de la persona que te está...
 
-717
+709
 00:54:52,458 --> 00:54:54,244
 te está guiando también, ¿no?
 
-718
-00:54:54,565 --> 00:54:56,811
+710
+00:54:54,244 --> 00:54:56,490
 Y te está intentando
 
-719
+711
 00:54:58,516 --> 00:55:04,067
 ayudar y el saber conocer su cuerpo y sentir que está bien.
 
-720
+712
 00:55:04,649 --> 00:55:07,361
 saber, mejor dicho, que te hace bien, que no.
 
-721
+713
 00:55:08,386 --> 00:55:13,866
 Y yo intenté crecer en ese aspecto también, en el cuidado.
 
-722
+714
 00:55:14,929 --> 00:55:19,917
 y en los preventivos también, en hacer trabajos de prevención de Iquios, en los cuales
 
-723
-00:55:20,618 --> 00:55:23,021
+715
+00:55:20,618 --> 00:55:24,841
 Yo he tenido muchas lesiones.
 
-724
+716
 00:55:27,445 --> 00:55:33,435
 de hacer trabajo de fuerza, los cuales en mi carrera tampoco he hecho mucho trabajo de fuerza, no hice mucho trabajo de...
 
-725
+717
 00:55:34,316 --> 00:55:36,850
 de pierna, de gimnasio.
 
-726
+718
 00:55:38,296 --> 00:55:43,092
 y bueno, agregar todo lo que pueda ayudar para...
 
-727
+719
 00:55:44,534 --> 00:55:45,620
 para seguir rindiendo.
 
-728
+720
 00:55:46,806 --> 00:55:47,790
 Todo eso, obviamente.
 
-729
+721
 00:55:48,815 --> 00:55:52,104
 No quiere decir que después no te vas a lesionar o que no te van a pasar las cosas porque...
 
-730
+722
 00:55:53,325 --> 00:55:59,151
 porque te puede pasar igualmente pero bueno, intentar de prevenir y cuidarme un poco en todo eso.
 
-731
+723
 00:55:59,511 --> 00:56:02,037
 ¿Por qué quieres la foto con Jordan, que todo el mundo está esperando?
 
-732
+724
 00:56:03,789 --> 00:56:09,743
 No, bueno, porque me parece a nivel deportivo lo maduroso que hay.
 
-733
+725
 00:56:11,630 --> 00:56:13,660
 Y después de haber... Perdón, está Messi también.
 
-734
+726
 00:56:14,042 --> 00:56:15,087
 No sé si lo conoces, pero...
 
-735
+727
 00:56:16,479 --> 00:56:21,331
 Puede haber visto la serie de él y haber conocido un poco más también.
 
-736
+728
 00:56:21,351 --> 00:56:22,093
 ¿Viste The Last Dance?
 
-737
+729
 00:56:22,253 --> 00:56:22,273
 Sí.
 
-738
+730
 00:56:23,256 --> 00:56:23,678
 Es impresionante.
 
-739
+731
 00:56:23,899 --> 00:56:27,394
 A mí me dicen que hay que romper la pelota con de las dan, pero es una obra maestra.
 
-740
+732
 00:56:28,338 --> 00:56:30,266
 Bueno, eso también me acercó.
 
-741
+733
 00:56:33,129 --> 00:56:36,177
 mucho más y conocer un poco más lo que fue él.
 
-742
+734
 00:56:40,269 --> 00:56:41,502
 y bueno es una lástima que...
 
-743
+735
 00:56:42,857 --> 00:56:47,438
 que no haya podido vivir esa época en vivo yo porque me hice...
 
-744
+736
 00:56:49,284 --> 00:56:49,965
 Encantado.
 
-745
+737
 00:56:51,287 --> 00:56:52,690
 La verdad que no...
 
-746
+738
 00:56:53,669 --> 00:56:59,057
 No sé mucho de Vázquez tampoco, ni soy muy seguidor, pero creo que él...
 
-747
+739
 00:57:00,280 --> 00:57:04,404
 fue algo diferente en todos los deportes.
 
-748
+740
 00:57:06,046 --> 00:57:09,230
 en el Vázquez y, bueno, una admiración muy grande.
 
-749
+741
 00:57:10,646 --> 00:57:15,432
 Y me pidieron tantas fotos porque yo no puede tener una con él, sería algo lindo.
 
-750
+742
 00:57:16,714 --> 00:57:20,908
 Jordan y vos han redefinido sus propios deportes.
 
-751
+743
 00:57:22,012 --> 00:57:25,205
 son también personas muy queridas, muy famosas en todo el mundo.
 
-752
+744
 00:57:26,630 --> 00:57:32,022
 todo el mundo quiere una foto tanto con MJ como con vos, pero los dos comparten esa esencia del deportista.
 
-753
+745
 00:57:32,864 --> 00:57:34,147
 ¿Qué es lo más importante de Jordan?
 
-754
+746
 00:57:34,368 --> 00:57:36,252
 Cuando va a un gimnasio...
 
-755
+747
 00:57:37,074 --> 00:57:42,075
 Entrena solo la vuelca y se esfuerza para ser el mejor.
 
-756
+748
 00:57:42,677 --> 00:57:44,103
 Creo que con vos pasa lo mismo, Leo.
 
-757
+749
 00:57:44,123 --> 00:57:45,308
 Tu esencia...
 
-758
+750
 00:57:46,172 --> 00:57:51,964
 sigue siendo jugar a la pelota, más allá de todo lo que has ganado a nivel títulos, fama, dinero.
 
-759
+751
 00:57:52,706 --> 00:57:55,418
 saca todo eso, pero tu esencia sigue siendo esa.
 
-760
+752
 00:57:56,161 --> 00:58:01,366
 del pibe jugando a la pelota y creo que eso los une y por eso los amamos tanto a los dos.
 
-761
+753
 00:58:01,966 --> 00:58:03,488
 Así que muchas gracias.
 
-762
+754
 00:58:03,508 --> 00:58:06,931
-Para nosotros fue un honor haberte tenido acá en Clanc y gracias.
+Para nosotros fue un honor haberte tenido acá en Clank y gracias.
 
-763
+755
 00:58:08,002 --> 00:58:10,670
 y que dure lo que tenga que durar, no te voy a preguntar nada.
 
-764
+756
 00:58:11,513 --> 00:58:13,520
 Tenemos ganas de seguir disfrutándote hasta que vos elijas.
 
-765
+757
 00:58:13,921 --> 00:58:16,526
 porque el amor por el juego es lo más grande que hay.
 
-766
+758
 00:58:16,667 --> 00:58:18,050
 Sí, bueno, muchas gracias.
 
-767
+759
 00:58:18,330 --> 00:58:19,453
 Es un honor para mí también.
 
-768
+760
 00:58:19,713 --> 00:58:24,934
 haber tenido esta charla con vos, creo que tenía...
 
-769
-00:58:25,416 --> 00:58:27,840
+761
+00:58:25,416 --> 00:58:28,473
 tenía que ser después de tantos años.
 
-770
+762
 00:58:30,965 --> 00:58:34,092
 Y nada, sí, será hasta donde tenga que ser.
 
-771
+763
 00:58:34,132 --> 00:58:36,116
 Yo sigo disfrutando, incluso como te decía antes.
 
-772
+764
 00:58:36,698 --> 00:58:40,826
 aún mucho más del día a día de jugar a la pelota.
 
-773
+765
 00:58:43,090 --> 00:58:46,077
 El día que no sea más profesional lo voy a seguir haciendo con...
 
-774
+766
 00:58:46,678 --> 00:58:50,512
 con mis hijos, mis amigos, porque... Y vas a querer seguir orándoles a todos.
 
-775
+767
 00:58:50,552 --> 00:58:51,977
 También seguir orando y queriendo...
 
-776
+768
 00:58:53,384 --> 00:58:55,857
 ser competitivo y jugar al fútbol porque es algo que
 
-777
+769
 00:58:56,781 --> 00:59:01,973
 que amo, que amamos la mayoría de los argentinos, es el deporte que más
 
-778
+770
 00:59:04,419 --> 00:59:08,870
 más no identifica, por decirlo de alguna manera, desde chico.
 
-779
-00:59:09,662 --> 00:59:14,666
+771
+00:59:10,427 --> 00:59:14,666
 Y bueno, seguiremos hasta que Dios quiera, como siempre, como todos.
 
-780
+772
 00:59:14,966 --> 00:59:16,067
 Gracias Leo, por todo.
 
