@@ -1,400 +1,272 @@
 1
-00:00:00,209 --> 00:00:01,230
-他们被击败了。
-Fueron superados.
+00:00:01,270 --> 00:00:02,491
+今天你感觉如何?
 
 2
-00:00:01,270 --> 00:00:02,491
-今天你感觉怎么样？
-¿Cómo te sentiste hoy?
+00:00:02,612 --> 00:00:05,735
+斯卡洛尼刚才说这是一场艰难的比赛,他没有享受其中 
 
 3
-00:00:02,612 --> 00:00:05,735
-埃斯卡诺内不久前还表示这是一场艰难的比赛，他不喜欢它。
-Escanone recién hace un ratito dijo que fue un partido difícil, que él no lo disfrutó.
+00:00:06,892 --> 00:00:13,277
+是的,当然,这是一场非常紧张的比赛,就像我们刚才说的,他们有很好的球员 
 
 4
-00:00:06,892 --> 00:00:11,227
-不，当然，这是一场非常艰难的比赛，正如我们刚才所说，他们有非常优秀的球员。
-No, claro, es un partido muy cavado, como dijimos recién, tienen muy buenos jugadores.
+00:00:14,095 --> 00:00:18,419
+整个杯赛都充满活力,强劲,充满激情
 
 5
-00:00:14,095 --> 00:00:18,419
-充满活力、坚强，这是我在整个杯赛中一直保持的精神
-dinámico, fuerte, como animo he sido durante toda la Copa
+00:00:20,501 --> 00:00:25,833
+场地也不允许你按自己的意愿踢球,快速传球,这总是...
 
 6
-00:00:20,501 --> 00:00:25,833
-球场也不允许你按照你想要的方式打球，打得很快，这总是......
-Las canchas tampoco te permiten jugar como uno quiere, jugar rápido y eso siempre...
+00:00:26,856 --> 00:00:29,286
+总是对防守者有利 
 
 7
-00:00:26,856 --> 00:00:29,286
-总是为防守者提供便利。
-siempre facilita al defensor.
+00:00:30,250 --> 00:00:36,886
+但他们是一支出色的球队,我们知道会是这样,这将是一场非常艰难的四分之一决赛 
 
 8
-00:00:30,250 --> 00:00:36,886
-但他们是一支伟大的球队，我们知道事情会是这样，这将是一场非常艰难的四分之一决赛。
-pero son un gran equipo, nosotros lo sabíamos que iba a ser así, que iba a ser un cuarto de final muy duro.
+00:00:40,128 --> 00:00:44,266
+你罚点球后的感觉如何?看到Dibu扑出他们的点球后又是什么感觉?
 
 9
-00:00:37,628 --> 00:00:40,916
-在你的点球之后以及看到迭戈扑出了他们的点球之后，你有什么感觉？
-¿Cuál fue la sensación después de tu penal y después de ver que Diego atajó el de ellos?
+00:00:44,828 --> 00:00:46,316
+真的很失望，失望极了
 
 10
-00:00:44,828 --> 00:00:46,316
-他打呼噜很厉害，他打呼噜很厉害，因为……
-Mucha ronca, mucha ronca porque...
+00:00:48,601 --> 00:00:56,218
+我确信我会罚点球,我之前和Dibu、Rulli谈过 尝试过一些点球
 
 11
-00:00:48,601 --> 00:00:54,077
-该营已经这样说服了他，他已经与鲁利和巴雷拉营谈过了。
-lo ha convencido el batallón así, había hablado con Rulli y el batallón Barrera.
+00:00:56,218 --> 00:00:57,170
+你有特地练习吗？
 
 12
-00:00:55,543 --> 00:00:56,495
-你实践过吗？
-¿Lo hayas practicado?
+00:00:57,938 --> 00:01:01,904
+实际上没有特地练习，不过我确实和他们交流过
 
 13
-00:00:57,938 --> 00:01:00,304
-是的，我没有练习过，但我和他们谈过。
-Sí, no he practicado pero sí he hablado con ellos.
+00:01:04,008 --> 00:01:08,034
+连续几次罚球，守门员也预判了球的方向
 
 14
-00:01:04,008 --> 00:01:08,034
-连续几次罚球，实际上是守门员将自己扑向了球门。
-varios penales de seguido cruzados, de hecho el arquero se tira cruzado.
+00:01:09,780 --> 00:01:12,398
+我只是想轻轻碰一下球，结果球飞了，就飞了
 
 15
-00:01:09,055 --> 00:01:10,698
-他想要更多，而我们却错过了。
-y la quiso tomar más y se nos falta.
+00:01:12,641 --> 00:01:16,248
+在那个特别的拥抱时刻，你和Dibu有什么交流？
 
 16
-00:01:12,641 --> 00:01:13,848
-利奥，我说，事情就是这样。
-Leo, es justo lo que pasa, digo.
+00:01:16,805 --> 00:01:26,443
+其实没有特别的交流，我知道Dibu总是能在这些关键时刻发挥作用，他享受这些时刻，并且总是能做得很出色
 
 17
-00:01:14,029 --> 00:01:15,095
-我想他们说，谢谢。
-Creo que se dijeron, gracias.
+00:01:26,443 --> 00:01:29,751
+尤其是站在点球面前的那一刻
 
 18
-00:01:15,175 --> 00:01:15,598
-在那个拥抱里。
-En ese abrazo.
+00:01:30,974 --> 00:01:35,726
+他对自己非常有信心，甚至在比赛前还开玩笑说
 
 19
-00:01:16,805 --> 00:01:20,017
-我知道你现在住在英国。
-Yo sabía que vivís en Británico en este momento.
+00:01:37,090 --> 00:01:41,577
+如果有点球，我们可以放心
 
 20
-00:01:23,008 --> 00:01:24,595
-这些时刻首次亮相，渴望……
-debutan estos momentos aspirando a...
+00:01:41,937 --> 00:01:43,080
+他已经想到了 
 
 21
-00:01:26,443 --> 00:01:29,751
-除了表现出色之外，还因为他在点球大战中表现出色。
-Aparte de grande, porque está ahí abajo de largo en los penales.
+00:01:43,381 --> 00:01:44,123
+他一直都想着这个 
 
 22
-00:01:30,974 --> 00:01:35,726
-很难记住他们有很大的信心，甚至在比赛之前也是如此。
-es complicado recordar que ellos tenían mucha fe, incluso antes del partido.
+00:01:44,383 --> 00:01:45,747
+就像他说的那样
 
 23
-00:01:37,090 --> 00:01:41,577
-并有可能因冷静而做出事实上的处罚。
-con la posibilidad de que se haga penal de hecho por tranquilo.
+00:01:47,194 --> 00:01:48,798
+在这样的时刻，好吧，这对我们来说是幸运的
 
 24
-00:01:41,937 --> 00:01:43,080
-我已经心里有数了。
-ya lo tenía en mente.
+00:01:50,319 --> 00:01:54,272
+我认为当我们到达时,虽然到达这个阶段并不愉快,但当我们到达时
 
 25
-00:01:43,381 --> 00:01:44,123
-我一直牢记在心。
-Siempre lo tenía en mente.
+00:01:54,713 --> 00:01:56,501
+我认为我们有一点点优势在那里
 
 26
-00:01:44,383 --> 00:01:45,747
-他喜欢吃东西，喜欢新鲜的。
-A él le gusta comer, como recién.
+00:01:56,501 --> 00:01:57,305
+对你来说又一次半决赛 
 
 27
-00:01:46,769 --> 00:01:48,373
-现在，也是一样。
-En estos momentos, igual es.
+00:01:57,817 --> 00:01:58,801
+这次有什么不同?
 
 28
-00:01:50,319 --> 00:01:54,272
-我认为当我们到达时，到达这个阶段并不好，但是当我们到达时
-que nosotros creo que cuando llegamos, no es lindo llegar a esta instancia, pero cuando llegamos
+00:01:59,944 --> 00:02:02,367
+和以前一样,特别是离决赛更近了一点
 
 29
-00:01:54,693 --> 00:01:55,497
-还有一场半决赛等着你。
-Una semifinal más para vos.
+00:02:06,265 --> 00:02:11,821
+能再次打进决赛,这是这个团队从一开始就想要的 
 
 30
-00:01:55,517 --> 00:01:56,501
-这个有什么不同呢？
-¿Qué tiene esta de distinto?
+00:02:12,523 --> 00:02:15,969
+现在准备好了,就像准备另一场比赛一样 
 
 31
-00:01:59,944 --> 00:02:02,367
-啊，就像一切一样，特别是离我们更近一点……
-Ah, igual que todo, especial estar un poquito más cerca de...
+00:02:16,710 --> 00:02:19,456
+Leo,如果你面对Dibu,你会怎么罚点球?
 
 32
-00:02:06,265 --> 00:02:11,821
-能够再次打进决赛，这就是这支球队在一切开始时所想要的。
-de poder jugar otra vez la final, que era lo que quería este grupo cuando se inició todo.
+00:02:21,150 --> 00:02:23,757
+在训练中罚点球 
 
 33
-00:02:12,523 --> 00:02:15,969
-现在准备另一场比赛作为鼓励。
-y preparar ahora como animo preparando otra partida.
+00:02:23,857 --> 00:02:25,221
+结果如何?
 
 34
-00:02:16,710 --> 00:02:19,456
-里奥，如果有他在你面前，你会怎么给迪布判点球？
-Leo, si lo tuvieras enfrente, ¿cómo le baterías un penal a Dibu?
+00:02:25,481 --> 00:02:30,823
+在训练中罚点球和在比赛或决定性时刻罚点球是不一样的 
 
 35
-00:02:21,150 --> 00:02:23,757
-训练中的操场。
-El patiario en el entrenamiento.
+00:02:31,486 --> 00:02:33,637
+我们两个很了解对方,我们经常一起训练 
 
 36
-00:02:23,857 --> 00:02:25,221
-这个结果进展如何？
-¿Y cómo va ese resultado?
+00:02:35,466 --> 00:02:38,416
+这对我有帮助,对他也有帮助...
 
 37
-00:02:25,481 --> 00:02:30,823
-训练中的失败与比赛中或关键时刻的失败不同。
-No es lo mismo batir en un entrenamiento que en un partido o en un momento de definición.
+00:02:39,821 --> 00:02:43,788
+好吧,我告诉你,在关键时刻...
 
 38
-00:02:31,486 --> 00:02:33,637
-我们彼此都很了解，我们分享了很多。
-Nos conocemos mucho los dos, nos partíamos mucho.
+00:02:45,431 --> 00:02:46,813
+是不一样的,会是不同的 
 
 39
-00:02:35,466 --> 00:02:38,416
-这对我有帮助，也只会对他有帮助......
-me ayuda a mi, solo ayuda a el y...
+00:02:47,374 --> 00:02:50,980
+我想我们不会遇到这种情况,所以就让它留在心中吧 
 
 40
-00:02:39,821 --> 00:02:43,788
-好吧，我告诉过你，在某个时刻......
-Bueno, ya te digo, en un momento de por los puntos...
+00:02:56,215 --> 00:02:57,158
+经历了什么样的疯狂?
 
 41
-00:02:45,431 --> 00:02:46,813
-不一样，就会不一样。
-Es diferente, sería diferente.
+00:02:57,855 --> 00:03:01,421
+是的,确实如此,但是,我们预料到了,我们知道这不会是一场容易的比赛
 
 42
-00:02:47,374 --> 00:02:50,980
-我不认为我们会交叉，所以一切都还悬而未决。
-Ya creo que no nos vamos a cruzar así que quede en el aire.
+00:03:04,346 --> 00:03:09,114
+差距很大,因为我们知道我们期待什么,知道厄瓜多尔是什么样的球队 
 
 43
-00:02:51,440 --> 00:02:52,383
-他所受的痛苦是怎样的疯狂？
-¿Qué locura fue su sufrir?
+00:03:09,995 --> 00:03:14,367
+但是,幸运的是我们晋级了
 
 44
-00:02:57,855 --> 00:03:01,421
-是的，是的，但是嘿，预料之中的，我们知道这将是一场简单的比赛
-sí, verdad que sí, pero bueno, esperado, sabíamos que iba a ser un partido fácil
+00:03:14,408 --> 00:03:15,250
+身体状况如何?
 
 45
-00:03:04,346 --> 00:03:09,114
-有很多不同，因为我们知道我们在等待什么操作，它是什么类型的选择。
-de mucha diferencia, porque sabíamos para qué operación esperábamos, de la clase de selección que es.
+00:03:16,193 --> 00:03:21,411
+说实话我结束得不错,这是一场非常艰难的比赛 
 
 46
-00:03:09,995 --> 00:03:14,367
-厄瓜多尔，但幸运的是我们碰巧没有它。
-Ecuador, pero bueno, por suerte pasamos que no lo teníamos.
+00:03:22,286 --> 00:03:25,672
+很难带球,很难踢出自己的风格 
 
 47
-00:03:14,408 --> 00:03:15,250
-我们的身体状况如何？
-¿Cómo estamos físicamente?
+00:03:26,238 --> 00:03:30,913
+因为很多原因,对手,场地,很多因素 
 
 48
-00:03:16,193 --> 00:03:20,311
-事实是，结局很好，这是一场非常艰难的比赛。
-La verdad que termine bien, fue un partido muy duro.
+00:03:31,515 --> 00:03:32,943
+但我们达到了目的 
 
 49
-00:03:22,286 --> 00:03:24,272
-这使得带球、打球变得困难。
-Hacía difícil traer la pelota, jugar.
+00:03:34,297 --> 00:03:38,969
+在这场令人难以置信的点球大战之后
 
 50
-00:03:26,238 --> 00:03:30,913
-对于一切，对于对手，对于球场，对于很多事情。
-por todo mucho, por el rival, por la cancha, por muchas cosas.
+00:03:39,571 --> 00:03:45,489
+看到现在这支阿根廷队  曾经有人说 球队只需要你一个人 而现在你看到一支完整的球队
 
 51
-00:03:31,515 --> 00:03:32,943
-但我们失去了目的。
-pero perdemos la finalidad.
+00:03:46,909 --> 00:03:53,083
+这个团队一直在展现出色的表现,所以我认为这是好事 
 
 52
-00:03:35,397 --> 00:03:38,969
-令人难以置信的是，这么多的点球现在看到了当时的阿根廷......
-Increible tanta de penales y ver ahora esta Argentina en su momento se debía...
+00:03:53,645 --> 00:04:00,221
+一直在追求并实现目标,我很高兴Dibu给了我们帮助 
 
 53
-00:03:39,571 --> 00:03:44,764
-他只需要你，现在你看，你完全增加了做那种事情，尤其是他自己。
-que solo necesitaba a ti, y ahora ves, aumentas por completo haciendo ese tipo de cosas, sobre todo el mismo.
+00:04:00,682 --> 00:04:06,659
+我们期待他能在这个时刻发挥出自己的能力,就像刚才说的,在这种...
 
 54
-00:03:46,909 --> 00:03:53,083
-足球是最重要的事情，这支球队一直表现出伟大的东西，这就是为什么我认为足球是好的。
-El fútbol es lo más importante, este grupo viene mostrando grandes cosas, por eso considero que el fútbol es bueno.
+00:04:08,326 --> 00:04:10,557
+点球决胜负的方式,在这些时刻他变得
 
 55
-00:03:53,645 --> 00:04:00,221
-他一直在追寻自己，来看望他，并为他给我们的帮助感到高兴。
-Se viene persiguiendo y viene a visitarlo y feliz por la ayuda que nos dio a nosotros.
+00:04:10,999 --> 00:04:14,063
+更加出色,好吧,又一次 
 
 56
-00:04:00,682 --> 00:04:06,659
-我们期望他此刻能够过什么样的生活，就像我刚才说的那样，什么样的……
-Lo esperábamos a lo que es capaz de vivir en este momento, como decía recién, a lo que está este tipo de...
+00:04:14,083 --> 00:04:14,844
+你对自己的点球有什么看法?
 
 57
-00:04:08,326 --> 00:04:10,557
-的pintions，的opponials，它在任何时候都在完成。
-de pinciones, de oponiales, de todo momento se hace.
+00:04:14,864 --> 00:04:16,466
+因为你走过去的时候 最后一刻你改变了主意
 
 58
-00:04:10,999 --> 00:04:14,063
-已经很好了，今天没什么好说的了。
-Ya hace grande y bueno, hoy no hay nada para decir.
+00:04:17,335 --> 00:04:22,489
+是的,因为我最近一直在强力罚球,两侧射门 
 
 59
-00:04:14,083 --> 00:04:14,844
-对于你的监狱你有什么想说的吗？
-¿Y de tu penal qué decir?
+00:04:23,986 --> 00:04:27,292
+我和Dibu、Rulli谈过，当时在练习点球
 
 60
-00:04:14,864 --> 00:04:16,466
-因为你是最后走的，所以今天你改变了。
-Porque venías caminando los últimos, hoy lo cambiaste.
+00:04:29,270 --> 00:04:30,703
+我知道守门员...
 
 61
-00:04:17,335 --> 00:04:20,564
-是的，因为他正在用力踢最后一点，交叉。
-Sí, porque venía pateando lo último fuerte, cruzado.
+00:04:31,164 --> 00:04:35,050
+会猜测方向因为这也是他们会做的 
 
 62
-00:04:23,511 --> 00:04:26,817
-我正在和 Miu、Rulli、Asher、Patiano 谈论这件事......
-lo estoy hablando con Miu, con Rulli, Asher, Patiano...
+00:04:35,636 --> 00:04:39,691
+事实是我想轻触球,我只是轻轻碰了一下
 
 63
-00:04:28,420 --> 00:04:30,703
-没什么，我知道弓箭手...
-Y nada, sabía que el arquero...
+00:04:40,840 --> 00:04:46,324
+球飞得太高了 对没能进球感到沮丧 
 
 64
-00:04:31,164 --> 00:04:33,350
-它将会被播放，因为这也是必须要做的。
-se iba a jugar porque eso también tendría.
+00:04:47,036 --> 00:04:54,514
+但同时,除了紧张和沮丧之外,我知道迪布在那里,有迪布在让人感到安心
 
 65
-00:04:35,636 --> 00:04:39,691
-事实上，我想触碰她，我只是触碰她，不再触碰，因为她很坚强。
-Y la verdad es que la quise tocar, no más la toqué, no más, porque es fuerte.
+00:04:54,694 --> 00:04:55,696
+Dibu救了你,他救了你 
 
 66
-00:04:40,840 --> 00:04:44,249
-他起身很多次，但什么也没有，因为没有参加比赛而感到愤怒。
-Se levantó mucho, pero nada, bronca por no haber competido.
+00:04:56,268 --> 00:04:59,168
+是的，Dibu 和那些后来踢点球的人都表现得很棒
 
 67
-00:04:47,036 --> 00:04:52,952
-但与此同时，除了紧张和愤怒之外，我知道我活着的时候在那里过得很开心。
-pero al mismo tiempo, más allá de los nervios y la bronca, sabía que me disfrutaba ahí cuando estaba vivo.
+00:05:00,041 --> 00:05:07,794
+所有人都进了球，踢得非常好，我是唯一一个失误的
 
 68
-00:04:53,773 --> 00:04:54,514
-内心平静。
-Una tranquilidad.
-
-69
-00:04:54,694 --> 00:04:55,696
-迪布救了你，他救了你。
-Te salvó Dibu, te salvó.
-
-70
-00:05:00,041 --> 00:05:05,289
-事实上，我们做得非常好，技术人员也看到了这一点。
-que paquenamos muy bien, la verdad, que el técnico que ve y eso también.
-
-71
-00:05:06,391 --> 00:05:07,794
-重要的是，有信心...
-Es importante, con la confianza que...
-
-72
-00:05:09,958 --> 00:05:13,885
-我们要踢，因为我们知道 Ligo 总是最低的，不值得。
-que vamos a patear porque sabemos que el Ligo es siempre el mínimo no vale.
-
-73
-00:05:14,447 --> 00:05:15,311
-非常好非常好
-muy bien, muy bien
-
-74
-00:05:19,089 --> 00:05:20,673
-这是一场非常激烈的比赛。
-Es un partido muy agarrido.
-
-75
-00:05:20,693 --> 00:05:22,940
-比赛打得非常均匀。
-Los partidos fueron muy parejos.
-
-76
-00:05:25,908 --> 00:05:26,450
-迪沃传奇。
-Divo Legendal.
-
-77
-00:05:32,726 --> 00:05:33,854
-宪法的历史。
-historia de la Constitución.
-
-78
-00:05:36,169 --> 00:05:42,121
-今天他再次表明，船头有一只动物对我们来说非常重要，所以我们非常高兴。
-Hoy otra vez mostró que es muy importante para nosotros tener un animal en el arco así que estamos muy felices.
-
-79
-00:05:42,362 --> 00:05:42,788
-享受。
-a disfrutar.
-
-80
-00:05:42,808 --> 00:05:43,194
-谢谢。
-Gracias.
+00:05:08,408 --> 00:05:13,885
+我们信心十足地去踢 因为我们知道Dibu总是能扑出点球
 
